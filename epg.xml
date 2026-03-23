@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="radio10-epg">
+  <channel id="radio10.ar">
+    <display-name>Radio 10 AM 710</display-name>
+  </channel>
+  <programme start="20260323000000 -0300" stop="20260323040000 -0300" channel="radio10.ar">
+    <title lang="es">Mejor ahora (Jorge Pizarro)</title>
+    <desc lang="es">Jorge Pizarro te acompaña durante las madrugadas con información y la charla justa para terminar o empezar el día.</desc>
+  </programme>
+  <programme start="20260323040000 -0300" stop="20260323060000 -0300" channel="radio10.ar">
+    <title lang="es">Siempre Noticias (Marcelo Pérez Fantoni)</title>
+    <desc lang="es">Marcelo Pérez Fantoni hace Siempre Noticias, el panorama de noticias de Radio 10.</desc>
+  </programme>
+  <programme start="20260323060000 -0300" stop="20260323100000 -0300" channel="radio10.ar">
+    <title lang="es">Mañana Sylvestre (Gustavo Sylvestre)</title>
+    <desc lang="es">Un clásico de la radio, que combina información, entrevistas políticas y humor, con el estilo único de Gustavo Sylvestre.</desc>
+  </programme>
+  <programme start="20260323100000 -0300" stop="20260323130000 -0300" channel="radio10.ar">
+    <title lang="es">Todo es posible (Pablo Duggan)</title>
+    <desc lang="es">Una mirada actual, dinámica y conectada con el pulso de la realidad nacional.</desc>
+  </programme>
+  <programme start="20260323130000 -0300" stop="20260323150000 -0300" channel="radio10.ar">
+    <title lang="es">El Amor es Más Fuerte (Nancy Pazos)</title>
+    <desc lang="es">Un espacio para reflexionar sobre la actualidad, la sociedad y la política.</desc>
+  </programme>
+  <programme start="20260323150000 -0300" stop="20260323180000 -0300" channel="radio10.ar">
+    <title lang="es">No Se Desesperen (Fernando Borroni)</title>
+    <desc lang="es">El mejor análisis de la política actual, con el minuto a minuto de los temas del día.</desc>
+  </programme>
+  <programme start="20260323180000 -0300" stop="20260323200000 -0300" channel="radio10.ar">
+    <title lang="es">Un día perfecto (Juan Amorin)</title>
+    <desc lang="es">Un programa con la frescura necesaria para el regreso a casa.</desc>
+  </programme>
+  <programme start="20260323200000 -0300" stop="20260323220000 -0300" channel="radio10.ar">
+    <title lang="es">Feudalísima (Marcela Feudale)</title>
+    <desc lang="es">Combina actualidad política, humor, historia y música, junto a un gran equipo.</desc>
+  </programme>
+  <programme start="20260323220000 -0300" stop="20260324000000 -0300" channel="radio10.ar">
+    <title lang="es">Esto es todo amigos (Luciano Galende)</title>
+    <desc lang="es">El resumen perfecto para entender qué pasó durante el día.</desc>
+  </programme>
+  <programme start="20260324000000 -0300" stop="20260324040000 -0300" channel="radio10.ar">
+    <title lang="es">Mejor ahora (Jorge Pizarro)</title>
+    <desc lang="es">Jorge Pizarro te acompaña durante las madrugadas con información y la charla justa para terminar o empezar el día.</desc>
+  </programme>
+  <programme start="20260324040000 -0300" stop="20260324060000 -0300" channel="radio10.ar">
+    <title lang="es">Siempre Noticias (Marcelo Pérez Fantoni)</title>
+    <desc lang="es">Marcelo Pérez Fantoni hace Siempre Noticias, el panorama de noticias de Radio 10.</desc>
+  </programme>
+  <programme start="20260324060000 -0300" stop="20260324100000 -0300" channel="radio10.ar">
+    <title lang="es">Mañana Sylvestre (Gustavo Sylvestre)</title>
+    <desc lang="es">Un clásico de la radio, que combina información, entrevistas políticas y humor, con el estilo único de Gustavo Sylvestre.</desc>
+  </programme>
+  <programme start="20260324100000 -0300" stop="20260324130000 -0300" channel="radio10.ar">
+    <title lang="es">Todo es posible (Pablo Duggan)</title>
+    <desc lang="es">Una mirada actual, dinámica y conectada con el pulso de la realidad nacional.</desc>
+  </programme>
+  <programme start="20260324130000 -0300" stop="20260324150000 -0300" channel="radio10.ar">
+    <title lang="es">El Amor es Más Fuerte (Nancy Pazos)</title>
+    <desc lang="es">Un espacio para reflexionar sobre la actualidad, la sociedad y la política.</desc>
+  </programme>
+  <programme start="20260324150000 -0300" stop="20260324180000 -0300" channel="radio10.ar">
+    <title lang="es">No Se Desesperen (Fernando Borroni)</title>
+    <desc lang="es">El mejor análisis de la política actual, con el minuto a minuto de los temas del día.</desc>
+  </programme>
+  <programme start="20260324180000 -0300" stop="20260324200000 -0300" channel="radio10.ar">
+    <title lang="es">Un día perfecto (Juan Amorin)</title>
+    <desc lang="es">Un programa con la frescura necesaria para el regreso a casa.</desc>
+  </programme>
+  <programme start="20260324200000 -0300" stop="20260324220000 -0300" channel="radio10.ar">
+    <title lang="es">Feudalísima (Marcela Feudale)</title>
+    <desc lang="es">Combina actualidad política, humor, historia y música, junto a un gran equipo.</desc>
+  </programme>
+  <programme start="20260324220000 -0300" stop="20260325000000 -0300" channel="radio10.ar">
+    <title lang="es">Esto es todo amigos (Luciano Galende)</title>
+    <desc lang="es">El resumen perfecto para entender qué pasó durante el día.</desc>
+  </programme>
+  <programme start="20260325000000 -0300" stop="20260325040000 -0300" channel="radio10.ar">
+    <title lang="es">Mejor ahora (Jorge Pizarro)</title>
+    <desc lang="es">Jorge Pizarro te acompaña durante las madrugadas con información y la charla justa para terminar o empezar el día.</desc>
+  </programme>
+  <programme start="20260325040000 -0300" stop="20260325060000 -0300" channel="radio10.ar">
+    <title lang="es">Siempre Noticias (Marcelo Pérez Fantoni)</title>
+    <desc lang="es">Marcelo Pérez Fantoni hace Siempre Noticias, el panorama de noticias de Radio 10.</desc>
+  </programme>
+  <programme start="20260325060000 -0300" stop="20260325100000 -0300" channel="radio10.ar">
+    <title lang="es">Mañana Sylvestre (Gustavo Sylvestre)</title>
+    <desc lang="es">Un clásico de la radio, que combina información, entrevistas políticas y humor, con el estilo único de Gustavo Sylvestre.</desc>
+  </programme>
+  <programme start="20260325100000 -0300" stop="20260325130000 -0300" channel="radio10.ar">
+    <title lang="es">Todo es posible (Pablo Duggan)</title>
+    <desc lang="es">Una mirada actual, dinámica y conectada con el pulso de la realidad nacional.</desc>
+  </programme>
+  <programme start="20260325130000 -0300" stop="20260325150000 -0300" channel="radio10.ar">
+    <title lang="es">El Amor es Más Fuerte (Nancy Pazos)</title>
+    <desc lang="es">Un espacio para reflexionar sobre la actualidad, la sociedad y la política.</desc>
+  </programme>
+  <programme start="20260325150000 -0300" stop="20260325180000 -0300" channel="radio10.ar">
+    <title lang="es">No Se Desesperen (Fernando Borroni)</title>
+    <desc lang="es">El mejor análisis de la política actual, con el minuto a minuto de los temas del día.</desc>
+  </programme>
+  <programme start="20260325180000 -0300" stop="20260325200000 -0300" channel="radio10.ar">
+    <title lang="es">Un día perfecto (Juan Amorin)</title>
+    <desc lang="es">Un programa con la frescura necesaria para el regreso a casa.</desc>
+  </programme>
+  <programme start="20260325200000 -0300" stop="20260325220000 -0300" channel="radio10.ar">
+    <title lang="es">Feudalísima (Marcela Feudale)</title>
+    <desc lang="es">Combina actualidad política, humor, historia y música, junto a un gran equipo.</desc>
+  </programme>
+  <programme start="20260325220000 -0300" stop="20260326000000 -0300" channel="radio10.ar">
+    <title lang="es">Esto es todo amigos (Luciano Galende)</title>
+    <desc lang="es">El resumen perfecto para entender qué pasó durante el día.</desc>
+  </programme>
+  <programme start="20260326000000 -0300" stop="20260326040000 -0300" channel="radio10.ar">
+    <title lang="es">Mejor ahora (Jorge Pizarro)</title>
+    <desc lang="es">Jorge Pizarro te acompaña durante las madrugadas con información y la charla justa para terminar o empezar el día.</desc>
+  </programme>
+  <programme start="20260326040000 -0300" stop="20260326060000 -0300" channel="radio10.ar">
+    <title lang="es">Siempre Noticias (Marcelo Pérez Fantoni)</title>
+    <desc lang="es">Marcelo Pérez Fantoni hace Siempre Noticias, el panorama de noticias de Radio 10.</desc>
+  </programme>
+  <programme start="20260326060000 -0300" stop="20260326100000 -0300" channel="radio10.ar">
+    <title lang="es">Mañana Sylvestre (Gustavo Sylvestre)</title>
+    <desc lang="es">Un clásico de la radio, que combina información, entrevistas políticas y humor, con el estilo único de Gustavo Sylvestre.</desc>
+  </programme>
+  <programme start="20260326100000 -0300" stop="20260326130000 -0300" channel="radio10.ar">
+    <title lang="es">Todo es posible (Pablo Duggan)</title>
+    <desc lang="es">Una mirada actual, dinámica y conectada con el pulso de la realidad nacional.</desc>
+  </programme>
+  <programme start="20260326130000 -0300" stop="20260326150000 -0300" channel="radio10.ar">
+    <title lang="es">El Amor es Más Fuerte (Nancy Pazos)</title>
+    <desc lang="es">Un espacio para reflexionar sobre la actualidad, la sociedad y la política.</desc>
+  </programme>
+  <programme start="20260326150000 -0300" stop="20260326180000 -0300" channel="radio10.ar">
+    <title lang="es">No Se Desesperen (Fernando Borroni)</title>
+    <desc lang="es">El mejor análisis de la política actual, con el minuto a minuto de los temas del día.</desc>
+  </programme>
+  <programme start="20260326180000 -0300" stop="20260326200000 -0300" channel="radio10.ar">
+    <title lang="es">Un día perfecto (Juan Amorin)</title>
+    <desc lang="es">Un programa con la frescura necesaria para el regreso a casa.</desc>
+  </programme>
+  <programme start="20260326200000 -0300" stop="20260326220000 -0300" channel="radio10.ar">
+    <title lang="es">Feudalísima (Marcela Feudale)</title>
+    <desc lang="es">Combina actualidad política, humor, historia y música, junto a un gran equipo.</desc>
+  </programme>
+  <programme start="20260326220000 -0300" stop="20260327000000 -0300" channel="radio10.ar">
+    <title lang="es">Esto es todo amigos (Luciano Galende)</title>
+    <desc lang="es">El resumen perfecto para entender qué pasó durante el día.</desc>
+  </programme>
+  <programme start="20260327000000 -0300" stop="20260327040000 -0300" channel="radio10.ar">
+    <title lang="es">Mejor ahora (Jorge Pizarro)</title>
+    <desc lang="es">Jorge Pizarro te acompaña durante las madrugadas con información y la charla justa para terminar o empezar el día.</desc>
+  </programme>
+  <programme start="20260327040000 -0300" stop="20260327060000 -0300" channel="radio10.ar">
+    <title lang="es">Siempre Noticias (Marcelo Pérez Fantoni)</title>
+    <desc lang="es">Marcelo Pérez Fantoni hace Siempre Noticias, el panorama de noticias de Radio 10.</desc>
+  </programme>
+  <programme start="20260327060000 -0300" stop="20260327100000 -0300" channel="radio10.ar">
+    <title lang="es">Mañana Sylvestre (Gustavo Sylvestre)</title>
+    <desc lang="es">Un clásico de la radio, que combina información, entrevistas políticas y humor, con el estilo único de Gustavo Sylvestre.</desc>
+  </programme>
+  <programme start="20260327100000 -0300" stop="20260327130000 -0300" channel="radio10.ar">
+    <title lang="es">Todo es posible (Pablo Duggan)</title>
+    <desc lang="es">Una mirada actual, dinámica y conectada con el pulso de la realidad nacional.</desc>
+  </programme>
+  <programme start="20260327130000 -0300" stop="20260327150000 -0300" channel="radio10.ar">
+    <title lang="es">El Amor es Más Fuerte (Nancy Pazos)</title>
+    <desc lang="es">Un espacio para reflexionar sobre la actualidad, la sociedad y la política.</desc>
+  </programme>
+  <programme start="20260327150000 -0300" stop="20260327180000 -0300" channel="radio10.ar">
+    <title lang="es">No Se Desesperen (Fernando Borroni)</title>
+    <desc lang="es">El mejor análisis de la política actual, con el minuto a minuto de los temas del día.</desc>
+  </programme>
+  <programme start="20260327180000 -0300" stop="20260327200000 -0300" channel="radio10.ar">
+    <title lang="es">Un día perfecto (Juan Amorin)</title>
+    <desc lang="es">Un programa con la frescura necesaria para el regreso a casa.</desc>
+  </programme>
+  <programme start="20260327200000 -0300" stop="20260327220000 -0300" channel="radio10.ar">
+    <title lang="es">TM - Todo Magallanes (Damián "Árabe" Ramil)</title>
+    <desc lang="es">El humor político se hace presente para hacernos reír de todo lo que pasó en la semana.</desc>
+  </programme>
+  <programme start="20260327220000 -0300" stop="20260328000000 -0300" channel="radio10.ar">
+    <title lang="es">Esto es todo amigos (Luciano Galende)</title>
+    <desc lang="es">El resumen perfecto para entender qué pasó durante el día.</desc>
+  </programme>
+  <programme start="20260328000000 -0300" stop="20260328020000 -0300" channel="radio10.ar">
+    <title lang="es">La medianoche (Carlos Polimeni)</title>
+    <desc lang="es">Cultura, música, reflexiones y una mirada crítica de la realidad.</desc>
+  </programme>
+  <programme start="20260328020000 -0300" stop="20260328060000 -0300" channel="radio10.ar">
+    <title lang="es">Despiertos (Sergio Marino)</title>
+    <desc lang="es">Las madrugadas del fin de semana las pasas con Sergio Marino en la 10 de Argentina.</desc>
+  </programme>
+  <programme start="20260328060000 -0300" stop="20260328070000 -0300" channel="radio10.ar">
+    <title lang="es">Bien Levantado (Antonio Novas)</title>
+  </programme>
+  <programme start="20260328070000 -0300" stop="20260328100000 -0300" channel="radio10.ar">
+    <title lang="es">Secreto De Sumario (Darío Villarruel)</title>
+  </programme>
+  <programme start="20260328100000 -0300" stop="20260328120000 -0300" channel="radio10.ar">
+    <title lang="es">Conflicto de Intereses (Ariel Zak)</title>
+  </programme>
+  <programme start="20260328120000 -0300" stop="20260328150000 -0300" channel="radio10.ar">
+    <title lang="es">Fenómeno barrial (Juan Di Natale)</title>
+  </programme>
+  <programme start="20260328150000 -0300" stop="20260328180000 -0300" channel="radio10.ar">
+    <title lang="es">Vida de sábado (Pablo Ladaga y Gabriela Radice)</title>
+  </programme>
+  <programme start="20260328180000 -0300" stop="20260328210000 -0300" channel="radio10.ar">
+    <title lang="es">Las Palabras y las Cosas (Marcos Cittadini)</title>
+  </programme>
+  <programme start="20260328210000 -0300" stop="20260329000000 -0300" channel="radio10.ar">
+    <title lang="es">Que noche Teté (Teté Coustarot)</title>
+  </programme>
+  <programme start="20260329000000 -0300" stop="20260329020000 -0300" channel="radio10.ar">
+    <title lang="es">La medianoche (Carlos Polimeni)</title>
+    <desc lang="es">Cultura, música, reflexiones y una mirada crítica de la realidad.</desc>
+  </programme>
+  <programme start="20260329020000 -0300" stop="20260329060000 -0300" channel="radio10.ar">
+    <title lang="es">Despiertos (Sergio Marino)</title>
+    <desc lang="es">Las madrugadas del fin de semana las pasas con Sergio Marino en la 10 de Argentina.</desc>
+  </programme>
+  <programme start="20260329060000 -0300" stop="20260329070000 -0300" channel="radio10.ar">
+    <title lang="es">Bien Levantado (Antonio Novas)</title>
+  </programme>
+  <programme start="20260329070000 -0300" stop="20260329100000 -0300" channel="radio10.ar">
+    <title lang="es">Secreto De Sumario (Darío Villarruel)</title>
+  </programme>
+  <programme start="20260329100000 -0300" stop="20260329120000 -0300" channel="radio10.ar">
+    <title lang="es">Reloj de Arena (Liliana López Foresi)</title>
+  </programme>
+  <programme start="20260329120000 -0300" stop="20260329140000 -0300" channel="radio10.ar">
+    <title lang="es">Con la Nuestra (Lucas Mella)</title>
+  </programme>
+  <programme start="20260329140000 -0300" stop="20260329170000 -0300" channel="radio10.ar">
+    <title lang="es">Esquina de Radio (Sofia Caram)</title>
+  </programme>
+  <programme start="20260329170000 -0300" stop="20260329190000 -0300" channel="radio10.ar">
+    <title lang="es">Alguien tiene que ceder (Rosario Ayerdi)</title>
+  </programme>
+  <programme start="20260329190000 -0300" stop="20260329220000 -0300" channel="radio10.ar">
+    <title lang="es">Rayos X (Tuny Kollmann)</title>
+  </programme>
+  <programme start="20260329220000 -0300" stop="20260330000000 -0300" channel="radio10.ar">
+    <title lang="es">Un domingo de aquellos (Nora Acosta y Marcelo Etcheverry)</title>
+  </programme>
+</tv>
