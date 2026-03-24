@@ -15,7 +15,6 @@ CHANNELS = [
         "name": "Radio Rivadavia AM 630",
         "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1982230184&single=true&output=csv",
     },
-
     {
         "id":   "mitre.ar",
         "name": "Radio Mitre AM 590",
