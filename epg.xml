@@ -34,6 +34,9 @@
   <channel id="dreiko.ar">
     <display-name>Dreiko</display-name>
   </channel>
+  <channel id="locomotion1.ar">
+    <display-name>Locomotion 1</display-name>
+  </channel>
   <programme start="20260323000000 -0300" stop="20260323040000 -0300" channel="radio10.ar">
     <title lang="es">Mejor ahora (Jorge Pizarro)</title>
     <desc lang="es">Jorge Pizarro te acompaña durante las madrugadas con información y la charla justa para terminar o empezar el día.</desc>
@@ -6694,5 +6697,973 @@
   <programme start="20260329215400 -0300" stop="20260330000000 -0300" channel="dreiko.ar">
     <title lang="es">Fuera de aire</title>
     <desc lang="es">Fuera de aire</desc>
+  </programme>
+  <programme start="20260323000000 -0300" stop="20260323003000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II que está poblado por clones de los seis hombres que fueron abandonados allí 300 años antes. Las únicas hembras son robots llamados "marionetas", que sirven como trabajadoras y soldados. Lima, Cereza y Zarzamora poseen emociones humanas.</desc>
+  </programme>
+  <programme start="20260323003000 -0300" stop="20260323010000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki es una estudiante con poderes para vislumbrar el futuro mediante cartas del tarot.</desc>
+  </programme>
+  <programme start="20260323010000 -0300" stop="20260323013000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken de la Rosa pilotea el robot Baron Rojo en su camino a convertirse en campeón.</desc>
+  </programme>
+  <programme start="20260323013000 -0300" stop="20260323020000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Aventuras del ladrón Lupin III y su persecución por el inspector Zenigata.</desc>
+  </programme>
+  <programme start="20260323020000 -0300" stop="20260323023000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  </programme>
+  <programme start="20260323023000 -0300" stop="20260323030000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  </programme>
+  <programme start="20260323030000 -0300" stop="20260323033000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  </programme>
+  <programme start="20260323033000 -0300" stop="20260323040000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  </programme>
+  <programme start="20260323040000 -0300" stop="20260323043000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  </programme>
+  <programme start="20260323043000 -0300" stop="20260323050000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  </programme>
+  <programme start="20260323050000 -0300" stop="20260323053000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  </programme>
+  <programme start="20260323053000 -0300" stop="20260323060000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  </programme>
+  <programme start="20260323060000 -0300" stop="20260323063000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  </programme>
+  <programme start="20260323063000 -0300" stop="20260323070000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  </programme>
+  <programme start="20260323070000 -0300" stop="20260323073000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  </programme>
+  <programme start="20260323073000 -0300" stop="20260323080000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  </programme>
+  <programme start="20260323080000 -0300" stop="20260323083000 -0300" channel="locomotion1.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  </programme>
+  <programme start="20260323083000 -0300" stop="20260323090000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Defensores De La Tierra</title>
+    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  </programme>
+  <programme start="20260323090000 -0300" stop="20260323093000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  </programme>
+  <programme start="20260323093000 -0300" stop="20260323100000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  </programme>
+  <programme start="20260323100000 -0300" stop="20260323103000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  </programme>
+  <programme start="20260323103000 -0300" stop="20260323110000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  </programme>
+  <programme start="20260323110000 -0300" stop="20260323113000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  </programme>
+  <programme start="20260323113000 -0300" stop="20260323120000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  </programme>
+  <programme start="20260323120000 -0300" stop="20260323123000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  </programme>
+  <programme start="20260323123000 -0300" stop="20260323130000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  </programme>
+  <programme start="20260323130000 -0300" stop="20260323133000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  </programme>
+  <programme start="20260323133000 -0300" stop="20260323140000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  </programme>
+  <programme start="20260323140000 -0300" stop="20260323143000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  </programme>
+  <programme start="20260323143000 -0300" stop="20260323150000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  </programme>
+  <programme start="20260323150000 -0300" stop="20260323153000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  </programme>
+  <programme start="20260323153000 -0300" stop="20260323160000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  </programme>
+  <programme start="20260323160000 -0300" stop="20260323163000 -0300" channel="locomotion1.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  </programme>
+  <programme start="20260323163000 -0300" stop="20260323170000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Defensores De La Tierra</title>
+    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  </programme>
+  <programme start="20260323170000 -0300" stop="20260323173000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  </programme>
+  <programme start="20260323173000 -0300" stop="20260323180000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  </programme>
+  <programme start="20260323180000 -0300" stop="20260323183000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas.</desc>
+  </programme>
+  <programme start="20260323183000 -0300" stop="20260323190000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji combate Ángeles en un robot biológico.</desc>
+  </programme>
+  <programme start="20260323190000 -0300" stop="20260323193000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Grupo atrapado en mundo mágico busca regresar a casa.</desc>
+  </programme>
+  <programme start="20260323193000 -0300" stop="20260323200000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Mundo dominado por magia oscura y caos imperial.</desc>
+  </programme>
+  <programme start="20260323200000 -0300" stop="20260323203000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Boomers fuera de control amenazan la ciudad.</desc>
+  </programme>
+  <programme start="20260323203000 -0300" stop="20260323210000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">Robots con emociones en un mundo de clones.</desc>
+  </programme>
+  <programme start="20260323210000 -0300" stop="20260323213000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Aventuras con poderes psíquicos y mundos paralelos.</desc>
+  </programme>
+  <programme start="20260323213000 -0300" stop="20260323220000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji enfrenta criaturas Aragami.</desc>
+  </programme>
+  <programme start="20260323220000 -0300" stop="20260323223000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Cazarrecompensas espaciales en misiones peligrosas.</desc>
+  </programme>
+  <programme start="20260323223000 -0300" stop="20260323230000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Artes marciales y transformaciones absurdas.</desc>
+  </programme>
+  <programme start="20260323230000 -0300" stop="20260323233000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Humor ácido de un pato caótico.</desc>
+  </programme>
+  <programme start="20260323233000 -0300" stop="20260324000000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Sátira social con niños irreverentes.</desc>
+  </programme>
+  <programme start="20260324000000 -0300" stop="20260324003000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II que está poblado por clones de los seis hombres que fueron abandonados allí 300 años antes. Las únicas hembras son robots llamados "marionetas", que sirven como trabajadoras y soldados. Lima, Cereza y Zarzamora poseen emociones humanas.</desc>
+  </programme>
+  <programme start="20260324003000 -0300" stop="20260324010000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki es una estudiante con poderes para vislumbrar el futuro mediante cartas del tarot.</desc>
+  </programme>
+  <programme start="20260324010000 -0300" stop="20260324013000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken de la Rosa pilotea el robot Baron Rojo en su camino a convertirse en campeón.</desc>
+  </programme>
+  <programme start="20260324013000 -0300" stop="20260324020000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Aventuras del ladrón Lupin III y su persecución por el inspector Zenigata.</desc>
+  </programme>
+  <programme start="20260324020000 -0300" stop="20260324023000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  </programme>
+  <programme start="20260324023000 -0300" stop="20260324030000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  </programme>
+  <programme start="20260324030000 -0300" stop="20260324033000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  </programme>
+  <programme start="20260324033000 -0300" stop="20260324040000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  </programme>
+  <programme start="20260324040000 -0300" stop="20260324043000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  </programme>
+  <programme start="20260324043000 -0300" stop="20260324050000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  </programme>
+  <programme start="20260324050000 -0300" stop="20260324053000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  </programme>
+  <programme start="20260324053000 -0300" stop="20260324060000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  </programme>
+  <programme start="20260324060000 -0300" stop="20260324063000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  </programme>
+  <programme start="20260324063000 -0300" stop="20260324070000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  </programme>
+  <programme start="20260324070000 -0300" stop="20260324073000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  </programme>
+  <programme start="20260324073000 -0300" stop="20260324080000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  </programme>
+  <programme start="20260324080000 -0300" stop="20260324083000 -0300" channel="locomotion1.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  </programme>
+  <programme start="20260324083000 -0300" stop="20260324090000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Defensores De La Tierra</title>
+    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  </programme>
+  <programme start="20260324090000 -0300" stop="20260324093000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  </programme>
+  <programme start="20260324093000 -0300" stop="20260324100000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  </programme>
+  <programme start="20260324100000 -0300" stop="20260324103000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  </programme>
+  <programme start="20260324103000 -0300" stop="20260324110000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  </programme>
+  <programme start="20260324110000 -0300" stop="20260324113000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  </programme>
+  <programme start="20260324113000 -0300" stop="20260324120000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  </programme>
+  <programme start="20260324120000 -0300" stop="20260324123000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  </programme>
+  <programme start="20260324123000 -0300" stop="20260324130000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  </programme>
+  <programme start="20260324130000 -0300" stop="20260324133000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  </programme>
+  <programme start="20260324133000 -0300" stop="20260324140000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  </programme>
+  <programme start="20260324140000 -0300" stop="20260324143000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  </programme>
+  <programme start="20260324143000 -0300" stop="20260324150000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  </programme>
+  <programme start="20260324150000 -0300" stop="20260324153000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  </programme>
+  <programme start="20260324153000 -0300" stop="20260324160000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  </programme>
+  <programme start="20260324160000 -0300" stop="20260324163000 -0300" channel="locomotion1.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  </programme>
+  <programme start="20260324163000 -0300" stop="20260324170000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Defensores De La Tierra</title>
+    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  </programme>
+  <programme start="20260324170000 -0300" stop="20260324173000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  </programme>
+  <programme start="20260324173000 -0300" stop="20260324180000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  </programme>
+  <programme start="20260324180000 -0300" stop="20260324183000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas.</desc>
+  </programme>
+  <programme start="20260324183000 -0300" stop="20260324190000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji combate Ángeles en un robot biológico.</desc>
+  </programme>
+  <programme start="20260324190000 -0300" stop="20260324193000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Grupo atrapado en mundo mágico busca regresar a casa.</desc>
+  </programme>
+  <programme start="20260324193000 -0300" stop="20260324200000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Mundo dominado por magia oscura y caos imperial.</desc>
+  </programme>
+  <programme start="20260324200000 -0300" stop="20260324203000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Boomers fuera de control amenazan la ciudad.</desc>
+  </programme>
+  <programme start="20260324203000 -0300" stop="20260324210000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">Robots con emociones en un mundo de clones.</desc>
+  </programme>
+  <programme start="20260324210000 -0300" stop="20260324213000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Aventuras con poderes psíquicos y mundos paralelos.</desc>
+  </programme>
+  <programme start="20260324213000 -0300" stop="20260324220000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji enfrenta criaturas Aragami.</desc>
+  </programme>
+  <programme start="20260324220000 -0300" stop="20260324223000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Cazarrecompensas espaciales en misiones peligrosas.</desc>
+  </programme>
+  <programme start="20260324223000 -0300" stop="20260324230000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Artes marciales y transformaciones absurdas.</desc>
+  </programme>
+  <programme start="20260324230000 -0300" stop="20260324233000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Humor ácido de un pato caótico.</desc>
+  </programme>
+  <programme start="20260324233000 -0300" stop="20260325000000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Sátira social con niños irreverentes.</desc>
+  </programme>
+  <programme start="20260325000000 -0300" stop="20260325003000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II que está poblado por clones de los seis hombres que fueron abandonados allí 300 años antes. Las únicas hembras son robots llamados "marionetas", que sirven como trabajadoras y soldados. Lima, Cereza y Zarzamora poseen emociones humanas.</desc>
+  </programme>
+  <programme start="20260325003000 -0300" stop="20260325010000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki es una estudiante con poderes para vislumbrar el futuro mediante cartas del tarot.</desc>
+  </programme>
+  <programme start="20260325010000 -0300" stop="20260325013000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken de la Rosa pilotea el robot Baron Rojo en su camino a convertirse en campeón.</desc>
+  </programme>
+  <programme start="20260325013000 -0300" stop="20260325020000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Aventuras del ladrón Lupin III y su persecución por el inspector Zenigata.</desc>
+  </programme>
+  <programme start="20260325020000 -0300" stop="20260325023000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  </programme>
+  <programme start="20260325023000 -0300" stop="20260325030000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  </programme>
+  <programme start="20260325030000 -0300" stop="20260325033000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  </programme>
+  <programme start="20260325033000 -0300" stop="20260325040000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  </programme>
+  <programme start="20260325040000 -0300" stop="20260325043000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  </programme>
+  <programme start="20260325043000 -0300" stop="20260325050000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  </programme>
+  <programme start="20260325050000 -0300" stop="20260325053000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  </programme>
+  <programme start="20260325053000 -0300" stop="20260325060000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  </programme>
+  <programme start="20260325060000 -0300" stop="20260325063000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  </programme>
+  <programme start="20260325063000 -0300" stop="20260325070000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  </programme>
+  <programme start="20260325070000 -0300" stop="20260325073000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  </programme>
+  <programme start="20260325073000 -0300" stop="20260325080000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  </programme>
+  <programme start="20260325080000 -0300" stop="20260325083000 -0300" channel="locomotion1.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  </programme>
+  <programme start="20260325083000 -0300" stop="20260325090000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Defensores De La Tierra</title>
+    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  </programme>
+  <programme start="20260325090000 -0300" stop="20260325093000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  </programme>
+  <programme start="20260325093000 -0300" stop="20260325100000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  </programme>
+  <programme start="20260325100000 -0300" stop="20260325103000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  </programme>
+  <programme start="20260325103000 -0300" stop="20260325110000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  </programme>
+  <programme start="20260325110000 -0300" stop="20260325113000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  </programme>
+  <programme start="20260325113000 -0300" stop="20260325120000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  </programme>
+  <programme start="20260325120000 -0300" stop="20260325123000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  </programme>
+  <programme start="20260325123000 -0300" stop="20260325130000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  </programme>
+  <programme start="20260325130000 -0300" stop="20260325133000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  </programme>
+  <programme start="20260325133000 -0300" stop="20260325140000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  </programme>
+  <programme start="20260325140000 -0300" stop="20260325143000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  </programme>
+  <programme start="20260325143000 -0300" stop="20260325150000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  </programme>
+  <programme start="20260325150000 -0300" stop="20260325153000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  </programme>
+  <programme start="20260325153000 -0300" stop="20260325160000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  </programme>
+  <programme start="20260325160000 -0300" stop="20260325163000 -0300" channel="locomotion1.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  </programme>
+  <programme start="20260325163000 -0300" stop="20260325170000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Defensores De La Tierra</title>
+    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  </programme>
+  <programme start="20260325170000 -0300" stop="20260325173000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  </programme>
+  <programme start="20260325173000 -0300" stop="20260325180000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  </programme>
+  <programme start="20260325180000 -0300" stop="20260325183000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas.</desc>
+  </programme>
+  <programme start="20260325183000 -0300" stop="20260325190000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji combate Ángeles en un robot biológico.</desc>
+  </programme>
+  <programme start="20260325190000 -0300" stop="20260325193000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Grupo atrapado en mundo mágico busca regresar a casa.</desc>
+  </programme>
+  <programme start="20260325193000 -0300" stop="20260325200000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Mundo dominado por magia oscura y caos imperial.</desc>
+  </programme>
+  <programme start="20260325200000 -0300" stop="20260325203000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Boomers fuera de control amenazan la ciudad.</desc>
+  </programme>
+  <programme start="20260325203000 -0300" stop="20260325210000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">Robots con emociones en un mundo de clones.</desc>
+  </programme>
+  <programme start="20260325210000 -0300" stop="20260325213000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Aventuras con poderes psíquicos y mundos paralelos.</desc>
+  </programme>
+  <programme start="20260325213000 -0300" stop="20260325220000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji enfrenta criaturas Aragami.</desc>
+  </programme>
+  <programme start="20260325220000 -0300" stop="20260325223000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Cazarrecompensas espaciales en misiones peligrosas.</desc>
+  </programme>
+  <programme start="20260325223000 -0300" stop="20260325230000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Artes marciales y transformaciones absurdas.</desc>
+  </programme>
+  <programme start="20260325230000 -0300" stop="20260325233000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Humor ácido de un pato caótico.</desc>
+  </programme>
+  <programme start="20260325233000 -0300" stop="20260326000000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Sátira social con niños irreverentes.</desc>
+  </programme>
+  <programme start="20260326000000 -0300" stop="20260326003000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II que está poblado por clones de los seis hombres que fueron abandonados allí 300 años antes. Las únicas hembras son robots llamados "marionetas", que sirven como trabajadoras y soldados. Lima, Cereza y Zarzamora poseen emociones humanas.</desc>
+  </programme>
+  <programme start="20260326003000 -0300" stop="20260326010000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki es una estudiante con poderes para vislumbrar el futuro mediante cartas del tarot.</desc>
+  </programme>
+  <programme start="20260326010000 -0300" stop="20260326013000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken de la Rosa pilotea el robot Baron Rojo en su camino a convertirse en campeón.</desc>
+  </programme>
+  <programme start="20260326013000 -0300" stop="20260326020000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Aventuras del ladrón Lupin III y su persecución por el inspector Zenigata.</desc>
+  </programme>
+  <programme start="20260326020000 -0300" stop="20260326023000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  </programme>
+  <programme start="20260326023000 -0300" stop="20260326030000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  </programme>
+  <programme start="20260326030000 -0300" stop="20260326033000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  </programme>
+  <programme start="20260326033000 -0300" stop="20260326040000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  </programme>
+  <programme start="20260326040000 -0300" stop="20260326043000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  </programme>
+  <programme start="20260326043000 -0300" stop="20260326050000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  </programme>
+  <programme start="20260326050000 -0300" stop="20260326053000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  </programme>
+  <programme start="20260326053000 -0300" stop="20260326060000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  </programme>
+  <programme start="20260326060000 -0300" stop="20260326063000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  </programme>
+  <programme start="20260326063000 -0300" stop="20260326070000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  </programme>
+  <programme start="20260326070000 -0300" stop="20260326073000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  </programme>
+  <programme start="20260326073000 -0300" stop="20260326080000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  </programme>
+  <programme start="20260326080000 -0300" stop="20260326083000 -0300" channel="locomotion1.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  </programme>
+  <programme start="20260326083000 -0300" stop="20260326090000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Defensores De La Tierra</title>
+    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  </programme>
+  <programme start="20260326090000 -0300" stop="20260326093000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  </programme>
+  <programme start="20260326093000 -0300" stop="20260326100000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  </programme>
+  <programme start="20260326100000 -0300" stop="20260326103000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  </programme>
+  <programme start="20260326103000 -0300" stop="20260326110000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  </programme>
+  <programme start="20260326110000 -0300" stop="20260326113000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  </programme>
+  <programme start="20260326113000 -0300" stop="20260326120000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  </programme>
+  <programme start="20260326120000 -0300" stop="20260326123000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  </programme>
+  <programme start="20260326123000 -0300" stop="20260326130000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  </programme>
+  <programme start="20260326130000 -0300" stop="20260326133000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  </programme>
+  <programme start="20260326133000 -0300" stop="20260326140000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  </programme>
+  <programme start="20260326140000 -0300" stop="20260326143000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  </programme>
+  <programme start="20260326143000 -0300" stop="20260326150000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  </programme>
+  <programme start="20260326150000 -0300" stop="20260326153000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  </programme>
+  <programme start="20260326153000 -0300" stop="20260326160000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  </programme>
+  <programme start="20260326160000 -0300" stop="20260326163000 -0300" channel="locomotion1.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  </programme>
+  <programme start="20260326163000 -0300" stop="20260326170000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Defensores De La Tierra</title>
+    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  </programme>
+  <programme start="20260326170000 -0300" stop="20260326173000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  </programme>
+  <programme start="20260326173000 -0300" stop="20260326180000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  </programme>
+  <programme start="20260326180000 -0300" stop="20260326183000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas.</desc>
+  </programme>
+  <programme start="20260326183000 -0300" stop="20260326190000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji combate Ángeles en un robot biológico.</desc>
+  </programme>
+  <programme start="20260326190000 -0300" stop="20260326193000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Grupo atrapado en mundo mágico busca regresar a casa.</desc>
+  </programme>
+  <programme start="20260326193000 -0300" stop="20260326200000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Mundo dominado por magia oscura y caos imperial.</desc>
+  </programme>
+  <programme start="20260326200000 -0300" stop="20260326203000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Boomers fuera de control amenazan la ciudad.</desc>
+  </programme>
+  <programme start="20260326203000 -0300" stop="20260326210000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">Robots con emociones en un mundo de clones.</desc>
+  </programme>
+  <programme start="20260326210000 -0300" stop="20260326213000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Aventuras con poderes psíquicos y mundos paralelos.</desc>
+  </programme>
+  <programme start="20260326213000 -0300" stop="20260326220000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji enfrenta criaturas Aragami.</desc>
+  </programme>
+  <programme start="20260326220000 -0300" stop="20260326223000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Cazarrecompensas espaciales en misiones peligrosas.</desc>
+  </programme>
+  <programme start="20260326223000 -0300" stop="20260326230000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Artes marciales y transformaciones absurdas.</desc>
+  </programme>
+  <programme start="20260326230000 -0300" stop="20260326233000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Humor ácido de un pato caótico.</desc>
+  </programme>
+  <programme start="20260326233000 -0300" stop="20260327000000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Sátira social con niños irreverentes.</desc>
+  </programme>
+  <programme start="20260327000000 -0300" stop="20260327003000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II que está poblado por clones de los seis hombres que fueron abandonados allí 300 años antes. Las únicas hembras son robots llamados "marionetas", que sirven como trabajadoras y soldados. Lima, Cereza y Zarzamora poseen emociones humanas.</desc>
+  </programme>
+  <programme start="20260327003000 -0300" stop="20260327010000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki es una estudiante con poderes para vislumbrar el futuro mediante cartas del tarot.</desc>
+  </programme>
+  <programme start="20260327010000 -0300" stop="20260327013000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken de la Rosa pilotea el robot Baron Rojo en su camino a convertirse en campeón.</desc>
+  </programme>
+  <programme start="20260327013000 -0300" stop="20260327020000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Aventuras del ladrón Lupin III y su persecución por el inspector Zenigata.</desc>
+  </programme>
+  <programme start="20260327020000 -0300" stop="20260327023000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  </programme>
+  <programme start="20260327023000 -0300" stop="20260327030000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  </programme>
+  <programme start="20260327030000 -0300" stop="20260327033000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  </programme>
+  <programme start="20260327033000 -0300" stop="20260327040000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  </programme>
+  <programme start="20260327040000 -0300" stop="20260327043000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  </programme>
+  <programme start="20260327043000 -0300" stop="20260327050000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  </programme>
+  <programme start="20260327050000 -0300" stop="20260327053000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  </programme>
+  <programme start="20260327053000 -0300" stop="20260327060000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  </programme>
+  <programme start="20260327060000 -0300" stop="20260327063000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  </programme>
+  <programme start="20260327063000 -0300" stop="20260327070000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  </programme>
+  <programme start="20260327070000 -0300" stop="20260327073000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  </programme>
+  <programme start="20260327073000 -0300" stop="20260327080000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  </programme>
+  <programme start="20260327080000 -0300" stop="20260327083000 -0300" channel="locomotion1.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  </programme>
+  <programme start="20260327083000 -0300" stop="20260327090000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Defensores De La Tierra</title>
+    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  </programme>
+  <programme start="20260327090000 -0300" stop="20260327093000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  </programme>
+  <programme start="20260327093000 -0300" stop="20260327100000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  </programme>
+  <programme start="20260327100000 -0300" stop="20260327103000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  </programme>
+  <programme start="20260327103000 -0300" stop="20260327110000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  </programme>
+  <programme start="20260327110000 -0300" stop="20260327113000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  </programme>
+  <programme start="20260327113000 -0300" stop="20260327120000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  </programme>
+  <programme start="20260327120000 -0300" stop="20260327123000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  </programme>
+  <programme start="20260327123000 -0300" stop="20260327130000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  </programme>
+  <programme start="20260327130000 -0300" stop="20260327133000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  </programme>
+  <programme start="20260327133000 -0300" stop="20260327140000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  </programme>
+  <programme start="20260327140000 -0300" stop="20260327143000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  </programme>
+  <programme start="20260327143000 -0300" stop="20260327150000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  </programme>
+  <programme start="20260327150000 -0300" stop="20260327153000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  </programme>
+  <programme start="20260327153000 -0300" stop="20260327160000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  </programme>
+  <programme start="20260327160000 -0300" stop="20260327163000 -0300" channel="locomotion1.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  </programme>
+  <programme start="20260327163000 -0300" stop="20260327170000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Defensores De La Tierra</title>
+    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  </programme>
+  <programme start="20260327170000 -0300" stop="20260327173000 -0300" channel="locomotion1.ar">
+    <title lang="es">El Baron Rojo</title>
+    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  </programme>
+  <programme start="20260327173000 -0300" stop="20260327180000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cliffhanger (Lupin III)</title>
+    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  </programme>
+  <programme start="20260327180000 -0300" stop="20260327183000 -0300" channel="locomotion1.ar">
+    <title lang="es">Lost Universe</title>
+    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas.</desc>
+  </programme>
+  <programme start="20260327183000 -0300" stop="20260327190000 -0300" channel="locomotion1.ar">
+    <title lang="es">Evangelion</title>
+    <desc lang="es">Shinji combate Ángeles en un robot biológico.</desc>
+  </programme>
+  <programme start="20260327190000 -0300" stop="20260327193000 -0300" channel="locomotion1.ar">
+    <title lang="es">Los Cazadores de Duendes</title>
+    <desc lang="es">Grupo atrapado en mundo mágico busca regresar a casa.</desc>
+  </programme>
+  <programme start="20260327193000 -0300" stop="20260327200000 -0300" channel="locomotion1.ar">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Mundo dominado por magia oscura y caos imperial.</desc>
+  </programme>
+  <programme start="20260327200000 -0300" stop="20260327203000 -0300" channel="locomotion1.ar">
+    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
+    <desc lang="es">Boomers fuera de control amenazan la ciudad.</desc>
+  </programme>
+  <programme start="20260327203000 -0300" stop="20260327210000 -0300" channel="locomotion1.ar">
+    <title lang="es">Chica Marioneta J</title>
+    <desc lang="es">Robots con emociones en un mundo de clones.</desc>
+  </programme>
+  <programme start="20260327210000 -0300" stop="20260327213000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Aventuras con poderes psíquicos y mundos paralelos.</desc>
+  </programme>
+  <programme start="20260327213000 -0300" stop="20260327220000 -0300" channel="locomotion1.ar">
+    <title lang="es">Blue Seed</title>
+    <desc lang="es">Momiji enfrenta criaturas Aragami.</desc>
+  </programme>
+  <programme start="20260327220000 -0300" stop="20260327223000 -0300" channel="locomotion1.ar">
+    <title lang="es">Cowboy Bebop</title>
+    <desc lang="es">Cazarrecompensas espaciales en misiones peligrosas.</desc>
+  </programme>
+  <programme start="20260327223000 -0300" stop="20260327230000 -0300" channel="locomotion1.ar">
+    <title lang="es">Ranma ½</title>
+    <desc lang="es">Artes marciales y transformaciones absurdas.</desc>
+  </programme>
+  <programme start="20260327230000 -0300" stop="20260327233000 -0300" channel="locomotion1.ar">
+    <title lang="es">Duckman</title>
+    <desc lang="es">Humor ácido de un pato caótico.</desc>
+  </programme>
+  <programme start="20260327233000 -0300" stop="20260328000000 -0300" channel="locomotion1.ar">
+    <title lang="es">South Park</title>
+    <desc lang="es">Sátira social con niños irreverentes.</desc>
+  </programme>
+  <programme start="20260328000000 -0300" stop="20260329000000 -0300" channel="locomotion1.ar">
+    <title lang="es">Locomotion fin de semana</title>
+    <desc lang="es">Programación de Locomotion para el fin de semana</desc>
+  </programme>
+  <programme start="20260329000000 -0300" stop="20260330000000 -0300" channel="locomotion1.ar">
+    <title lang="es">Locomotion fin de semana</title>
+    <desc lang="es">Programación de Locomotion para el fin de semana</desc>
   </programme>
 </tv>
