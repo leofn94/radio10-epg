@@ -61,50 +61,58 @@ def build_epg(rows, channel_id):
     monday = get_monday()
     programmes = []
 
-    for i, row in enumerate(rows, start=1):
-        try:
-            if len(row) < 4:
-                continue
+    # 🔥 calcular una sola vez
+    today = datetime.now(tz).date()
+    limit = today + timedelta(days=2)
 
-            day_raw, start_raw, end_raw, title = row[0], row[1], row[2], row[3]
-            desc = row[4] if len(row) > 4 else ""
-
-            day_key = day_raw.strip().lower()
-            if day_key not in DAYS_MAP:
-                continue
-
-            offset = DAYS_MAP[day_key]
-            date = monday + timedelta(days=offset)
-            from datetime import date as dt_date
-
-today = datetime.now(tz).date()
-limit = today + timedelta(days=2)
-
-# filtrar solo hoy + 2 días
-if not (today <= date <= limit):
-    continue
-
-            
-            try:
-                start_t = parse_time(start_raw)
-                end_t   = parse_time(end_raw)
-            except Exception as e:
-                 print(f"⚠️ Error en fila {row}")
-                 continue
-
-            start_dt = tz.localize(datetime.combine(date, start_t))
-            end_dt   = tz.localize(datetime.combine(date, end_t))
-
-            if end_dt <= start_dt:
-                end_dt += timedelta(days=1)
-
-            programmes.append((start_dt, end_dt, title.strip(), desc.strip(), channel_id))
-
-        except Exception as e:
-            print(f"⚠️ Error en fila {i} ({channel_id}): {row} → {e}")
+    for row in rows:
+        if len(row) < 4:
             continue
 
+        # limpiar columnas
+        row = [col.strip() for col in row]
+
+        day_raw, start_raw, end_raw, title = row[0], row[1], row[2], row[3]
+        desc = row[4] if len(row) > 4 else ""
+
+        day_key = day_raw.lower()
+        if day_key not in DAYS_MAP:
+            continue
+
+        offset = DAYS_MAP[day_key]
+        date = monday + timedelta(days=offset)
+
+        # 🔥 FILTRO: solo hoy + 2 días
+        if not (today <= date <= limit):
+            continue
+
+        # 🔥 PARSEO SEGURO
+        try:
+            start_t = parse_time(start_raw)
+            end_t   = parse_time(end_raw)
+        except Exception as e:
+            print(f"⚠️ Error en fila {row}")
+            continue
+
+        # construir datetime
+        start_dt = tz.localize(datetime.combine(date, start_t))
+        end_dt   = tz.localize(datetime.combine(date, end_t))
+
+        # si termina al día siguiente
+        if end_dt <= start_dt:
+            end_dt += timedelta(days=1)
+
+        programmes.append((
+            start_dt,
+            end_dt,
+            title.strip(),
+            desc.strip(),
+            channel_id
+        ))
+
+    # ordenar por hora
     programmes.sort(key=lambda x: x[0])
+
     return programmes
 
 def write_xmltv(channels_data):
