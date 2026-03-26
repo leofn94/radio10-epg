@@ -187,5 +187,5 @@ if __name__ == "__main__":
 raw = fetch_sheet(ch["url"])
 if not raw:
     print(f"⚠️ Saltando canal {ch['name']} por error de descarga")
-    continue
+    continue,
     
