@@ -82,11 +82,22 @@ def fetch_sheet(url):
 
 #  NUEVO PARSER
 def parse_time(t):
+    if not t:
+        raise ValueError("Hora vacía")
+
     t = t.strip()
-    match = re.search(r"\d{1,2}:\d{2}", t)
-    if not match:
-        raise ValueError(f"Formato de hora inválido: {t}")
-    return datetime.strptime(match.group(), "%H:%M").time()
+
+    # limpiar basura común
+    t = t.replace("hs", "")
+    t = t.replace(".", ":")
+    t = t.replace("·", "")
+    t = t.replace(" ", "")
+
+    # cortar segundos si vienen
+    if len(t) >= 5:
+        t = t[:5]
+
+    return datetime.strptime(t, "%H:%M").time()
 
 def xmltv_ts(dt):
     return dt.strftime("%Y%m%d%H%M%S") + " -0300"
@@ -116,8 +127,12 @@ def build_epg(rows, channel_id):
             offset = DAYS_MAP[day_key]
             date = monday + timedelta(days=offset)
 
-            start_t = parse_time(start_raw)
-            end_t   = parse_time(end_raw)
+            try:
+                start_t = parse_time(start_raw)
+                end_t   = parse_time(end_raw)
+            except Exception as e:
+                 print(f"⚠️ Error en fila {row}")
+                 continue
 
             start_dt = tz.localize(datetime.combine(date, start_t))
             end_dt   = tz.localize(datetime.combine(date, end_t))
