@@ -61,6 +61,11 @@ CHANNELS = [
         "name": "MiTV 1",
         "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1227571137&single=true&output=csv",
     },
+        {
+        "id":   "animestation.ar",
+        "name": "Animestation",
+        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=446220036&single=true&output=csv",
+    },
 ]
 
 TIMEZONE    = "America/Argentina/Buenos_Aires"
