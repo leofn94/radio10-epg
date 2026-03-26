@@ -2,7 +2,7 @@ import csv
 import urllib.request
 from datetime import datetime, timedelta
 import pytz
-import re
+import html
 
 # ─── CONFIGURACIÓN ────────────────────────────────────────────────────────────
 CHANNELS = [
@@ -21,6 +21,7 @@ DAYS_MAP = {
     "jueves": 3, "viernes": 4, "sabado": 5, "sábado": 5, "domingo": 6,
 }
 
+# ─── DESCARGA ────────────────────────────────────────────────────────────────
 def fetch_sheet(url):
     try:
         with urllib.request.urlopen(url) as r:
@@ -29,25 +30,23 @@ def fetch_sheet(url):
         print(f"❌ Error descargando {url} → {e}")
         return []
 
-#  NUEVO PARSER
+# ─── PARSEO DE HORA ROBUSTO ──────────────────────────────────────────────────
 def parse_time(t):
     if not t:
         raise ValueError("Hora vacía")
 
     t = t.strip()
-
-    # limpiar basura común
     t = t.replace("hs", "")
     t = t.replace(".", ":")
     t = t.replace("·", "")
     t = t.replace(" ", "")
 
-    # cortar segundos si vienen
     if len(t) >= 5:
         t = t[:5]
 
     return datetime.strptime(t, "%H:%M").time()
 
+# ─── FORMATO XMLTV ───────────────────────────────────────────────────────────
 def xmltv_ts(dt):
     return dt.strftime("%Y%m%d%H%M%S") + " -0300"
 
@@ -56,20 +55,19 @@ def get_monday():
     today = datetime.now(tz).date()
     return today - timedelta(days=today.weekday())
 
+# ─── CONSTRUCCIÓN EPG ────────────────────────────────────────────────────────
 def build_epg(rows, channel_id):
     tz = pytz.timezone(TIMEZONE)
     monday = get_monday()
     programmes = []
 
-    # 🔥 calcular una sola vez
     today = datetime.now(tz).date()
-    limit = today + timedelta(days=1)
+    limit = today + timedelta(days=1)  # 🔥 solo hoy + mañana
 
     for row in rows:
         if len(row) < 4:
             continue
 
-        # limpiar columnas
         row = [col.strip() for col in row]
 
         day_raw, start_raw, end_raw, title = row[0], row[1], row[2], row[3]
@@ -79,26 +77,21 @@ def build_epg(rows, channel_id):
         if day_key not in DAYS_MAP:
             continue
 
-        offset = DAYS_MAP[day_key]
-        date = monday + timedelta(days=offset)
+        date = monday + timedelta(days=DAYS_MAP[day_key])
 
-        # 🔥 FILTRO: solo hoy + 2 días
         if not (today <= date <= limit):
             continue
 
-        # 🔥 PARSEO SEGURO
         try:
             start_t = parse_time(start_raw)
             end_t   = parse_time(end_raw)
-        except Exception as e:
+        except:
             print(f"⚠️ Error en fila {row}")
             continue
 
-        # construir datetime
         start_dt = tz.localize(datetime.combine(date, start_t))
         end_dt   = tz.localize(datetime.combine(date, end_t))
 
-        # si termina al día siguiente
         if end_dt <= start_dt:
             end_dt += timedelta(days=1)
 
@@ -110,14 +103,11 @@ def build_epg(rows, channel_id):
             channel_id
         ))
 
-    # ordenar por hora
     programmes.sort(key=lambda x: x[0])
-
     return programmes
 
+# ─── GENERADOR XML ───────────────────────────────────────────────────────────
 def write_xmltv(channels_data):
-
-
     lines = []
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
     lines.append('<!DOCTYPE tv SYSTEM "xmltv.dtd">')
@@ -125,28 +115,28 @@ def write_xmltv(channels_data):
 
     for ch in channels_data:
         lines.append(f'  <channel id="{ch["id"]}">')
-        lines.append(f'    <display-name>{ch["name"]}</display-name>')
+        lines.append(f'    <display-name>{html.escape(ch["name"])}</display-name>')
         lines.append('  </channel>')
 
     for ch in channels_data:
         for start, end, title, desc, channel_id in ch["programmes"]:
+            title = html.escape(title)
+            desc  = html.escape(desc)
+
             lines.append(
                 f'  <programme start="{xmltv_ts(start)}" stop="{xmltv_ts(end)}" channel="{channel_id}">'
             )
             lines.append(f'    <title lang="es">{title}</title>')
+
             if desc:
                 lines.append(f'    <desc lang="es">{desc}</desc>')
+
             lines.append('  </programme>')
 
     lines.append('</tv>')
     return "\n".join(lines)
 
-    import html
-
-title = html.escape(title)
-desc = html.escape(desc)
-
-
+# ─── MAIN ────────────────────────────────────────────────────────────────────
 def main():
     channels_data = []
 
@@ -155,7 +145,7 @@ def main():
 
         raw = fetch_sheet(ch["url"])
         if not raw:
-            print(f"⚠️ Saltando canal {ch['name']} por error de descarga")
+            print(f"⚠️ Saltando canal {ch['name']}")
             continue
 
         rows = list(csv.reader(raw))[1:]
@@ -172,14 +162,14 @@ def main():
 
     xml = write_xmltv(channels_data)
 
-    # 🔥 limpieza BOM / basura
+    # 🔥 limpiar BOM / caracteres invisibles
     xml = xml.encode("utf-8").decode("utf-8-sig").lstrip()
 
     with open(OUTPUT_FILE, "w", encoding="utf-8-sig") as f:
-        f.write(xml.lstrip())
+        f.write(xml)
 
     print(f"\nEPG guardado en {OUTPUT_FILE}")
 
+# ─── ENTRYPOINT ──────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     main()
-    
