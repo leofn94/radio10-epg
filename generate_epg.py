@@ -191,9 +191,13 @@ def main():
             "programmes": programmes,
         })
 
-    xml = write_xmltv(channels_data)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(xml)
+xml = write_xmltv(channels_data)
+
+# eliminar BOM y basura invisible
+xml = xml.encode("utf-8").decode("utf-8-sig").lstrip()
+
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    f.write(xml)
 
     print(f"\nEPG guardado en {OUTPUT_FILE}")
 
