@@ -43,42 +43,6 @@
   <channel id="telered.ar">
     <display-name>Telered</display-name>
   </channel>
-  <programme start="20260326000000 -0300" stop="20260326040000 -0300" channel="radio10.ar">
-    <title lang="es">Mejor ahora (Jorge Pizarro)</title>
-    <desc lang="es">Jorge Pizarro te acompaña durante las madrugadas con información y la charla justa para terminar o empezar el día.</desc>
-  </programme>
-  <programme start="20260326040000 -0300" stop="20260326060000 -0300" channel="radio10.ar">
-    <title lang="es">Siempre Noticias (Marcelo Pérez Fantoni)</title>
-    <desc lang="es">Marcelo Pérez Fantoni hace Siempre Noticias, el panorama de noticias de Radio 10.</desc>
-  </programme>
-  <programme start="20260326060000 -0300" stop="20260326100000 -0300" channel="radio10.ar">
-    <title lang="es">Mañana Sylvestre (Gustavo Sylvestre)</title>
-    <desc lang="es">Un clásico de la radio, que combina información, entrevistas políticas y humor, con el estilo único de Gustavo Sylvestre.</desc>
-  </programme>
-  <programme start="20260326100000 -0300" stop="20260326130000 -0300" channel="radio10.ar">
-    <title lang="es">Todo es posible (Pablo Duggan)</title>
-    <desc lang="es">Una mirada actual, dinámica y conectada con el pulso de la realidad nacional.</desc>
-  </programme>
-  <programme start="20260326130000 -0300" stop="20260326150000 -0300" channel="radio10.ar">
-    <title lang="es">El Amor es Más Fuerte (Nancy Pazos)</title>
-    <desc lang="es">Un espacio para reflexionar sobre la actualidad, la sociedad y la política.</desc>
-  </programme>
-  <programme start="20260326150000 -0300" stop="20260326180000 -0300" channel="radio10.ar">
-    <title lang="es">No Se Desesperen (Fernando Borroni)</title>
-    <desc lang="es">El mejor análisis de la política actual, con el minuto a minuto de los temas del día.</desc>
-  </programme>
-  <programme start="20260326180000 -0300" stop="20260326200000 -0300" channel="radio10.ar">
-    <title lang="es">Un día perfecto (Juan Amorin)</title>
-    <desc lang="es">Un programa con la frescura necesaria para el regreso a casa.</desc>
-  </programme>
-  <programme start="20260326200000 -0300" stop="20260326220000 -0300" channel="radio10.ar">
-    <title lang="es">Feudalísima (Marcela Feudale)</title>
-    <desc lang="es">Combina actualidad política, humor, historia y música, junto a un gran equipo.</desc>
-  </programme>
-  <programme start="20260326220000 -0300" stop="20260327000000 -0300" channel="radio10.ar">
-    <title lang="es">Esto es todo amigos (Luciano Galende)</title>
-    <desc lang="es">El resumen perfecto para entender qué pasó durante el día.</desc>
-  </programme>
   <programme start="20260327000000 -0300" stop="20260327040000 -0300" channel="radio10.ar">
     <title lang="es">Mejor ahora (Jorge Pizarro)</title>
     <desc lang="es">Jorge Pizarro te acompaña durante las madrugadas con información y la charla justa para terminar o empezar el día.</desc>
@@ -115,41 +79,34 @@
     <title lang="es">Esto es todo amigos (Luciano Galende)</title>
     <desc lang="es">El resumen perfecto para entender qué pasó durante el día.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326040000 -0300" channel="rivadavia.ar">
-    <title lang="es">Mejor Ahora (Hernán Garciarena)</title>
-    <desc lang="es">Compañía y actualidad para las madrugadas de la semana.</desc>
+  <programme start="20260328000000 -0300" stop="20260328020000 -0300" channel="radio10.ar">
+    <title lang="es">La medianoche (Carlos Polimeni)</title>
+    <desc lang="es">Cultura, música, reflexiones y una mirada crítica de la realidad.</desc>
   </programme>
-  <programme start="20260326040000 -0300" stop="20260326060000 -0300" channel="rivadavia.ar">
-    <title lang="es">Panorama (Mario Portugal)</title>
-    <desc lang="es">El panorama informativo del rotativo del aire de Radio Rivadavia.</desc>
+  <programme start="20260328020000 -0300" stop="20260328060000 -0300" channel="radio10.ar">
+    <title lang="es">Despiertos (Sergio Marino)</title>
+    <desc lang="es">Las madrugadas del fin de semana las pasas con Sergio Marino en la 10 de Argentina.</desc>
   </programme>
-  <programme start="20260326060000 -0300" stop="20260326090000 -0300" channel="rivadavia.ar">
-    <title lang="es">Esta Mañana (Ignacio Ortelli)</title>
-    <desc lang="es">Información, análisis y entrevistas para arrancar el día.</desc>
+  <programme start="20260328060000 -0300" stop="20260328070000 -0300" channel="radio10.ar">
+    <title lang="es">Bien Levantado (Antonio Novas)</title>
   </programme>
-  <programme start="20260326090000 -0300" stop="20260326120000 -0300" channel="rivadavia.ar">
-    <title lang="es">Vamos Rivadavia (Nelson Castro)</title>
-    <desc lang="es">Periodismo de fondo con Nelson Castro, uno de los referentes de la radio argentina.</desc>
+  <programme start="20260328070000 -0300" stop="20260328100000 -0300" channel="radio10.ar">
+    <title lang="es">Secreto De Sumario (Darío Villarruel)</title>
   </programme>
-  <programme start="20260326120000 -0300" stop="20260326150000 -0300" channel="rivadavia.ar">
-    <title lang="es">Cristina Sin Vueltas (Cristina Pérez)</title>
-    <desc lang="es">Actualidad política y social con la mirada directa y sin vueltas de Cristina Pérez.</desc>
+  <programme start="20260328100000 -0300" stop="20260328120000 -0300" channel="radio10.ar">
+    <title lang="es">Conflicto de Intereses (Ariel Zak)</title>
   </programme>
-  <programme start="20260326150000 -0300" stop="20260326170000 -0300" channel="rivadavia.ar">
-    <title lang="es">Pan y Circo (Jonatan Viale)</title>
-    <desc lang="es">Análisis político y social con el estilo provocador de Jonatan Viale.</desc>
+  <programme start="20260328120000 -0300" stop="20260328150000 -0300" channel="radio10.ar">
+    <title lang="es">Fenómeno barrial (Juan Di Natale)</title>
   </programme>
-  <programme start="20260326170000 -0300" stop="20260326200000 -0300" channel="rivadavia.ar">
-    <title lang="es">Basta Baby (Baby Etchecopar)</title>
-    <desc lang="es">La visión irreverente y polémica de Baby Etchecopar sobre la realidad del país.</desc>
+  <programme start="20260328150000 -0300" stop="20260328180000 -0300" channel="radio10.ar">
+    <title lang="es">Vida de sábado (Pablo Ladaga y Gabriela Radice)</title>
   </programme>
-  <programme start="20260326200000 -0300" stop="20260326220000 -0300" channel="rivadavia.ar">
-    <title lang="es">Desde el Alma (Oscar Gómez Castañón)</title>
-    <desc lang="es">Un espacio de reflexión, cultura y emoción conducido por Oscar Gómez Castañón.</desc>
+  <programme start="20260328180000 -0300" stop="20260328210000 -0300" channel="radio10.ar">
+    <title lang="es">Las Palabras y las Cosas (Marcos Cittadini)</title>
   </programme>
-  <programme start="20260326220000 -0300" stop="20260327000000 -0300" channel="rivadavia.ar">
-    <title lang="es">La Oral Deportiva (Daniel Avellaneda)</title>
-    <desc lang="es">El resumen deportivo del día con toda la actualidad del deporte argentino.</desc>
+  <programme start="20260328210000 -0300" stop="20260329000000 -0300" channel="radio10.ar">
+    <title lang="es">Que noche Teté (Teté Coustarot)</title>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327040000 -0300" channel="rivadavia.ar">
     <title lang="es">Mejor Ahora (Hernán Garciarena)</title>
@@ -187,41 +144,33 @@
     <title lang="es">La Oral Deportiva (Daniel Avellaneda)</title>
     <desc lang="es">El resumen deportivo del día con toda la actualidad del deporte argentino.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326010000 -0300" channel="mitre.ar">
-    <title lang="es">Viaje al centro de la noche (Marcelo Birmajer)</title>
-    <desc lang="es">Programa cultural y reflexivo con literatura, historias y pensamientos.</desc>
+  <programme start="20260328000000 -0300" stop="20260328010000 -0300" channel="rivadavia.ar">
+    <title lang="es">La Ronda (Juan José Moro)</title>
+    <desc lang="es">Un espacio de charla y entretenimiento para la medianoche del sábado.</desc>
   </programme>
-  <programme start="20260326010000 -0300" stop="20260326050000 -0300" channel="mitre.ar">
-    <title lang="es">De la Noche a la Mañana (Juan Carlos Del Missier y Fabricio López)</title>
-    <desc lang="es">Programa de trasnoche con información, compañía y actualidad para oyentes nocturnos.</desc>
+  <programme start="20260328010000 -0300" stop="20260328070000 -0300" channel="rivadavia.ar">
+    <title lang="es">Reporte Rivadavia (Oscar Choy)</title>
+    <desc lang="es">Información y noticias durante la madrugada del fin de semana.</desc>
   </programme>
-  <programme start="20260326050000 -0300" stop="20260326060000 -0300" channel="mitre.ar">
-    <title lang="es">Un Día por Delante (Adrián Ventura)</title>
-    <desc lang="es">Primer repaso informativo del día con análisis político y actualidad.</desc>
+  <programme start="20260328070000 -0300" stop="20260328100000 -0300" channel="rivadavia.ar">
+    <title lang="es">Código Dolabjian (Camila Dolabjian)</title>
+    <desc lang="es">Un programa fresco y dinámico para la mañana del sábado.</desc>
   </programme>
-  <programme start="20260326060000 -0300" stop="20260326100000 -0300" channel="mitre.ar">
-    <title lang="es">Alguien tiene que decirlo (Eduardo Feinmann)</title>
-    <desc lang="es">Programa periodístico con fuerte opinión, actualidad política y entrevistas.</desc>
+  <programme start="20260328100000 -0300" stop="20260328130000 -0300" channel="rivadavia.ar">
+    <title lang="es">Guada Recargada (Guadalupe Vázquez)</title>
+    <desc lang="es">Entretenimiento, actualidad y mucha energía con Guadalupe Vázquez.</desc>
   </programme>
-  <programme start="20260326100000 -0300" stop="20260326130000 -0300" channel="mitre.ar">
-    <title lang="es">Nuestra Mañana (Marcelo Bonelli y equipo)</title>
-    <desc lang="es">Magazine matutino con noticias, humor, actualidad y servicio.</desc>
+  <programme start="20260328130000 -0300" stop="20260328170000 -0300" channel="rivadavia.ar">
+    <title lang="es">El Sillón de Rivadavia (Ricardo Guazzardi)</title>
+    <desc lang="es">Entrevistas, historias y la mejor compañía para la tarde del sábado.</desc>
   </programme>
-  <programme start="20260326130000 -0300" stop="20260326160000 -0300" channel="mitre.ar">
-    <title lang="es">Encendidos en la Tarde (María Isabel Sánchez y Rolo Villar)</title>
-    <desc lang="es">Programa de actualidad, entretenimiento y noticias del día.</desc>
+  <programme start="20260328170000 -0300" stop="20260328220000 -0300" channel="rivadavia.ar">
+    <title lang="es">La Radio Sos Vos (Julio Lagos)</title>
+    <desc lang="es">Un clásico de Rivadavia, con Julio Lagos y la participación de los oyentes.</desc>
   </programme>
-  <programme start="20260326160000 -0300" stop="20260326190000 -0300" channel="mitre.ar">
-    <title lang="es">Bravo por Mitre (Fernando Bravo)</title>
-    <desc lang="es">Magazine vespertino con entrevistas, música y actualidad.</desc>
-  </programme>
-  <programme start="20260326190000 -0300" stop="20260326210000 -0300" channel="mitre.ar">
-    <title lang="es">Volviendo a casa (Tato Young y equipo)</title>
-    <desc lang="es">Resumen informativo del día con análisis político y actualidad.</desc>
-  </programme>
-  <programme start="20260326210000 -0300" stop="20260327000000 -0300" channel="mitre.ar">
-    <title lang="es">Lo que queda del día (Gabriel Anello)</title>
-    <desc lang="es">Análisis del cierre de jornada con actualidad y deportes.</desc>
+  <programme start="20260328220000 -0300" stop="20260329000000 -0300" channel="rivadavia.ar">
+    <title lang="es">Te Escucho (Luisa Delfino)</title>
+    <desc lang="es">Un espacio de contención, escucha y acompañamiento para el oyente.</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327010000 -0300" channel="mitre.ar">
     <title lang="es">Viaje al centro de la noche (Marcelo Birmajer)</title>
@@ -259,53 +208,41 @@
     <title lang="es">Lo que queda del día (Gabriel Anello)</title>
     <desc lang="es">Análisis del cierre de jornada con actualidad y deportes.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326003000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Trasnoche Jazz</title>
-    <desc lang="es">Una noche entera dedicada al jazz en sus distintas vertientes y épocas.</desc>
+  <programme start="20260328000000 -0300" stop="20260328013000 -0300" channel="mitre.ar">
+    <title lang="es">Lo que queda del día (Gabriel Anello)</title>
+    <desc lang="es">Análisis del cierre de jornada con actualidad y deportes.</desc>
   </programme>
-  <programme start="20260326003000 -0300" stop="20260326060000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">La trasnoche clásica</title>
-    <desc lang="es">Música clásica sin interrupciones para acompañar la madrugada.</desc>
+  <programme start="20260328013000 -0300" stop="20260328060000 -0300" channel="mitre.ar">
+    <title lang="es">De la Noche a la Mañana (Fabricio López)</title>
+    <desc lang="es">Programa de trasnoche con información, compañía y actualidad para oyentes nocturnos.</desc>
   </programme>
-  <programme start="20260326060000 -0300" stop="20260326110000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Y la mañana va (Cristian Bello - Rodolfo Lagos)</title>
-    <desc lang="es">Cristian Bello y Rodolfo Lagos arrancan la mañana con música clásica y comentarios.</desc>
+  <programme start="20260328060000 -0300" stop="20260328070000 -0300" channel="mitre.ar">
+    <title lang="es">El Aguante de Sábado Tempranísimo (Daniel Mollo y equipo)</title>
+    <desc lang="es">Programa deportivo y de actualidad temprana.</desc>
   </programme>
-  <programme start="20260326110000 -0300" stop="20260326120000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Los caminos del Barroco (Clara Lis)</title>
-    <desc lang="es">Clara Lis recorre el repertorio barroco con obras y contexto histórico.</desc>
+  <programme start="20260328070000 -0300" stop="20260328100000 -0300" channel="mitre.ar">
+    <title lang="es">Sábado Tempranísimo (Marcelo Bonelli y equipo)</title>
+    <desc lang="es">Análisis político, actualidad y entrevistas.</desc>
   </programme>
-  <programme start="20260326120000 -0300" stop="20260326130000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Al mediodía</title>
-    <desc lang="es">Selección musical clásica para el mediodía.</desc>
+  <programme start="20260328100000 -0300" stop="20260328130000 -0300" channel="mitre.ar">
+    <title lang="es">Pensándolo Bien (Jorge Fernández Díaz)</title>
+    <desc lang="es">Programa de análisis político y cultural.</desc>
   </programme>
-  <programme start="20260326130000 -0300" stop="20260326150000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Dos horas con la actualidad (Boris)</title>
-    <desc lang="es">Boris analiza la actualidad del mundo clásico con entrevistas y estrenos.</desc>
+  <programme start="20260328130000 -0300" stop="20260328140000 -0300" channel="mitre.ar">
+    <title lang="es">Polino Auténtico (Marcelo Polino)</title>
+    <desc lang="es">Espectáculos, humor y actualidad del entretenimiento.</desc>
   </programme>
-  <programme start="20260326150000 -0300" stop="20260326160000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Música documental (Gisela López)</title>
-    <desc lang="es">Gisela López presenta documentales musicales y la historia detrás de las obras.</desc>
+  <programme start="20260328140000 -0300" stop="20260328180000 -0300" channel="mitre.ar">
+    <title lang="es">La Previa (Gabriel Anello)</title>
+    <desc lang="es">Análisis deportivo previo a la jornada.</desc>
   </programme>
-  <programme start="20260326160000 -0300" stop="20260326180000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Las fantasías del caminante (Santiago Giordano)</title>
-    <desc lang="es">Santiago Giordano explora el repertorio romántico y sus conexiones con la literatura.</desc>
+  <programme start="20260328180000 -0300" stop="20260328210000 -0300" channel="mitre.ar">
+    <title lang="es">Ni Se Te Ocurra Contarlo (Marcela Labarca)</title>
+    <desc lang="es">Historias, entretenimiento y actualidad.</desc>
   </programme>
-  <programme start="20260326180000 -0300" stop="20260326200000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">El regreso (Carolina Guevara)</title>
-    <desc lang="es">Carolina Guevara acompaña el regreso a casa con los mejores clásicos.</desc>
-  </programme>
-  <programme start="20260326200000 -0300" stop="20260326220000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Momentos Musicales</title>
-    <desc lang="es">Los mejores momentos del repertorio clásico universal.</desc>
-  </programme>
-  <programme start="20260326220000 -0300" stop="20260326230000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Industria Nacional (Carolina Guevara)</title>
-    <desc lang="es">Carolina Guevara presenta la producción musical clásica argentina contemporánea.</desc>
-  </programme>
-  <programme start="20260326230000 -0300" stop="20260327000000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Momentos Musicales</title>
-    <desc lang="es">Los mejores momentos del repertorio clásico universal.</desc>
+  <programme start="20260328210000 -0300" stop="20260329000000 -0300" channel="mitre.ar">
+    <title lang="es">Canciones Son Amores (Nora Perlé y Andrea Estévez Mirson)</title>
+    <desc lang="es">Programa musical nocturno con selección de canciones románticas y clásicas, acompañado de comentarios y reflexiones.</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327003000 -0300" channel="nacionalclasica.ar">
     <title lang="es">Trasnoche Jazz</title>
@@ -355,93 +292,41 @@
     <title lang="es">Momentos Musicales</title>
     <desc lang="es">Los mejores momentos del repertorio clásico universal.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260327000000 -0300" channel="clasica.ar">
-    <title lang="es">Radio Clasica</title>
-    <desc lang="es">La mejor programación de musica clásica todo el día</desc>
+  <programme start="20260328000000 -0300" stop="20260328010000 -0300" channel="nacionalclasica.ar">
+    <title lang="es">Trasnoche Jazz</title>
+    <desc lang="es">Una noche entera dedicada al jazz en sus distintas vertientes y épocas.</desc>
+  </programme>
+  <programme start="20260328010000 -0300" stop="20260328070000 -0300" channel="nacionalclasica.ar">
+    <title lang="es">La trasnoche clásica</title>
+    <desc lang="es">Música clásica sin interrupciones para acompañar la madrugada.</desc>
+  </programme>
+  <programme start="20260328070000 -0300" stop="20260328130000 -0300" channel="nacionalclasica.ar">
+    <title lang="es">Momentos musicales - Programación Equipo de FM Clásica</title>
+    <desc lang="es">El equipo de FM Clásica presenta una selección de momentos musicales destacados.</desc>
+  </programme>
+  <programme start="20260328130000 -0300" stop="20260328140000 -0300" channel="nacionalclasica.ar">
+    <title lang="es">Una hora un artista (Numa Viard)</title>
+    <desc lang="es">Numa Viard dedica una hora completa a explorar la obra de un artista clásico.</desc>
+  </programme>
+  <programme start="20260328140000 -0300" stop="20260328190000 -0300" channel="nacionalclasica.ar">
+    <title lang="es">Una tarde en la ópera (Boris - Numa Viard)</title>
+    <desc lang="es">Boris y Numa Viard recorren las grandes obras del repertorio operístico mundial.</desc>
+  </programme>
+  <programme start="20260328190000 -0300" stop="20260328200000 -0300" channel="nacionalclasica.ar">
+    <title lang="es">Música para bailar</title>
+    <desc lang="es">Selección de música clásica con ritmo y movimiento.</desc>
+  </programme>
+  <programme start="20260328200000 -0300" stop="20260329000000 -0300" channel="nacionalclasica.ar">
+    <title lang="es">Momentos musicales</title>
+    <desc lang="es">Los mejores momentos del repertorio clásico universal.</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260328000000 -0300" channel="clasica.ar">
     <title lang="es">Radio Clasica</title>
     <desc lang="es">La mejor programación de musica clásica todo el día</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326060000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Cine en Casa</title>
-    <desc lang="es">Ciclo de películas para acompañar la madrugada.</desc>
-  </programme>
-  <programme start="20260326060000 -0300" stop="20260326090000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Música</title>
-    <desc lang="es">Videoclips y música variada para arrancar la mañana.</desc>
-  </programme>
-  <programme start="20260326090000 -0300" stop="20260326093000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">La Niñera</title>
-    <desc lang="es">La exitosa sitcom sobre una niñera neoyorquina con estilo y humor.</desc>
-  </programme>
-  <programme start="20260326093000 -0300" stop="20260326100000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Malcolm in the Middle</title>
-    <desc lang="es">Las aventuras del genio más disfuncional de la familia más caótica de la TV.</desc>
-  </programme>
-  <programme start="20260326100000 -0300" stop="20260326110000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Futurama</title>
-    <desc lang="es">La serie animada de Matt Groening ambientada en el siglo XXXI.</desc>
-  </programme>
-  <programme start="20260326110000 -0300" stop="20260326120000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Vecinos</title>
-    <desc lang="es">Serie de comedia sobre las divertidas situaciones de un edificio de departamentos.</desc>
-  </programme>
-  <programme start="20260326120000 -0300" stop="20260326123000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Casados con Hijos</title>
-    <desc lang="es">La clásica sitcom sobre la familia Argento y sus ocurrencias cotidianas.</desc>
-  </programme>
-  <programme start="20260326123000 -0300" stop="20260326130000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Blanco y Negro</title>
-    <desc lang="es">Clasica sitcom protagonizada por Gary Coleman</desc>
-  </programme>
-  <programme start="20260326130000 -0300" stop="20260326140000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Xena Princesa Guerrera</title>
-    <desc lang="es">Las aventuras de la legendaria guerrera griega en su lucha por la justicia.</desc>
-  </programme>
-  <programme start="20260326140000 -0300" stop="20260326150000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Alguien te Mira</title>
-    <desc lang="es">Thriller de suspenso sobre vigilancia y secretos oscuros.</desc>
-  </programme>
-  <programme start="20260326150000 -0300" stop="20260326160000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">La Única Mujer</title>
-    <desc lang="es">Drama sobre una mujer que enfrenta los desafíos de un mundo masculino.</desc>
-  </programme>
-  <programme start="20260326160000 -0300" stop="20260326170000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Fatmagul</title>
-    <desc lang="es">Drama turco sobre una joven que lucha por la justicia tras una injusticia sufrida.</desc>
-  </programme>
-  <programme start="20260326170000 -0300" stop="20260326173000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Capitán Futuro</title>
-    <desc lang="es">El clásico anime sobre el héroe del futuro y sus aventuras espaciales.</desc>
-  </programme>
-  <programme start="20260326173000 -0300" stop="20260326180000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Los Cazafantasmas</title>
-    <desc lang="es">La serie animada basada en los famosos cazadores de fantasmas.</desc>
-  </programme>
-  <programme start="20260326180000 -0300" stop="20260326190000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Floricienta</title>
-    <desc lang="es">La telenovela musical argentina sobre una joven que lucha por sus sueños.</desc>
-  </programme>
-  <programme start="20260326190000 -0300" stop="20260326200000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Misión Imposible</title>
-    <desc lang="es">La clásica serie de espionaje con misiones de alto riesgo.</desc>
-  </programme>
-  <programme start="20260326200000 -0300" stop="20260326210000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Los Expedientes Secretos X</title>
-    <desc lang="es">Mulder y Scully investigan los casos más extraños e inexplicables del FBI.</desc>
-  </programme>
-  <programme start="20260326210000 -0300" stop="20260326220000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Dr. House</title>
-    <desc lang="es">El brillante y controvertido médico resuelve los casos más complejos de la medicina.</desc>
-  </programme>
-  <programme start="20260326220000 -0300" stop="20260326230000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Carta de Despedida</title>
-    <desc lang="es">Drama de suspenso e intriga.</desc>
-  </programme>
-  <programme start="20260326230000 -0300" stop="20260327000000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Génesis</title>
-    <desc lang="es">Serie bíblica que recrea los grandes relatos del Antiguo Testamento.</desc>
+  <programme start="20260328000000 -0300" stop="20260329000000 -0300" channel="clasica.ar">
+    <title lang="es">Radio Clasica</title>
+    <desc lang="es">La mejor programación de musica clásica todo el día</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327060000 -0300" channel="ciudadmagica.ar">
     <title lang="es">Cine en Casa</title>
@@ -523,197 +408,9 @@
     <title lang="es">Génesis</title>
     <desc lang="es">Serie bíblica que recrea los grandes relatos del Antiguo Testamento.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326003000 -0300" channel="retromagico.ar">
-    <title lang="es">Reboot</title>
-    <desc lang="es">La serie animada de ciencia ficción sobre guardianes digitales dentro de una computadora.</desc>
-  </programme>
-  <programme start="20260326003000 -0300" stop="20260326010000 -0300" channel="retromagico.ar">
-    <title lang="es">Sailor Moon</title>
-    <desc lang="es">Las aventuras de la guerrera lunar y sus amigas en defensa del amor y la justicia.</desc>
-  </programme>
-  <programme start="20260326010000 -0300" stop="20260326013000 -0300" channel="retromagico.ar">
-    <title lang="es">Tonto y Retonto</title>
-    <desc lang="es">El clásico dúo cómico animado de Hanna-Barbera.</desc>
-  </programme>
-  <programme start="20260326013000 -0300" stop="20260326020000 -0300" channel="retromagico.ar">
-    <title lang="es">Power Rangers</title>
-    <desc lang="es">Los jóvenes héroes que defienden la Tierra transformándose en guerreros de poder.</desc>
-  </programme>
-  <programme start="20260326020000 -0300" stop="20260326023000 -0300" channel="retromagico.ar">
-    <title lang="es">El Mundo de Bobby</title>
-    <desc lang="es">Las aventuras cotidianas del pequeño Bobby y su peculiar familia.</desc>
-  </programme>
-  <programme start="20260326023000 -0300" stop="20260326030000 -0300" channel="retromagico.ar">
-    <title lang="es">Estás Arrestado</title>
-    <desc lang="es">La serie animada de comedia policial japonesa.</desc>
-  </programme>
-  <programme start="20260326030000 -0300" stop="20260326033000 -0300" channel="retromagico.ar">
-    <title lang="es">Sakura Card Captors</title>
-    <desc lang="es">La mágica aventura de Sakura mientras captura las cartas Clow.</desc>
-  </programme>
-  <programme start="20260326033000 -0300" stop="20260326040000 -0300" channel="retromagico.ar">
-    <title lang="es">Transformers</title>
-    <desc lang="es">Los robots en disfraz que luchan por el destino del universo.</desc>
-  </programme>
-  <programme start="20260326040000 -0300" stop="20260326043000 -0300" channel="retromagico.ar">
-    <title lang="es">El Chavo del 8</title>
-    <desc lang="es">Las divertidas aventuras del entrañable Chavo y sus vecinos de la vecindad.</desc>
-  </programme>
-  <programme start="20260326043000 -0300" stop="20260326050000 -0300" channel="retromagico.ar">
-    <title lang="es">Spiderman</title>
-    <desc lang="es">Las aventuras del trepamuros más famoso de Marvel en la ciudad de Nueva York.</desc>
-  </programme>
-  <programme start="20260326050000 -0300" stop="20260326053000 -0300" channel="retromagico.ar">
-    <title lang="es">Dragon Ball Z</title>
-    <desc lang="es">Goku y sus amigos defienden la Tierra de los guerreros más poderosos del universo.</desc>
-  </programme>
-  <programme start="20260326053000 -0300" stop="20260326060000 -0300" channel="retromagico.ar">
-    <title lang="es">Karate Kid La Serie Animada</title>
-    <desc lang="es">Las aventuras animadas del joven karateca y su maestro Miyagi.</desc>
-  </programme>
-  <programme start="20260326060000 -0300" stop="20260326063000 -0300" channel="retromagico.ar">
-    <title lang="es">El Mundo de Beakman</title>
-    <desc lang="es">El excéntrico científico Beakman explica de forma divertida los misterios de la ciencia.</desc>
-  </programme>
-  <programme start="20260326063000 -0300" stop="20260326070000 -0300" channel="retromagico.ar">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">El joven Conan lucha por salvar a la humanidad en un mundo postapocalíptico.</desc>
-  </programme>
-  <programme start="20260326070000 -0300" stop="20260326073000 -0300" channel="retromagico.ar">
-    <title lang="es">Pokemon</title>
-    <desc lang="es">Ash y Pikachu recorren el mundo capturando y entrenando Pokémon.</desc>
-  </programme>
-  <programme start="20260326073000 -0300" stop="20260326080000 -0300" channel="retromagico.ar">
-    <title lang="es">Digimon</title>
-    <desc lang="es">Aventuras digitales de niños y sus compañeros monstruos en el mundo digital.</desc>
-  </programme>
-  <programme start="20260326080000 -0300" stop="20260326083000 -0300" channel="retromagico.ar">
-    <title lang="es">Reboot</title>
-    <desc lang="es">La serie animada de ciencia ficción sobre guardianes digitales dentro de una computadora.</desc>
-  </programme>
-  <programme start="20260326083000 -0300" stop="20260326090000 -0300" channel="retromagico.ar">
-    <title lang="es">Sailor Moon</title>
-    <desc lang="es">Las aventuras de la guerrera lunar y sus amigas en defensa del amor y la justicia.</desc>
-  </programme>
-  <programme start="20260326090000 -0300" stop="20260326093000 -0300" channel="retromagico.ar">
-    <title lang="es">Tonto y Retonto</title>
-    <desc lang="es">El clásico dúo cómico animado de Hanna-Barbera.</desc>
-  </programme>
-  <programme start="20260326093000 -0300" stop="20260326100000 -0300" channel="retromagico.ar">
-    <title lang="es">Power Rangers</title>
-    <desc lang="es">Los jóvenes héroes que defienden la Tierra transformándose en guerreros de poder.</desc>
-  </programme>
-  <programme start="20260326100000 -0300" stop="20260326103000 -0300" channel="retromagico.ar">
-    <title lang="es">El Mundo de Bobby</title>
-    <desc lang="es">Las aventuras cotidianas del pequeño Bobby y su peculiar familia.</desc>
-  </programme>
-  <programme start="20260326103000 -0300" stop="20260326110000 -0300" channel="retromagico.ar">
-    <title lang="es">Estás Arrestado</title>
-    <desc lang="es">La serie animada de comedia policial japonesa.</desc>
-  </programme>
-  <programme start="20260326110000 -0300" stop="20260326113000 -0300" channel="retromagico.ar">
-    <title lang="es">Sakura Card Captors</title>
-    <desc lang="es">La mágica aventura de Sakura mientras captura las cartas Clow.</desc>
-  </programme>
-  <programme start="20260326113000 -0300" stop="20260326120000 -0300" channel="retromagico.ar">
-    <title lang="es">Transformers</title>
-    <desc lang="es">Los robots en disfraz que luchan por el destino del universo.</desc>
-  </programme>
-  <programme start="20260326120000 -0300" stop="20260326123000 -0300" channel="retromagico.ar">
-    <title lang="es">El Chavo del 8</title>
-    <desc lang="es">Las divertidas aventuras del entrañable Chavo y sus vecinos de la vecindad.</desc>
-  </programme>
-  <programme start="20260326123000 -0300" stop="20260326130000 -0300" channel="retromagico.ar">
-    <title lang="es">Spiderman</title>
-    <desc lang="es">Las aventuras del trepamuros más famoso de Marvel en la ciudad de Nueva York.</desc>
-  </programme>
-  <programme start="20260326130000 -0300" stop="20260326133000 -0300" channel="retromagico.ar">
-    <title lang="es">Dragon Ball Z</title>
-    <desc lang="es">Goku y sus amigos defienden la Tierra de los guerreros más poderosos del universo.</desc>
-  </programme>
-  <programme start="20260326133000 -0300" stop="20260326140000 -0300" channel="retromagico.ar">
-    <title lang="es">Karate Kid La Serie Animada</title>
-    <desc lang="es">Las aventuras animadas del joven karateca y su maestro Miyagi.</desc>
-  </programme>
-  <programme start="20260326140000 -0300" stop="20260326143000 -0300" channel="retromagico.ar">
-    <title lang="es">El Mundo de Beakman</title>
-    <desc lang="es">El excéntrico científico Beakman explica de forma divertida los misterios de la ciencia.</desc>
-  </programme>
-  <programme start="20260326143000 -0300" stop="20260326150000 -0300" channel="retromagico.ar">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">El joven Conan lucha por salvar a la humanidad en un mundo postapocalíptico.</desc>
-  </programme>
-  <programme start="20260326150000 -0300" stop="20260326153000 -0300" channel="retromagico.ar">
-    <title lang="es">Pokemon</title>
-    <desc lang="es">Ash y Pikachu recorren el mundo capturando y entrenando Pokémon.</desc>
-  </programme>
-  <programme start="20260326153000 -0300" stop="20260326160000 -0300" channel="retromagico.ar">
-    <title lang="es">Digimon</title>
-    <desc lang="es">Aventuras digitales de niños y sus compañeros monstruos en el mundo digital.</desc>
-  </programme>
-  <programme start="20260326160000 -0300" stop="20260326163000 -0300" channel="retromagico.ar">
-    <title lang="es">Reboot</title>
-    <desc lang="es">La serie animada de ciencia ficción sobre guardianes digitales dentro de una computadora.</desc>
-  </programme>
-  <programme start="20260326163000 -0300" stop="20260326170000 -0300" channel="retromagico.ar">
-    <title lang="es">Sailor Moon</title>
-    <desc lang="es">Las aventuras de la guerrera lunar y sus amigas en defensa del amor y la justicia.</desc>
-  </programme>
-  <programme start="20260326170000 -0300" stop="20260326173000 -0300" channel="retromagico.ar">
-    <title lang="es">Tonto y Retonto</title>
-    <desc lang="es">El clásico dúo cómico animado de Hanna-Barbera.</desc>
-  </programme>
-  <programme start="20260326173000 -0300" stop="20260326180000 -0300" channel="retromagico.ar">
-    <title lang="es">Power Rangers</title>
-    <desc lang="es">Los jóvenes héroes que defienden la Tierra transformándose en guerreros de poder.</desc>
-  </programme>
-  <programme start="20260326180000 -0300" stop="20260326183000 -0300" channel="retromagico.ar">
-    <title lang="es">El Mundo de Bobby</title>
-    <desc lang="es">Las aventuras cotidianas del pequeño Bobby y su peculiar familia.</desc>
-  </programme>
-  <programme start="20260326183000 -0300" stop="20260326190000 -0300" channel="retromagico.ar">
-    <title lang="es">Estás Arrestado</title>
-    <desc lang="es">La serie animada de comedia policial japonesa.</desc>
-  </programme>
-  <programme start="20260326190000 -0300" stop="20260326193000 -0300" channel="retromagico.ar">
-    <title lang="es">Sakura Card Captors</title>
-    <desc lang="es">La mágica aventura de Sakura mientras captura las cartas Clow.</desc>
-  </programme>
-  <programme start="20260326193000 -0300" stop="20260326200000 -0300" channel="retromagico.ar">
-    <title lang="es">Transformers</title>
-    <desc lang="es">Los robots en disfraz que luchan por el destino del universo.</desc>
-  </programme>
-  <programme start="20260326200000 -0300" stop="20260326203000 -0300" channel="retromagico.ar">
-    <title lang="es">El Chavo del 8</title>
-    <desc lang="es">Las divertidas aventuras del entrañable Chavo y sus vecinos de la vecindad.</desc>
-  </programme>
-  <programme start="20260326203000 -0300" stop="20260326210000 -0300" channel="retromagico.ar">
-    <title lang="es">Spiderman</title>
-    <desc lang="es">Las aventuras del trepamuros más famoso de Marvel en la ciudad de Nueva York.</desc>
-  </programme>
-  <programme start="20260326210000 -0300" stop="20260326213000 -0300" channel="retromagico.ar">
-    <title lang="es">Dragon Ball Z</title>
-    <desc lang="es">Goku y sus amigos defienden la Tierra de los guerreros más poderosos del universo.</desc>
-  </programme>
-  <programme start="20260326213000 -0300" stop="20260326220000 -0300" channel="retromagico.ar">
-    <title lang="es">Karate Kid La Serie Animada</title>
-    <desc lang="es">Las aventuras animadas del joven karateca y su maestro Miyagi.</desc>
-  </programme>
-  <programme start="20260326220000 -0300" stop="20260326223000 -0300" channel="retromagico.ar">
-    <title lang="es">El Mundo de Beakman</title>
-    <desc lang="es">El excéntrico científico Beakman explica de forma divertida los misterios de la ciencia.</desc>
-  </programme>
-  <programme start="20260326223000 -0300" stop="20260326230000 -0300" channel="retromagico.ar">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">El joven Conan lucha por salvar a la humanidad en un mundo postapocalíptico.</desc>
-  </programme>
-  <programme start="20260326230000 -0300" stop="20260326233000 -0300" channel="retromagico.ar">
-    <title lang="es">Pokemon</title>
-    <desc lang="es">Ash y Pikachu recorren el mundo capturando y entrenando Pokémon.</desc>
-  </programme>
-  <programme start="20260326233000 -0300" stop="20260327000000 -0300" channel="retromagico.ar">
-    <title lang="es">Digimon</title>
-    <desc lang="es">Aventuras digitales de niños y sus compañeros monstruos en el mundo digital.</desc>
+  <programme start="20260328000000 -0300" stop="20260329000000 -0300" channel="ciudadmagica.ar">
+    <title lang="es">Cine en Casa</title>
+    <desc lang="es">Ciclo de películas durante todo el sábado.</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327003000 -0300" channel="retromagico.ar">
     <title lang="es">Reboot</title>
@@ -907,197 +604,97 @@
     <title lang="es">Digimon</title>
     <desc lang="es">Aventuras digitales de niños y sus compañeros monstruos en el mundo digital.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326003000 -0300" channel="magickids.ar">
-    <title lang="es">BTX</title>
-    <desc lang="es">Aventuras de robots y acción futurista en este anime de ciencia ficción.</desc>
+  <programme start="20260328000000 -0300" stop="20260328020000 -0300" channel="retromagico.ar">
+    <title lang="es">MTV Weekend</title>
+    <desc lang="es">Bloque de videoclips y música del fin de semana al estilo MTV.</desc>
   </programme>
-  <programme start="20260326003000 -0300" stop="20260326010000 -0300" channel="magickids.ar">
-    <title lang="es">Yu Yu Hakusho</title>
-    <desc lang="es">Yusuke Urameshi un joven que se convierte en detective del mundo espiritual.</desc>
+  <programme start="20260328020000 -0300" stop="20260328080000 -0300" channel="retromagico.ar">
+    <title lang="es">Maratoon Cartoons</title>
+    <desc lang="es">Maratón de dibujos animados clásicos para la madrugada del fin de semana.</desc>
   </programme>
-  <programme start="20260326010000 -0300" stop="20260326013000 -0300" channel="magickids.ar">
-    <title lang="es">Los Caballeros del Zodiaco</title>
-    <desc lang="es">Los guerreros de las constelaciones protegen a la diosa Atenea de las fuerzas del mal.</desc>
+  <programme start="20260328080000 -0300" stop="20260328083000 -0300" channel="retromagico.ar">
+    <title lang="es">Superman La Serie Animada</title>
+    <desc lang="es">Las aventuras del Hombre de Acero en la ciudad de Metrópolis.</desc>
   </programme>
-  <programme start="20260326013000 -0300" stop="20260326020000 -0300" channel="magickids.ar">
-    <title lang="es">Transformers Beast Wars</title>
-    <desc lang="es">Los robots se transforman en animales en esta nueva saga de la guerra de los Transformers.</desc>
+  <programme start="20260328083000 -0300" stop="20260328090000 -0300" channel="retromagico.ar">
+    <title lang="es">Batman La Serie Animada</title>
+    <desc lang="es">El Caballero de la Noche patrulla Gotham City en esta aclamada serie animada.</desc>
   </programme>
-  <programme start="20260326020000 -0300" stop="20260326023000 -0300" channel="magickids.ar">
-    <title lang="es">Ranma 1/2</title>
-    <desc lang="es">Las cómicas aventuras de un joven que se transforma en chica cuando lo salpica agua fría.</desc>
+  <programme start="20260328090000 -0300" stop="20260328093000 -0300" channel="retromagico.ar">
+    <title lang="es">El Conde Pátula</title>
+    <desc lang="es">El vampiro más simpático y sus hilarantes aventuras.</desc>
   </programme>
-  <programme start="20260326023000 -0300" stop="20260326030000 -0300" channel="magickids.ar">
-    <title lang="es">Sailor Moon</title>
-    <desc lang="es">Las aventuras de la guerrera lunar y sus amigas en defensa del amor y la justicia.</desc>
+  <programme start="20260328093000 -0300" stop="20260328100000 -0300" channel="retromagico.ar">
+    <title lang="es">Daniel el Terrible</title>
+    <desc lang="es">Las aventuras del niño más travieso del barrio.</desc>
   </programme>
-  <programme start="20260326030000 -0300" stop="20260326033000 -0300" channel="magickids.ar">
-    <title lang="es">Zenki</title>
-    <desc lang="es">Un joven demonio protege a su ama en este anime de acción y fantasía japonesa.</desc>
+  <programme start="20260328100000 -0300" stop="20260328103000 -0300" channel="retromagico.ar">
+    <title lang="es">Capitán N El Amo del Juego</title>
+    <desc lang="es">Un joven es transportado al mundo de los videojuegos para salvar el universo Nintendo.</desc>
   </programme>
-  <programme start="20260326033000 -0300" stop="20260326040000 -0300" channel="magickids.ar">
-    <title lang="es">¡Están Arrestados!</title>
-    <desc lang="es">Dos policías femeninas resuelven casos con humor en las calles de Tokio.</desc>
+  <programme start="20260328103000 -0300" stop="20260328110000 -0300" channel="retromagico.ar">
+    <title lang="es">El Show de Super Mario Bros</title>
+    <desc lang="es">Las aventuras animadas del famoso fontanero en el Reino Champiñón.</desc>
   </programme>
-  <programme start="20260326040000 -0300" stop="20260326043000 -0300" channel="magickids.ar">
-    <title lang="es">Doraemon</title>
-    <desc lang="es">El gato robot del futuro y sus inventos mágicos para ayudar a su amigo Nobita.</desc>
+  <programme start="20260328110000 -0300" stop="20260328113000 -0300" channel="retromagico.ar">
+    <title lang="es">Las Aventuras de Teddy Ruxpin</title>
+    <desc lang="es">El osito parlante y su amigo Grubby viven aventuras mágicas en busca de tesoros.</desc>
   </programme>
-  <programme start="20260326043000 -0300" stop="20260326050000 -0300" channel="magickids.ar">
-    <title lang="es">Las Guerreras Mágicas</title>
-    <desc lang="es">Cuatro chicas son transportadas a un mundo de fantasía para convertirse en guerreras legendarias.</desc>
+  <programme start="20260328113000 -0300" stop="20260328120000 -0300" channel="retromagico.ar">
+    <title lang="es">Calabozos y Dragones</title>
+    <desc lang="es">Un grupo de amigos es transportado a un mundo de fantasía medieval lleno de peligros.</desc>
   </programme>
-  <programme start="20260326050000 -0300" stop="20260326053000 -0300" channel="magickids.ar">
-    <title lang="es">Bloque Magic</title>
-    <desc lang="es">Bloque especial de programación variada de Magic Kids.</desc>
+  <programme start="20260328120000 -0300" stop="20260328123000 -0300" channel="retromagico.ar">
+    <title lang="es">Bravestarr</title>
+    <desc lang="es">El sheriff del planeta Nuevo Texas defiende la justicia con poderes sobrenaturales.</desc>
   </programme>
-  <programme start="20260326053000 -0300" stop="20260326060000 -0300" channel="magickids.ar">
-    <title lang="es">Digimon 02</title>
-    <desc lang="es">La segunda temporada de las aventuras digitales con nuevos niños elegidos y Digimon.</desc>
+  <programme start="20260328123000 -0300" stop="20260328130000 -0300" channel="retromagico.ar">
+    <title lang="es">He-Man</title>
+    <desc lang="es">El poderoso He-Man protege Eternia de las garras del maléfico Skeletor.</desc>
   </programme>
-  <programme start="20260326060000 -0300" stop="20260326063000 -0300" channel="magickids.ar">
-    <title lang="es">Medabots</title>
-    <desc lang="es">Competencias de robots personalizados con sus dueños en busca de la medalla rara.</desc>
+  <programme start="20260328130000 -0300" stop="20260328133000 -0300" channel="retromagico.ar">
+    <title lang="es">She-Ra</title>
+    <desc lang="es">La princesa del poder lucha por la libertad del planeta Etheria.</desc>
   </programme>
-  <programme start="20260326063000 -0300" stop="20260326070000 -0300" channel="magickids.ar">
-    <title lang="es">Yu Yu Hakusho</title>
-    <desc lang="es">Yusuke Urameshi un joven que se convierte en detective del mundo espiritual.</desc>
+  <programme start="20260328133000 -0300" stop="20260328140000 -0300" channel="retromagico.ar">
+    <title lang="es">V Invasión Extraterrestre</title>
+    <desc lang="es">La resistencia humana lucha contra una invasión alienígena en la Tierra.</desc>
   </programme>
-  <programme start="20260326070000 -0300" stop="20260326073000 -0300" channel="magickids.ar">
-    <title lang="es">City Hunter</title>
-    <desc lang="es">El carismático cazarrecompensas Ryo Saeba protege a sus clientes con humor y acción.</desc>
+  <programme start="20260328140000 -0300" stop="20260328183000 -0300" channel="retromagico.ar">
+    <title lang="es">Matinée Películas</title>
+    <desc lang="es">Ciclo de películas para la tarde del fin de semana.</desc>
   </programme>
-  <programme start="20260326073000 -0300" stop="20260326080000 -0300" channel="magickids.ar">
-    <title lang="es">Kimagure Orange Road</title>
-    <desc lang="es">Un triángulo amoroso entre un joven con poderes telequinéticos y dos chicas muy distintas.</desc>
+  <programme start="20260328183000 -0300" stop="20260328190000 -0300" channel="retromagico.ar">
+    <title lang="es">Gi-Joe</title>
+    <desc lang="es">El equipo de élite G.I. Joe combate las amenazas de la organización Cobra.</desc>
   </programme>
-  <programme start="20260326080000 -0300" stop="20260326083000 -0300" channel="magickids.ar">
-    <title lang="es">Ranma 1/2</title>
-    <desc lang="es">Las cómicas aventuras de un joven que se transforma en chica cuando lo salpica agua fría.</desc>
+  <programme start="20260328190000 -0300" stop="20260328193000 -0300" channel="retromagico.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Los felinos del espacio defienden el Tercer Planeta de las fuerzas del mal.</desc>
   </programme>
-  <programme start="20260326083000 -0300" stop="20260326090000 -0300" channel="magickids.ar">
-    <title lang="es">Urusei Yatsura</title>
-    <desc lang="es">Las locas aventuras de Ataru y la extraterrestre Lamu en este clásico manga de Rumiko Takahashi.</desc>
+  <programme start="20260328193000 -0300" stop="20260328200000 -0300" channel="retromagico.ar">
+    <title lang="es">Malcolm El De El Medio</title>
+    <desc lang="es">Las aventuras del genio más disfuncional de la familia más caótica de la TV.</desc>
   </programme>
-  <programme start="20260326090000 -0300" stop="20260326093000 -0300" channel="magickids.ar">
-    <title lang="es">Detective Conan</title>
-    <desc lang="es">Un joven detective reducido al cuerpo de un niño resuelve crímenes manteniendo su identidad en secreto.</desc>
+  <programme start="20260328200000 -0300" stop="20260328203000 -0300" channel="retromagico.ar">
+    <title lang="es">Los Halcones Galácticos</title>
+    <desc lang="es">Héroes del espacio que luchan por la paz intergaláctica.</desc>
   </programme>
-  <programme start="20260326093000 -0300" stop="20260326100000 -0300" channel="magickids.ar">
-    <title lang="es">Sakura Card Captor</title>
-    <desc lang="es">La mágica aventura de Sakura mientras captura las cartas Clow.</desc>
+  <programme start="20260328203000 -0300" stop="20260328210000 -0300" channel="retromagico.ar">
+    <title lang="es">Futurama</title>
+    <desc lang="es">La serie animada de Matt Groening ambientada en el siglo XXXI.</desc>
   </programme>
-  <programme start="20260326100000 -0300" stop="20260326103000 -0300" channel="magickids.ar">
-    <title lang="es">Los Caballeros del Zodiaco</title>
-    <desc lang="es">Los guerreros de las constelaciones protegen a la diosa Atenea de las fuerzas del mal.</desc>
+  <programme start="20260328210000 -0300" stop="20260328213000 -0300" channel="retromagico.ar">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">La familia amarilla más famosa del mundo en sus aventuras cotidianas.</desc>
   </programme>
-  <programme start="20260326103000 -0300" stop="20260326110000 -0300" channel="magickids.ar">
-    <title lang="es">Saber Marionette</title>
-    <desc lang="es">En un mundo sin mujeres un joven se convierte en el amo de tres androides con emociones únicas.</desc>
+  <programme start="20260328213000 -0300" stop="20260328220000 -0300" channel="retromagico.ar">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">La familia amarilla más famosa del mundo en sus aventuras cotidianas.</desc>
   </programme>
-  <programme start="20260326110000 -0300" stop="20260326113000 -0300" channel="magickids.ar">
-    <title lang="es">Transformers Beast Wars</title>
-    <desc lang="es">Los robots se transforman en animales en esta nueva saga de la guerra de los Transformers.</desc>
-  </programme>
-  <programme start="20260326113000 -0300" stop="20260326120000 -0300" channel="magickids.ar">
-    <title lang="es">Hunter X Hunter</title>
-    <desc lang="es">Gon Freecs busca a su padre convirtiéndose en cazador en un mundo lleno de peligros.</desc>
-  </programme>
-  <programme start="20260326120000 -0300" stop="20260326123000 -0300" channel="magickids.ar">
-    <title lang="es">Cazafantasmas Mikami</title>
-    <desc lang="es">La agente paranormal Mikami combate fantasmas y espíritus con su peculiar estilo.</desc>
-  </programme>
-  <programme start="20260326123000 -0300" stop="20260326130000 -0300" channel="magickids.ar">
-    <title lang="es">Orphen</title>
-    <desc lang="es">Un poderoso hechicero busca a su antigua maestra transformada en un dragón monstruoso.</desc>
-  </programme>
-  <programme start="20260326130000 -0300" stop="20260326133000 -0300" channel="magickids.ar">
-    <title lang="es">Dragon Ball Z</title>
-    <desc lang="es">Goku y sus amigos defienden la Tierra de los guerreros más poderosos del universo.</desc>
-  </programme>
-  <programme start="20260326133000 -0300" stop="20260326140000 -0300" channel="magickids.ar">
-    <title lang="es">Medabots</title>
-    <desc lang="es">Competencias de robots personalizados con sus dueños en busca de la medalla rara.</desc>
-  </programme>
-  <programme start="20260326140000 -0300" stop="20260326143000 -0300" channel="magickids.ar">
-    <title lang="es">Las Guerreras Mágicas</title>
-    <desc lang="es">Cuatro chicas son transportadas a un mundo de fantasía para convertirse en guerreras legendarias.</desc>
-  </programme>
-  <programme start="20260326143000 -0300" stop="20260326150000 -0300" channel="magickids.ar">
-    <title lang="es">El Mundo de Beakman</title>
-    <desc lang="es">El excéntrico científico Beakman explica de forma divertida los misterios de la ciencia.</desc>
-  </programme>
-  <programme start="20260326150000 -0300" stop="20260326153000 -0300" channel="magickids.ar">
-    <title lang="es">BTX</title>
-    <desc lang="es">Aventuras de robots y acción futurista en este anime de ciencia ficción.</desc>
-  </programme>
-  <programme start="20260326153000 -0300" stop="20260326160000 -0300" channel="magickids.ar">
-    <title lang="es">Sailor Moon</title>
-    <desc lang="es">Las aventuras de la guerrera lunar y sus amigas en defensa del amor y la justicia.</desc>
-  </programme>
-  <programme start="20260326160000 -0300" stop="20260326163000 -0300" channel="magickids.ar">
-    <title lang="es">Los Caballeros del Zodiaco</title>
-    <desc lang="es">Los guerreros de las constelaciones protegen a la diosa Atenea de las fuerzas del mal.</desc>
-  </programme>
-  <programme start="20260326163000 -0300" stop="20260326170000 -0300" channel="magickids.ar">
-    <title lang="es">Slayers</title>
-    <desc lang="es">La poderosa hechicera Lina Inverse y sus compañeros viven aventuras de magia y humor.</desc>
-  </programme>
-  <programme start="20260326170000 -0300" stop="20260326173000 -0300" channel="magickids.ar">
-    <title lang="es">¡Están Arrestados!</title>
-    <desc lang="es">Dos policías femeninas resuelven casos con humor en las calles de Tokio.</desc>
-  </programme>
-  <programme start="20260326173000 -0300" stop="20260326180000 -0300" channel="magickids.ar">
-    <title lang="es">Power Rangers Turbo</title>
-    <desc lang="es">Los Power Rangers protegen la Tierra con sus turbo zords contra el mal.</desc>
-  </programme>
-  <programme start="20260326180000 -0300" stop="20260326183000 -0300" channel="magickids.ar">
-    <title lang="es">Digimon 02</title>
-    <desc lang="es">La segunda temporada de las aventuras digitales con nuevos niños elegidos y Digimon.</desc>
-  </programme>
-  <programme start="20260326183000 -0300" stop="20260326190000 -0300" channel="magickids.ar">
-    <title lang="es">Ranma 1/2</title>
-    <desc lang="es">Las cómicas aventuras de un joven que se transforma en chica cuando lo salpica agua fría.</desc>
-  </programme>
-  <programme start="20260326190000 -0300" stop="20260326193000 -0300" channel="magickids.ar">
-    <title lang="es">Sakura Card Captor</title>
-    <desc lang="es">La mágica aventura de Sakura mientras captura las cartas Clow.</desc>
-  </programme>
-  <programme start="20260326193000 -0300" stop="20260326200000 -0300" channel="magickids.ar">
-    <title lang="es">Slam Dunk</title>
-    <desc lang="es">El baloncesto escolar japonés con el rebelde Hanamichi Sakuragi y su equipo.</desc>
-  </programme>
-  <programme start="20260326200000 -0300" stop="20260326203000 -0300" channel="magickids.ar">
-    <title lang="es">Zenki</title>
-    <desc lang="es">Un joven demonio protege a su ama en este anime de acción y fantasía japonesa.</desc>
-  </programme>
-  <programme start="20260326203000 -0300" stop="20260326210000 -0300" channel="magickids.ar">
-    <title lang="es">Medabots</title>
-    <desc lang="es">Competencias de robots personalizados con sus dueños en busca de la medalla rara.</desc>
-  </programme>
-  <programme start="20260326210000 -0300" stop="20260326213000 -0300" channel="magickids.ar">
-    <title lang="es">Sailor Moon</title>
-    <desc lang="es">Las aventuras de la guerrera lunar y sus amigas en defensa del amor y la justicia.</desc>
-  </programme>
-  <programme start="20260326213000 -0300" stop="20260326220000 -0300" channel="magickids.ar">
-    <title lang="es">Slayers</title>
-    <desc lang="es">La poderosa hechicera Lina Inverse y sus compañeros viven aventuras de magia y humor.</desc>
-  </programme>
-  <programme start="20260326220000 -0300" stop="20260326223000 -0300" channel="magickids.ar">
-    <title lang="es">Dragon Ball</title>
-    <desc lang="es">Las primeras aventuras de Goku niño en busca de las esferas del dragón.</desc>
-  </programme>
-  <programme start="20260326223000 -0300" stop="20260326230000 -0300" channel="magickids.ar">
-    <title lang="es">Samurai X</title>
-    <desc lang="es">La historia del legendario espadachín Kenshin Himura en el Japón de la era Meiji.</desc>
-  </programme>
-  <programme start="20260326230000 -0300" stop="20260326233000 -0300" channel="magickids.ar">
-    <title lang="es">Dragon Ball Z</title>
-    <desc lang="es">Goku y sus amigos defienden la Tierra de los guerreros más poderosos del universo.</desc>
-  </programme>
-  <programme start="20260326233000 -0300" stop="20260327000000 -0300" channel="magickids.ar">
-    <title lang="es">Escuela de Detectives</title>
-    <desc lang="es">Jóvenes estudiantes de detective resuelven misterios en su academia.</desc>
+  <programme start="20260328220000 -0300" stop="20260329000000 -0300" channel="retromagico.ar">
+    <title lang="es">Cine Trasnoche</title>
+    <desc lang="es">Ciclo de películas para la trasnoche del fin de semana.</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327003000 -0300" channel="magickids.ar">
     <title lang="es">BTX</title>
@@ -1291,125 +888,197 @@
     <title lang="es">Escuela de Detectives</title>
     <desc lang="es">Jóvenes estudiantes de detective resuelven misterios en su academia.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326110000 -0300" channel="dreiko.ar">
-    <title lang="es">Fuera de aire</title>
-    <desc lang="es">Fuera de aire</desc>
+  <programme start="20260328000000 -0300" stop="20260328003000 -0300" channel="magickids.ar">
+    <title lang="es">Orphen</title>
+    <desc lang="es">Un poderoso hechicero busca a su antigua maestra transformada en un dragón monstruoso.</desc>
   </programme>
-  <programme start="20260326110000 -0300" stop="20260326113000 -0300" channel="dreiko.ar">
-    <title lang="es">Capitán Futuro</title>
-    <desc lang="es">Serie animada de ciencia ficción sobre un héroe espacial y sus aventuras.</desc>
+  <programme start="20260328003000 -0300" stop="20260328010000 -0300" channel="magickids.ar">
+    <title lang="es">Yu Yu Hakusho</title>
+    <desc lang="es">Yusuke Urameshi un joven que se convierte en detective del mundo espiritual.</desc>
   </programme>
-  <programme start="20260326113000 -0300" stop="20260326120000 -0300" channel="dreiko.ar">
-    <title lang="es">Centuriones</title>
-    <desc lang="es">Equipo de acción con trajes tecnológicos que combaten el crimen.</desc>
+  <programme start="20260328010000 -0300" stop="20260328013000 -0300" channel="magickids.ar">
+    <title lang="es">Slam Dunk</title>
+    <desc lang="es">El baloncesto escolar japonés con el rebelde Hanamichi Sakuragi y su equipo.</desc>
   </programme>
-  <programme start="20260326120000 -0300" stop="20260326123000 -0300" channel="dreiko.ar">
-    <title lang="es">Pato Aventuras</title>
-    <desc lang="es">Aventuras de Rico McPato y sus sobrinos en busca de tesoros.</desc>
+  <programme start="20260328013000 -0300" stop="20260328020000 -0300" channel="magickids.ar">
+    <title lang="es">Koni Chan</title>
+    <desc lang="es">Las aventuras de la pequeña extraterrestre Koni y sus amigos en la Tierra.</desc>
   </programme>
-  <programme start="20260326123000 -0300" stop="20260326123400 -0300" channel="dreiko.ar">
-    <title lang="es">Publicidad</title>
-    <desc lang="es">Espacio de anuncios comerciales.</desc>
+  <programme start="20260328020000 -0300" stop="20260328023000 -0300" channel="magickids.ar">
+    <title lang="es">Doraemon</title>
+    <desc lang="es">El gato robot del futuro y sus inventos mágicos para ayudar a su amigo Nobita.</desc>
   </programme>
-  <programme start="20260326123400 -0300" stop="20260326130400 -0300" channel="dreiko.ar">
-    <title lang="es">Voltron: Defensor del Universo</title>
-    <desc lang="es">Robots leones que se combinan para formar un guerrero gigante.</desc>
+  <programme start="20260328023000 -0300" stop="20260328030000 -0300" channel="magickids.ar">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Goku y sus amigos defienden la Tierra de los guerreros más poderosos del universo.</desc>
   </programme>
-  <programme start="20260326130400 -0300" stop="20260326133400 -0300" channel="dreiko.ar">
-    <title lang="es">Robotech</title>
-    <desc lang="es">Serie de ciencia ficción con batallas espaciales y mechas.</desc>
+  <programme start="20260328030000 -0300" stop="20260328033000 -0300" channel="magickids.ar">
+    <title lang="es">Cazafantasmas Mikami</title>
+    <desc lang="es">La agente paranormal Mikami combate fantasmas y espíritus con su peculiar estilo.</desc>
   </programme>
-  <programme start="20260326133400 -0300" stop="20260326133800 -0300" channel="dreiko.ar">
-    <title lang="es">Publicidad</title>
-    <desc lang="es">Espacio de anuncios comerciales.</desc>
+  <programme start="20260328033000 -0300" stop="20260328040000 -0300" channel="magickids.ar">
+    <title lang="es">Transformers Beast Wars</title>
+    <desc lang="es">Los robots se transforman en animales en esta nueva saga de la guerra de los Transformers.</desc>
   </programme>
-  <programme start="20260326133800 -0300" stop="20260326140800 -0300" channel="dreiko.ar">
-    <title lang="es">Dinoplatívolos</title>
-    <desc lang="es">Animación con dinosaurios y aventuras fantásticas.</desc>
+  <programme start="20260328040000 -0300" stop="20260328043000 -0300" channel="magickids.ar">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Las cómicas aventuras de un joven que se transforma en chica cuando lo salpica agua fría.</desc>
   </programme>
-  <programme start="20260326140800 -0300" stop="20260326143800 -0300" channel="dreiko.ar">
-    <title lang="es">Tesoros Disney</title>
-    <desc lang="es">Selección de clásicos animados de Disney.</desc>
+  <programme start="20260328043000 -0300" stop="20260328050000 -0300" channel="magickids.ar">
+    <title lang="es">Kimagure Orange Road</title>
+    <desc lang="es">Un triángulo amoroso entre un joven con poderes telequinéticos y dos chicas muy distintas.</desc>
   </programme>
-  <programme start="20260326143800 -0300" stop="20260326150800 -0300" channel="dreiko.ar">
-    <title lang="es">Los Defensores de la Tierra</title>
-    <desc lang="es">Héroes clásicos unidos contra el mal.</desc>
+  <programme start="20260328050000 -0300" stop="20260328053000 -0300" channel="magickids.ar">
+    <title lang="es">Urusei Yatsura</title>
+    <desc lang="es">Las locas aventuras de Ataru y la extraterrestre Lamu en este clásico manga de Rumiko Takahashi.</desc>
   </programme>
-  <programme start="20260326150800 -0300" stop="20260326153800 -0300" channel="dreiko.ar">
-    <title lang="es">Doug</title>
-    <desc lang="es">Serie animada sobre la vida cotidiana de un adolescente.</desc>
+  <programme start="20260328053000 -0300" stop="20260328060000 -0300" channel="magickids.ar">
+    <title lang="es">¡Están Arrestados!</title>
+    <desc lang="es">Dos policías femeninas resuelven casos con humor en las calles de Tokio.</desc>
   </programme>
-  <programme start="20260326153800 -0300" stop="20260326154200 -0300" channel="dreiko.ar">
-    <title lang="es">Publicidad</title>
-    <desc lang="es">Espacio de anuncios comerciales.</desc>
+  <programme start="20260328060000 -0300" stop="20260328063000 -0300" channel="magickids.ar">
+    <title lang="es">Digimon 02</title>
+    <desc lang="es">La segunda temporada de las aventuras digitales con nuevos niños elegidos y Digimon.</desc>
   </programme>
-  <programme start="20260326154200 -0300" stop="20260326161200 -0300" channel="dreiko.ar">
-    <title lang="es">Dick Tracy</title>
-    <desc lang="es">Detective clásico resolviendo crímenes.</desc>
+  <programme start="20260328063000 -0300" stop="20260328070000 -0300" channel="magickids.ar">
+    <title lang="es">Maison Ikkoku</title>
+    <desc lang="es">El romance entre un estudiante y la administradora de su pensión en el Japón de los 80.</desc>
   </programme>
-  <programme start="20260326161200 -0300" stop="20260326164200 -0300" channel="dreiko.ar">
-    <title lang="es">Las Aventuras de Sonic</title>
-    <desc lang="es">El erizo azul lucha contra el Dr. Robotnik.</desc>
+  <programme start="20260328070000 -0300" stop="20260328073000 -0300" channel="magickids.ar">
+    <title lang="es">Slam Dunk</title>
+    <desc lang="es">El baloncesto escolar japonés con el rebelde Hanamichi Sakuragi y su equipo.</desc>
   </programme>
-  <programme start="20260326164200 -0300" stop="20260326164600 -0300" channel="dreiko.ar">
-    <title lang="es">Publicidad</title>
-    <desc lang="es">Espacio de anuncios comerciales.</desc>
+  <programme start="20260328073000 -0300" stop="20260328080000 -0300" channel="magickids.ar">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Un joven demonio protege a su ama en este anime de acción y fantasía japonesa.</desc>
   </programme>
-  <programme start="20260326164600 -0300" stop="20260326171600 -0300" channel="dreiko.ar">
-    <title lang="es">El Inspector Gadget</title>
-    <desc lang="es">Inspector torpe con gadgets tecnológicos.</desc>
+  <programme start="20260328080000 -0300" stop="20260328083000 -0300" channel="magickids.ar">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Las cómicas aventuras de un joven que se transforma en chica cuando lo salpica agua fría.</desc>
   </programme>
-  <programme start="20260326171600 -0300" stop="20260326174600 -0300" channel="dreiko.ar">
-    <title lang="es">Supersónicos</title>
-    <desc lang="es">Familia futurista en situaciones cómicas.</desc>
+  <programme start="20260328083000 -0300" stop="20260328090000 -0300" channel="magickids.ar">
+    <title lang="es">Kimagure Orange Road</title>
+    <desc lang="es">Un triángulo amoroso entre un joven con poderes telequinéticos y dos chicas muy distintas.</desc>
   </programme>
-  <programme start="20260326174600 -0300" stop="20260326181600 -0300" channel="dreiko.ar">
-    <title lang="es">Los Transformers</title>
-    <desc lang="es">Robots que se transforman y luchan por el control del universo.</desc>
+  <programme start="20260328090000 -0300" stop="20260328093000 -0300" channel="magickids.ar">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las primeras aventuras de Goku niño en busca de las esferas del dragón.</desc>
   </programme>
-  <programme start="20260326181600 -0300" stop="20260326182000 -0300" channel="dreiko.ar">
-    <title lang="es">Publicidad</title>
-    <desc lang="es">Espacio de anuncios comerciales.</desc>
+  <programme start="20260328093000 -0300" stop="20260328100000 -0300" channel="magickids.ar">
+    <title lang="es">BTX</title>
+    <desc lang="es">Aventuras de robots y acción futurista en este anime de ciencia ficción.</desc>
   </programme>
-  <programme start="20260326182000 -0300" stop="20260326185000 -0300" channel="dreiko.ar">
-    <title lang="es">Candy Candy</title>
-    <desc lang="es">Drama romántico en formato anime clásico.</desc>
+  <programme start="20260328100000 -0300" stop="20260328103000 -0300" channel="magickids.ar">
+    <title lang="es">Ultraman Tiga</title>
+    <desc lang="es">El gigante de luz defiende la Tierra de monstruos y alienígenas en este tokusatsu clásico.</desc>
   </programme>
-  <programme start="20260326185000 -0300" stop="20260326192000 -0300" channel="dreiko.ar">
-    <title lang="es">Brave Reideen</title>
-    <desc lang="es">Anime de robots y mitología.</desc>
+  <programme start="20260328103000 -0300" stop="20260328110000 -0300" channel="magickids.ar">
+    <title lang="es">Las Guerreras Mágicas</title>
+    <desc lang="es">Cuatro chicas son transportadas a un mundo de fantasía para convertirse en guerreras legendarias.</desc>
   </programme>
-  <programme start="20260326192000 -0300" stop="20260326192400 -0300" channel="dreiko.ar">
-    <title lang="es">Publicidad</title>
-    <desc lang="es">Espacio de anuncios comerciales.</desc>
+  <programme start="20260328110000 -0300" stop="20260328113000 -0300" channel="magickids.ar">
+    <title lang="es">Transformers Beast Wars</title>
+    <desc lang="es">Los robots se transforman en animales en esta nueva saga de la guerra de los Transformers.</desc>
   </programme>
-  <programme start="20260326192400 -0300" stop="20260326195400 -0300" channel="dreiko.ar">
-    <title lang="es">El Desafío de los GoBots</title>
-    <desc lang="es">Robots enfrentados en batalla.</desc>
+  <programme start="20260328113000 -0300" stop="20260328120000 -0300" channel="magickids.ar">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Las aventuras de la guerrera lunar y sus amigas en defensa del amor y la justicia.</desc>
   </programme>
-  <programme start="20260326195400 -0300" stop="20260326202400 -0300" channel="dreiko.ar">
-    <title lang="es">Taz-Mania</title>
-    <desc lang="es">Serie cómica protagonizada por Taz.</desc>
+  <programme start="20260328120000 -0300" stop="20260328123000 -0300" channel="magickids.ar">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Los guerreros de las constelaciones protegen a la diosa Atenea de las fuerzas del mal.</desc>
   </programme>
-  <programme start="20260326202400 -0300" stop="20260326202800 -0300" channel="dreiko.ar">
-    <title lang="es">Publicidad</title>
-    <desc lang="es">Espacio de anuncios comerciales.</desc>
+  <programme start="20260328123000 -0300" stop="20260328130000 -0300" channel="magickids.ar">
+    <title lang="es">Orphen</title>
+    <desc lang="es">Un poderoso hechicero busca a su antigua maestra transformada en un dragón monstruoso.</desc>
   </programme>
-  <programme start="20260326202800 -0300" stop="20260326205800 -0300" channel="dreiko.ar">
-    <title lang="es">Olimpiadas de la Risa</title>
-    <desc lang="es">Competencias humorísticas animadas.</desc>
+  <programme start="20260328130000 -0300" stop="20260328133000 -0300" channel="magickids.ar">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Goku y sus amigos defienden la Tierra de los guerreros más poderosos del universo.</desc>
   </programme>
-  <programme start="20260326205800 -0300" stop="20260326212800 -0300" channel="dreiko.ar">
-    <title lang="es">El Show de Garfield</title>
-    <desc lang="es">El gato Garfield en situaciones cómicas.</desc>
+  <programme start="20260328133000 -0300" stop="20260328140000 -0300" channel="magickids.ar">
+    <title lang="es">Slam Dunk</title>
+    <desc lang="es">El baloncesto escolar japonés con el rebelde Hanamichi Sakuragi y su equipo.</desc>
   </programme>
-  <programme start="20260326212800 -0300" stop="20260326213200 -0300" channel="dreiko.ar">
-    <title lang="es">Publicidad</title>
-    <desc lang="es">Espacio de anuncios comerciales.</desc>
+  <programme start="20260328140000 -0300" stop="20260328143000 -0300" channel="magickids.ar">
+    <title lang="es">Cazafantasmas Mikami</title>
+    <desc lang="es">La agente paranormal Mikami combate fantasmas y espíritus con su peculiar estilo.</desc>
   </programme>
-  <programme start="20260326213200 -0300" stop="20260327000000 -0300" channel="dreiko.ar">
-    <title lang="es">Fuera de aire</title>
-    <desc lang="es">Fuera de aire</desc>
+  <programme start="20260328143000 -0300" stop="20260328150000 -0300" channel="magickids.ar">
+    <title lang="es">¡Están Arrestados!</title>
+    <desc lang="es">Dos policías femeninas resuelven casos con humor en las calles de Tokio.</desc>
+  </programme>
+  <programme start="20260328150000 -0300" stop="20260328153000 -0300" channel="magickids.ar">
+    <title lang="es">Historias de Fantasmas</title>
+    <desc lang="es">Relatos de terror y misterio del folclore japonés animados para el público joven.</desc>
+  </programme>
+  <programme start="20260328153000 -0300" stop="20260328160000 -0300" channel="magickids.ar">
+    <title lang="es">Supercampeones J</title>
+    <desc lang="es">Oliver Atom y sus compañeros luchan por convertirse en los mejores futbolistas del mundo.</desc>
+  </programme>
+  <programme start="20260328160000 -0300" stop="20260328163000 -0300" channel="magickids.ar">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las primeras aventuras de Goku niño en busca de las esferas del dragón.</desc>
+  </programme>
+  <programme start="20260328163000 -0300" stop="20260328170000 -0300" channel="magickids.ar">
+    <title lang="es">Slayers</title>
+    <desc lang="es">La poderosa hechicera Lina Inverse y sus compañeros viven aventuras de magia y humor.</desc>
+  </programme>
+  <programme start="20260328170000 -0300" stop="20260328173000 -0300" channel="magickids.ar">
+    <title lang="es">Kimagure Orange Road</title>
+    <desc lang="es">Un triángulo amoroso entre un joven con poderes telequinéticos y dos chicas muy distintas.</desc>
+  </programme>
+  <programme start="20260328173000 -0300" stop="20260328180000 -0300" channel="magickids.ar">
+    <title lang="es">Power Rangers Turbo</title>
+    <desc lang="es">Los Power Rangers protegen la Tierra con sus turbo zords contra el mal.</desc>
+  </programme>
+  <programme start="20260328180000 -0300" stop="20260328183000 -0300" channel="magickids.ar">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Las cómicas aventuras de un joven que se transforma en chica cuando lo salpica agua fría.</desc>
+  </programme>
+  <programme start="20260328183000 -0300" stop="20260328190000 -0300" channel="magickids.ar">
+    <title lang="es">Digimon 02</title>
+    <desc lang="es">La segunda temporada de las aventuras digitales con nuevos niños elegidos y Digimon.</desc>
+  </programme>
+  <programme start="20260328190000 -0300" stop="20260328193000 -0300" channel="magickids.ar">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">La mágica aventura de Sakura mientras captura las cartas Clow.</desc>
+  </programme>
+  <programme start="20260328193000 -0300" stop="20260328200000 -0300" channel="magickids.ar">
+    <title lang="es">Samurai X</title>
+    <desc lang="es">La historia del legendario espadachín Kenshin Himura en el Japón de la era Meiji.</desc>
+  </programme>
+  <programme start="20260328200000 -0300" stop="20260328203000 -0300" channel="magickids.ar">
+    <title lang="es">City Hunter</title>
+    <desc lang="es">El carismático cazarrecompensas Ryo Saeba protege a sus clientes con humor y acción.</desc>
+  </programme>
+  <programme start="20260328203000 -0300" stop="20260328210000 -0300" channel="magickids.ar">
+    <title lang="es">Samurai Warriors</title>
+    <desc lang="es">Guerreros legendarios del Japón feudal en épicas batallas históricas animadas.</desc>
+  </programme>
+  <programme start="20260328210000 -0300" stop="20260328213000 -0300" channel="magickids.ar">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Goku y sus amigos defienden la Tierra de los guerreros más poderosos del universo.</desc>
+  </programme>
+  <programme start="20260328213000 -0300" stop="20260328220000 -0300" channel="magickids.ar">
+    <title lang="es">Detective Conan</title>
+    <desc lang="es">Un joven detective reducido al cuerpo de un niño resuelve crímenes manteniendo su identidad en secreto.</desc>
+  </programme>
+  <programme start="20260328220000 -0300" stop="20260328223000 -0300" channel="magickids.ar">
+    <title lang="es">Transformers Beast Wars</title>
+    <desc lang="es">Los robots se transforman en animales en esta nueva saga de la guerra de los Transformers.</desc>
+  </programme>
+  <programme start="20260328223000 -0300" stop="20260328230000 -0300" channel="magickids.ar">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Las aventuras de la guerrera lunar y sus amigas en defensa del amor y la justicia.</desc>
+  </programme>
+  <programme start="20260328230000 -0300" stop="20260328233000 -0300" channel="magickids.ar">
+    <title lang="es">Escuela de Detectives</title>
+    <desc lang="es">Jóvenes estudiantes de detective resuelven misterios en su academia.</desc>
+  </programme>
+  <programme start="20260328233000 -0300" stop="20260329000000 -0300" channel="magickids.ar">
+    <title lang="es">Utena</title>
+    <desc lang="es">La revolucionaria chica Utena desafía el destino en un misterioso duelo por la rosa de la novia.</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327110000 -0300" channel="dreiko.ar">
     <title lang="es">Fuera de aire</title>
@@ -1531,197 +1200,121 @@
     <title lang="es">Fuera de aire</title>
     <desc lang="es">Fuera de aire</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326003000 -0300" channel="locomotion1.ar">
-    <title lang="es">Chica Marioneta J</title>
-    <desc lang="es">En un planeta solo de hombres, Terra II que está poblado por clones de los seis hombres que fueron abandonados allí 300 años antes. Las únicas hembras son robots llamados &quot;marionetas&quot;, que sirven como trabajadoras y soldados. Lima, Cereza y Zarzamora poseen emociones humanas.</desc>
+  <programme start="20260328000000 -0300" stop="20260328110000 -0300" channel="dreiko.ar">
+    <title lang="es">Fuera de aire</title>
+    <desc lang="es">Fuera de aire</desc>
   </programme>
-  <programme start="20260326003000 -0300" stop="20260326010000 -0300" channel="locomotion1.ar">
-    <title lang="es">The Vision of Escaflowne</title>
-    <desc lang="es">Hitomi Kanzaki es una estudiante con poderes para vislumbrar el futuro mediante cartas del tarot.</desc>
+  <programme start="20260328110000 -0300" stop="20260328113000 -0300" channel="dreiko.ar">
+    <title lang="es">Niños al Rescate</title>
+    <desc lang="es">Serie infantil con aventuras y enseñanzas.</desc>
   </programme>
-  <programme start="20260326010000 -0300" stop="20260326013000 -0300" channel="locomotion1.ar">
-    <title lang="es">El Baron Rojo</title>
-    <desc lang="es">Ken de la Rosa pilotea el robot Baron Rojo en su camino a convertirse en campeón.</desc>
+  <programme start="20260328113000 -0300" stop="20260328120000 -0300" channel="dreiko.ar">
+    <title lang="es">Simiolón y Listolín</title>
+    <desc lang="es">Dúo animado con historias humorísticas.</desc>
   </programme>
-  <programme start="20260326013000 -0300" stop="20260326020000 -0300" channel="locomotion1.ar">
-    <title lang="es">Cliffhanger (Lupin III)</title>
-    <desc lang="es">Aventuras del ladrón Lupin III y su persecución por el inspector Zenigata.</desc>
+  <programme start="20260328120000 -0300" stop="20260328123000 -0300" channel="dreiko.ar">
+    <title lang="es">El Fantasma Revoltoso</title>
+    <desc lang="es">Fantasma travieso en aventuras cómicas.</desc>
   </programme>
-  <programme start="20260326020000 -0300" stop="20260326023000 -0300" channel="locomotion1.ar">
-    <title lang="es">Lost Universe</title>
-    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  <programme start="20260328123000 -0300" stop="20260328130000 -0300" channel="dreiko.ar">
+    <title lang="es">Shazam</title>
+    <desc lang="es">Superhéroe con poderes mágicos.</desc>
   </programme>
-  <programme start="20260326023000 -0300" stop="20260326030000 -0300" channel="locomotion1.ar">
-    <title lang="es">Evangelion</title>
-    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  <programme start="20260328130000 -0300" stop="20260328130400 -0300" channel="dreiko.ar">
+    <title lang="es">Publicidad</title>
+    <desc lang="es">Espacio de anuncios comerciales.</desc>
   </programme>
-  <programme start="20260326030000 -0300" stop="20260326033000 -0300" channel="locomotion1.ar">
-    <title lang="es">Los Cazadores de Duendes</title>
-    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  <programme start="20260328130400 -0300" stop="20260328133400 -0300" channel="dreiko.ar">
+    <title lang="es">Pebbles y Bamm-Bamm</title>
+    <desc lang="es">Hijos de los Picapiedra en aventuras juveniles.</desc>
   </programme>
-  <programme start="20260326033000 -0300" stop="20260326040000 -0300" channel="locomotion1.ar">
-    <title lang="es">Soul Hunter</title>
-    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  <programme start="20260328133400 -0300" stop="20260328140400 -0300" channel="dreiko.ar">
+    <title lang="es">Monchichis</title>
+    <desc lang="es">Pequeñas criaturas en historias tiernas.</desc>
   </programme>
-  <programme start="20260326040000 -0300" stop="20260326043000 -0300" channel="locomotion1.ar">
-    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
-    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  <programme start="20260328140400 -0300" stop="20260328143400 -0300" channel="dreiko.ar">
+    <title lang="es">Hong Kong Phooey</title>
+    <desc lang="es">Perro superhéroe experto en artes marciales.</desc>
   </programme>
-  <programme start="20260326043000 -0300" stop="20260326050000 -0300" channel="locomotion1.ar">
-    <title lang="es">Chica Marioneta J</title>
-    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  <programme start="20260328143400 -0300" stop="20260328143800 -0300" channel="dreiko.ar">
+    <title lang="es">Publicidad</title>
+    <desc lang="es">Espacio de anuncios comerciales.</desc>
   </programme>
-  <programme start="20260326050000 -0300" stop="20260326053000 -0300" channel="locomotion1.ar">
-    <title lang="es">The Vision of Escaflowne</title>
-    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  <programme start="20260328143800 -0300" stop="20260328150800 -0300" channel="dreiko.ar">
+    <title lang="es">Superman</title>
+    <desc lang="es">El clásico superhéroe defendiendo la justicia.</desc>
   </programme>
-  <programme start="20260326053000 -0300" stop="20260326060000 -0300" channel="locomotion1.ar">
-    <title lang="es">Blue Seed</title>
-    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  <programme start="20260328150800 -0300" stop="20260328153800 -0300" channel="dreiko.ar">
+    <title lang="es">Historia Interminable</title>
+    <desc lang="es">Fantasía basada en la historia mágica del libro.</desc>
   </programme>
-  <programme start="20260326060000 -0300" stop="20260326063000 -0300" channel="locomotion1.ar">
-    <title lang="es">Cowboy Bebop</title>
-    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
+  <programme start="20260328153800 -0300" stop="20260328160800 -0300" channel="dreiko.ar">
+    <title lang="es">La Pequeña Lulú</title>
+    <desc lang="es">Niña traviesa en historias cotidianas.</desc>
   </programme>
-  <programme start="20260326063000 -0300" stop="20260326070000 -0300" channel="locomotion1.ar">
-    <title lang="es">Ranma ½</title>
-    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
+  <programme start="20260328160800 -0300" stop="20260328163800 -0300" channel="dreiko.ar">
+    <title lang="es">Sherlock Holmes</title>
+    <desc lang="es">Detective resolviendo misterios.</desc>
   </programme>
-  <programme start="20260326070000 -0300" stop="20260326073000 -0300" channel="locomotion1.ar">
-    <title lang="es">Duckman</title>
-    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
+  <programme start="20260328163800 -0300" stop="20260328170800 -0300" channel="dreiko.ar">
+    <title lang="es">The Herculoids</title>
+    <desc lang="es">Criaturas fantásticas protegen su planeta.</desc>
   </programme>
-  <programme start="20260326073000 -0300" stop="20260326080000 -0300" channel="locomotion1.ar">
-    <title lang="es">South Park</title>
-    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
+  <programme start="20260328170800 -0300" stop="20260328171200 -0300" channel="dreiko.ar">
+    <title lang="es">Publicidad</title>
+    <desc lang="es">Espacio de anuncios comerciales.</desc>
   </programme>
-  <programme start="20260326080000 -0300" stop="20260326083000 -0300" channel="locomotion1.ar">
-    <title lang="es">Thundercats</title>
-    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
+  <programme start="20260328171200 -0300" stop="20260328174200 -0300" channel="dreiko.ar">
+    <title lang="es">Anatole</title>
+    <desc lang="es">Ratón refinado viviendo en París.</desc>
   </programme>
-  <programme start="20260326083000 -0300" stop="20260326090000 -0300" channel="locomotion1.ar">
-    <title lang="es">Los Defensores De La Tierra</title>
-    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
+  <programme start="20260328174200 -0300" stop="20260328181200 -0300" channel="dreiko.ar">
+    <title lang="es">Sam, el Rey del Judo</title>
+    <desc lang="es">Serie animada de artes marciales.</desc>
   </programme>
-  <programme start="20260326090000 -0300" stop="20260326093000 -0300" channel="locomotion1.ar">
-    <title lang="es">El Baron Rojo</title>
-    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
+  <programme start="20260328181200 -0300" stop="20260328184200 -0300" channel="dreiko.ar">
+    <title lang="es">Los Super Globetrotters</title>
+    <desc lang="es">Equipo de básquet con aventuras animadas.</desc>
   </programme>
-  <programme start="20260326093000 -0300" stop="20260326100000 -0300" channel="locomotion1.ar">
-    <title lang="es">Cliffhanger (Lupin III)</title>
-    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
+  <programme start="20260328184200 -0300" stop="20260328191200 -0300" channel="dreiko.ar">
+    <title lang="es">Momento Retro</title>
+    <desc lang="es">Bloque de contenido nostálgico.</desc>
   </programme>
-  <programme start="20260326100000 -0300" stop="20260326103000 -0300" channel="locomotion1.ar">
-    <title lang="es">Lost Universe</title>
-    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas junto a su nave inteligente.</desc>
+  <programme start="20260328191200 -0300" stop="20260328191600 -0300" channel="dreiko.ar">
+    <title lang="es">Publicidad</title>
+    <desc lang="es">Espacio de anuncios comerciales.</desc>
   </programme>
-  <programme start="20260326103000 -0300" stop="20260326110000 -0300" channel="locomotion1.ar">
-    <title lang="es">Evangelion</title>
-    <desc lang="es">Shinji pilota un robot biológico para combatir seres llamados Ángeles.</desc>
+  <programme start="20260328191600 -0300" stop="20260328194600 -0300" channel="dreiko.ar">
+    <title lang="es">Autos Locos</title>
+    <desc lang="es">Carreras disparatadas entre personajes.</desc>
   </programme>
-  <programme start="20260326110000 -0300" stop="20260326113000 -0300" channel="locomotion1.ar">
-    <title lang="es">Los Cazadores de Duendes</title>
-    <desc lang="es">Un grupo es transportado a un mundo mágico donde deben recuperar fragmentos de un hechizo.</desc>
+  <programme start="20260328194600 -0300" stop="20260328201600 -0300" channel="dreiko.ar">
+    <title lang="es">Mister Tibú</title>
+    <desc lang="es">Aventuras animadas clásicas.</desc>
   </programme>
-  <programme start="20260326113000 -0300" stop="20260326120000 -0300" channel="locomotion1.ar">
-    <title lang="es">Soul Hunter</title>
-    <desc lang="es">Una hechicera controla al emperador y el mundo cae en caos.</desc>
+  <programme start="20260328201600 -0300" stop="20260328204600 -0300" channel="dreiko.ar">
+    <title lang="es">Los Snorkels</title>
+    <desc lang="es">Criaturas submarinas en historias divertidas.</desc>
   </programme>
-  <programme start="20260326120000 -0300" stop="20260326123000 -0300" channel="locomotion1.ar">
-    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
-    <desc lang="es">Organismos artificiales llamados Boomers ayudan a reconstruir Tokio, pero algunos se rebelan.</desc>
+  <programme start="20260328204600 -0300" stop="20260328205000 -0300" channel="dreiko.ar">
+    <title lang="es">Publicidad</title>
+    <desc lang="es">Espacio de anuncios comerciales.</desc>
   </programme>
-  <programme start="20260326123000 -0300" stop="20260326130000 -0300" channel="locomotion1.ar">
-    <title lang="es">Chica Marioneta J</title>
-    <desc lang="es">En un planeta solo de hombres, Terra II está habitado por clones y robots con emociones.</desc>
+  <programme start="20260328205000 -0300" stop="20260328212000 -0300" channel="dreiko.ar">
+    <title lang="es">El Mundo de Bobby</title>
+    <desc lang="es">Serie animada sobre la imaginación de un niño.</desc>
   </programme>
-  <programme start="20260326130000 -0300" stop="20260326133000 -0300" channel="locomotion1.ar">
-    <title lang="es">The Vision of Escaflowne</title>
-    <desc lang="es">Hitomi Kanzaki posee poderes de predicción y vive aventuras en un mundo fantástico.</desc>
+  <programme start="20260328212000 -0300" stop="20260328215000 -0300" channel="dreiko.ar">
+    <title lang="es">Tarzán (Serie Animada)</title>
+    <desc lang="es">Aventuras del héroe de la selva.</desc>
   </programme>
-  <programme start="20260326133000 -0300" stop="20260326140000 -0300" channel="locomotion1.ar">
-    <title lang="es">Blue Seed</title>
-    <desc lang="es">Momiji debe detener a los Aragami gracias a su linaje especial.</desc>
+  <programme start="20260328215000 -0300" stop="20260328215400 -0300" channel="dreiko.ar">
+    <title lang="es">Publicidad</title>
+    <desc lang="es">Espacio de anuncios comerciales.</desc>
   </programme>
-  <programme start="20260326140000 -0300" stop="20260326143000 -0300" channel="locomotion1.ar">
-    <title lang="es">Cowboy Bebop</title>
-    <desc lang="es">Spike y Jet son cazarrecompensas que recorren el espacio.</desc>
-  </programme>
-  <programme start="20260326143000 -0300" stop="20260326150000 -0300" channel="locomotion1.ar">
-    <title lang="es">Ranma ½</title>
-    <desc lang="es">Ranma sufre una maldición que lo transforma tras caer en una fuente en China.</desc>
-  </programme>
-  <programme start="20260326150000 -0300" stop="20260326153000 -0300" channel="locomotion1.ar">
-    <title lang="es">Duckman</title>
-    <desc lang="es">Pato sarcástico y caótico enfrenta la vida con humor ácido.</desc>
-  </programme>
-  <programme start="20260326153000 -0300" stop="20260326160000 -0300" channel="locomotion1.ar">
-    <title lang="es">South Park</title>
-    <desc lang="es">Cuatro niños viven aventuras irreverentes en un pequeño pueblo.</desc>
-  </programme>
-  <programme start="20260326160000 -0300" stop="20260326163000 -0300" channel="locomotion1.ar">
-    <title lang="es">Thundercats</title>
-    <desc lang="es">Un grupo escapa de su planeta destruido y lucha por sobrevivir.</desc>
-  </programme>
-  <programme start="20260326163000 -0300" stop="20260326170000 -0300" channel="locomotion1.ar">
-    <title lang="es">Los Defensores De La Tierra</title>
-    <desc lang="es">Héroes clásicos se unen para enfrentar al villano Ming.</desc>
-  </programme>
-  <programme start="20260326170000 -0300" stop="20260326173000 -0300" channel="locomotion1.ar">
-    <title lang="es">El Baron Rojo</title>
-    <desc lang="es">Ken continúa su lucha para ser el mejor piloto de robots.</desc>
-  </programme>
-  <programme start="20260326173000 -0300" stop="20260326180000 -0300" channel="locomotion1.ar">
-    <title lang="es">Cliffhanger (Lupin III)</title>
-    <desc lang="es">Lupin III continúa sus aventuras de robo y persecución.</desc>
-  </programme>
-  <programme start="20260326180000 -0300" stop="20260326183000 -0300" channel="locomotion1.ar">
-    <title lang="es">Lost Universe</title>
-    <desc lang="es">Kain Blueriver viaja por el universo como cazador de problemas.</desc>
-  </programme>
-  <programme start="20260326183000 -0300" stop="20260326190000 -0300" channel="locomotion1.ar">
-    <title lang="es">Evangelion</title>
-    <desc lang="es">Shinji combate Ángeles en un robot biológico.</desc>
-  </programme>
-  <programme start="20260326190000 -0300" stop="20260326193000 -0300" channel="locomotion1.ar">
-    <title lang="es">Los Cazadores de Duendes</title>
-    <desc lang="es">Grupo atrapado en mundo mágico busca regresar a casa.</desc>
-  </programme>
-  <programme start="20260326193000 -0300" stop="20260326200000 -0300" channel="locomotion1.ar">
-    <title lang="es">Soul Hunter</title>
-    <desc lang="es">Mundo dominado por magia oscura y caos imperial.</desc>
-  </programme>
-  <programme start="20260326200000 -0300" stop="20260326203000 -0300" channel="locomotion1.ar">
-    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
-    <desc lang="es">Boomers fuera de control amenazan la ciudad.</desc>
-  </programme>
-  <programme start="20260326203000 -0300" stop="20260326210000 -0300" channel="locomotion1.ar">
-    <title lang="es">Chica Marioneta J</title>
-    <desc lang="es">Robots con emociones en un mundo de clones.</desc>
-  </programme>
-  <programme start="20260326210000 -0300" stop="20260326213000 -0300" channel="locomotion1.ar">
-    <title lang="es">The Vision of Escaflowne</title>
-    <desc lang="es">Aventuras con poderes psíquicos y mundos paralelos.</desc>
-  </programme>
-  <programme start="20260326213000 -0300" stop="20260326220000 -0300" channel="locomotion1.ar">
-    <title lang="es">Blue Seed</title>
-    <desc lang="es">Momiji enfrenta criaturas Aragami.</desc>
-  </programme>
-  <programme start="20260326220000 -0300" stop="20260326223000 -0300" channel="locomotion1.ar">
-    <title lang="es">Cowboy Bebop</title>
-    <desc lang="es">Cazarrecompensas espaciales en misiones peligrosas.</desc>
-  </programme>
-  <programme start="20260326223000 -0300" stop="20260326230000 -0300" channel="locomotion1.ar">
-    <title lang="es">Ranma ½</title>
-    <desc lang="es">Artes marciales y transformaciones absurdas.</desc>
-  </programme>
-  <programme start="20260326230000 -0300" stop="20260326233000 -0300" channel="locomotion1.ar">
-    <title lang="es">Duckman</title>
-    <desc lang="es">Humor ácido de un pato caótico.</desc>
-  </programme>
-  <programme start="20260326233000 -0300" stop="20260327000000 -0300" channel="locomotion1.ar">
-    <title lang="es">South Park</title>
-    <desc lang="es">Sátira social con niños irreverentes.</desc>
+  <programme start="20260328215400 -0300" stop="20260329000000 -0300" channel="dreiko.ar">
+    <title lang="es">Fuera de aire</title>
+    <desc lang="es">Fuera de aire</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327003000 -0300" channel="locomotion1.ar">
     <title lang="es">Chica Marioneta J</title>
@@ -1915,157 +1508,9 @@
     <title lang="es">South Park</title>
     <desc lang="es">Sátira social con niños irreverentes.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326002000 -0300" channel="mitv.ar">
-    <title lang="es">Los Dukes de Hazzard</title>
-    <desc lang="es">Aventuras y persecuciones.</desc>
-  </programme>
-  <programme start="20260326002000 -0300" stop="20260326012000 -0300" channel="mitv.ar">
-    <title lang="es">Lobo de Aire</title>
-    <desc lang="es">Serie de acción sobre un helicóptero militar de alta tecnología.</desc>
-  </programme>
-  <programme start="20260326012000 -0300" stop="20260326021500 -0300" channel="mitv.ar">
-    <title lang="es">El Séptimo Cielo</title>
-    <desc lang="es">Drama familiar sobre la vida de un pastor y su familia.</desc>
-  </programme>
-  <programme start="20260326021500 -0300" stop="20260326030500 -0300" channel="mitv.ar">
-    <title lang="es">Documentales</title>
-    <desc lang="es">Espacio dedicado a contenidos culturales e históricos.</desc>
-  </programme>
-  <programme start="20260326030500 -0300" stop="20260326033500 -0300" channel="mitv.ar">
-    <title lang="es">Fábulas del Bosque Verde</title>
-    <desc lang="es">Historias animadas con moralejas ambientadas en la naturaleza.</desc>
-  </programme>
-  <programme start="20260326033500 -0300" stop="20260326040000 -0300" channel="mitv.ar">
-    <title lang="es">Sailor Moon</title>
-    <desc lang="es">Guerreras mágicas luchan contra el mal.</desc>
-  </programme>
-  <programme start="20260326040000 -0300" stop="20260326042500 -0300" channel="mitv.ar">
-    <title lang="es">Caricaturas Clásicas</title>
-    <desc lang="es">Selección de animaciones clásicas.</desc>
-  </programme>
-  <programme start="20260326042500 -0300" stop="20260326045500 -0300" channel="mitv.ar">
-    <title lang="es">La Momia</title>
-    <desc lang="es">Aventuras inspiradas en el mítico personaje.</desc>
-  </programme>
-  <programme start="20260326045500 -0300" stop="20260326053000 -0300" channel="mitv.ar">
-    <title lang="es">Batman</title>
-    <desc lang="es">El héroe de Gotham combate el crimen.</desc>
-  </programme>
-  <programme start="20260326053000 -0300" stop="20260326055500 -0300" channel="mitv.ar">
-    <title lang="es">Los Tres Chiflados</title>
-    <desc lang="es">Humor físico clásico con situaciones absurdas.</desc>
-  </programme>
-  <programme start="20260326055500 -0300" stop="20260326063000 -0300" channel="mitv.ar">
-    <title lang="es">El Super Agente 86</title>
-    <desc lang="es">Comedia de espionaje con el torpe Maxwell Smart.</desc>
-  </programme>
-  <programme start="20260326063000 -0300" stop="20260326071500 -0300" channel="mitv.ar">
-    <title lang="es">Patrulla Motorizada</title>
-    <desc lang="es">Serie policial de acción en carretera.</desc>
-  </programme>
-  <programme start="20260326071500 -0300" stop="20260326075000 -0300" channel="mitv.ar">
-    <title lang="es">Mr. Ed</title>
-    <desc lang="es">Comedia sobre un caballo que habla.</desc>
-  </programme>
-  <programme start="20260326075000 -0300" stop="20260326082000 -0300" channel="mitv.ar">
-    <title lang="es">El Chavo del 8</title>
-    <desc lang="es">Comedia clásica del vecindario más famoso.</desc>
-  </programme>
-  <programme start="20260326082000 -0300" stop="20260326085000 -0300" channel="mitv.ar">
-    <title lang="es">Cheers</title>
-    <desc lang="es">Sitcom ambientada en un bar de Boston.</desc>
-  </programme>
-  <programme start="20260326085000 -0300" stop="20260326095000 -0300" channel="mitv.ar">
-    <title lang="es">Babylon 5</title>
-    <desc lang="es">Ciencia ficción en una estación espacial.</desc>
-  </programme>
-  <programme start="20260326095000 -0300" stop="20260326105500 -0300" channel="mitv.ar">
-    <title lang="es">Bonanza</title>
-    <desc lang="es">Clásico western familiar.</desc>
-  </programme>
-  <programme start="20260326105500 -0300" stop="20260326115500 -0300" channel="mitv.ar">
-    <title lang="es">Los Dukes de Hazzard</title>
-    <desc lang="es">Aventuras con autos y persecuciones.</desc>
-  </programme>
-  <programme start="20260326115500 -0300" stop="20260326130000 -0300" channel="mitv.ar">
-    <title lang="es">El Séptimo Cielo</title>
-    <desc lang="es">Drama familiar sobre valores y vida cotidiana.</desc>
-  </programme>
-  <programme start="20260326130000 -0300" stop="20260326140000 -0300" channel="mitv.ar">
-    <title lang="es">Lobo de Aire</title>
-    <desc lang="es">Misiones aéreas con tecnología avanzada.</desc>
-  </programme>
-  <programme start="20260326140000 -0300" stop="20260326142500 -0300" channel="mitv.ar">
-    <title lang="es">El Avispón Verde</title>
-    <desc lang="es">Héroe enmascarado combate el crimen.</desc>
-  </programme>
-  <programme start="20260326142500 -0300" stop="20260326145000 -0300" channel="mitv.ar">
-    <title lang="es">El Show de los Muppets</title>
-    <desc lang="es">Variedades con marionetas y humor.</desc>
-  </programme>
-  <programme start="20260326145000 -0300" stop="20260326152000 -0300" channel="mitv.ar">
-    <title lang="es">Rin Tin Tin</title>
-    <desc lang="es">Aventuras de un perro héroe.</desc>
-  </programme>
-  <programme start="20260326152000 -0300" stop="20260326155000 -0300" channel="mitv.ar">
-    <title lang="es">Los Locos Addams</title>
-    <desc lang="es">Familia excéntrica y humor oscuro.</desc>
-  </programme>
-  <programme start="20260326155000 -0300" stop="20260326162000 -0300" channel="mitv.ar">
-    <title lang="es">Fábulas del Bosque Verde</title>
-    <desc lang="es">Historias animadas con moralejas.</desc>
-  </programme>
-  <programme start="20260326162000 -0300" stop="20260326165000 -0300" channel="mitv.ar">
-    <title lang="es">Sailor Moon</title>
-    <desc lang="es">Guerreras mágicas luchan contra el mal.</desc>
-  </programme>
-  <programme start="20260326165000 -0300" stop="20260326171000 -0300" channel="mitv.ar">
-    <title lang="es">Caricaturas Clásicas</title>
-    <desc lang="es">Animación clásica variada.</desc>
-  </programme>
-  <programme start="20260326171000 -0300" stop="20260326174000 -0300" channel="mitv.ar">
-    <title lang="es">La Momia</title>
-    <desc lang="es">Aventuras y acción sobrenatural.</desc>
-  </programme>
-  <programme start="20260326174000 -0300" stop="20260326181000 -0300" channel="mitv.ar">
-    <title lang="es">Batman</title>
-    <desc lang="es">Defensor nocturno de Gotham.</desc>
-  </programme>
-  <programme start="20260326181000 -0300" stop="20260326183500 -0300" channel="mitv.ar">
-    <title lang="es">Los Tres Chiflados</title>
-    <desc lang="es">Humor físico clásico.</desc>
-  </programme>
-  <programme start="20260326183500 -0300" stop="20260326190000 -0300" channel="mitv.ar">
-    <title lang="es">Martillo Hammer</title>
-    <desc lang="es">Serie policial con acción urbana.</desc>
-  </programme>
-  <programme start="20260326190000 -0300" stop="20260326195000 -0300" channel="mitv.ar">
-    <title lang="es">Patrulla Motorizada</title>
-    <desc lang="es">Policías en acción en carretera.</desc>
-  </programme>
-  <programme start="20260326195000 -0300" stop="20260326202000 -0300" channel="mitv.ar">
-    <title lang="es">Mr. Ed</title>
-    <desc lang="es">El caballo parlante y sus ocurrencias.</desc>
-  </programme>
-  <programme start="20260326202000 -0300" stop="20260326205000 -0300" channel="mitv.ar">
-    <title lang="es">El Chavo del 8</title>
-    <desc lang="es">Comedia de situaciones en vecindad.</desc>
-  </programme>
-  <programme start="20260326205000 -0300" stop="20260326213000 -0300" channel="mitv.ar">
-    <title lang="es">Cheers</title>
-    <desc lang="es">Historias en un bar lleno de personajes.</desc>
-  </programme>
-  <programme start="20260326213000 -0300" stop="20260326222500 -0300" channel="mitv.ar">
-    <title lang="es">Babylon 5</title>
-    <desc lang="es">Conflictos políticos en el espacio.</desc>
-  </programme>
-  <programme start="20260326222500 -0300" stop="20260326232000 -0300" channel="mitv.ar">
-    <title lang="es">Bonanza</title>
-    <desc lang="es">(Lunes: Documentales) o western clásico.</desc>
-  </programme>
-  <programme start="20260326232000 -0300" stop="20260327000000 -0300" channel="mitv.ar">
-    <title lang="es">Los Dukes de Hazzard</title>
-    <desc lang="es">Aventuras y persecuciones.</desc>
+  <programme start="20260328000000 -0300" stop="20260329000000 -0300" channel="locomotion1.ar">
+    <title lang="es">Locomotion fin de semana</title>
+    <desc lang="es">Programación de Locomotion para el fin de semana</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327002000 -0300" channel="mitv.ar">
     <title lang="es">Los Dukes de Hazzard</title>
@@ -2219,197 +1664,105 @@
     <title lang="es">Los Dukes de Hazzard</title>
     <desc lang="es">Aventuras y persecuciones.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326003000 -0300" channel="animestation.ar">
-    <title lang="es">South Park</title>
-    <desc lang="es">Serie animada satírica sobre la sociedad y política.</desc>
+  <programme start="20260328000000 -0300" stop="20260328011000 -0300" channel="mitv.ar">
+    <title lang="es">Misión Imposible</title>
+    <desc lang="es">Agentes secretos realizan misiones encubiertas.</desc>
   </programme>
-  <programme start="20260326003000 -0300" stop="20260326010000 -0300" channel="animestation.ar">
-    <title lang="es">Ugly Americans</title>
-    <desc lang="es">Comedia animada sobre convivencia entre humanos y criaturas.</desc>
+  <programme start="20260328011000 -0300" stop="20260328030000 -0300" channel="mitv.ar">
+    <title lang="es">Cine Estelar</title>
+    <desc lang="es">Películas destacadas del canal.</desc>
   </programme>
-  <programme start="20260326010000 -0300" stop="20260326013000 -0300" channel="animestation.ar">
-    <title lang="es">Souy Hunter</title>
-    <desc lang="es">Anime de acción sobrenatural sobre cazadores de espíritus y mitología china.</desc>
+  <programme start="20260328030000 -0300" stop="20260328035000 -0300" channel="mitv.ar">
+    <title lang="es">Caricaturas Clásicas</title>
+    <desc lang="es">Animación clásica variada.</desc>
   </programme>
-  <programme start="20260326013000 -0300" stop="20260326020000 -0300" channel="animestation.ar">
-    <title lang="es">.Hack Legend Of The Twilight</title>
-    <desc lang="es">Anime ambientado en un videojuego MMORPG con misterio y aventuras.</desc>
+  <programme start="20260328035000 -0300" stop="20260328041500 -0300" channel="mitv.ar">
+    <title lang="es">El Precio de la Historia</title>
+    <desc lang="es">Reality sobre compra de antigüedades.</desc>
   </programme>
-  <programme start="20260326020000 -0300" stop="20260326023000 -0300" channel="animestation.ar">
-    <title lang="es">Full Metal Panic Fumoffu</title>
-    <desc lang="es">Comedia escolar derivada de Full Metal Panic con situaciones absurdas.</desc>
+  <programme start="20260328041500 -0300" stop="20260328050500 -0300" channel="mitv.ar">
+    <title lang="es">Los Ángeles de Charlie</title>
+    <desc lang="es">Detectives femeninas en acción.</desc>
   </programme>
-  <programme start="20260326023000 -0300" stop="20260326030000 -0300" channel="animestation.ar">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <desc lang="es">Precuela de Saint Seiya centrada en la guerra santa contra Hades.</desc>
+  <programme start="20260328050500 -0300" stop="20260328055500 -0300" channel="mitv.ar">
+    <title lang="es">Jim West</title>
+    <desc lang="es">Agente secreto en el viejo oeste.</desc>
   </programme>
-  <programme start="20260326030000 -0300" stop="20260326033000 -0300" channel="animestation.ar">
-    <title lang="es">InuYasha</title>
-    <desc lang="es">Anime de aventuras y fantasía con demonios y viajes en el tiempo.</desc>
+  <programme start="20260328055500 -0300" stop="20260328065000 -0300" channel="mitv.ar">
+    <title lang="es">Tierra de Gigantes</title>
+    <desc lang="es">Ciencia ficción en un mundo gigante.</desc>
   </programme>
-  <programme start="20260326033000 -0300" stop="20260326040000 -0300" channel="animestation.ar">
-    <title lang="es">Solty Rei</title>
-    <desc lang="es">Historia sci-fi sobre una chica androide y un cazarrecompensas.</desc>
+  <programme start="20260328065000 -0300" stop="20260328073000 -0300" channel="mitv.ar">
+    <title lang="es">Starsky y Hutch</title>
+    <desc lang="es">Policial clásico de acción.</desc>
   </programme>
-  <programme start="20260326040000 -0300" stop="20260326043000 -0300" channel="animestation.ar">
-    <title lang="es">Ranma 1/2</title>
-    <desc lang="es">Comedia de artes marciales con transformaciones por maldición.</desc>
+  <programme start="20260328073000 -0300" stop="20260328075500 -0300" channel="mitv.ar">
+    <title lang="es">Dimensión Desconocida</title>
+    <desc lang="es">Historias de misterio y ciencia ficción.</desc>
   </programme>
-  <programme start="20260326043000 -0300" stop="20260326050000 -0300" channel="animestation.ar">
-    <title lang="es">DNA²</title>
-    <desc lang="es">Comedia romántica sci-fi sobre control de población futura.</desc>
+  <programme start="20260328075500 -0300" stop="20260328093500 -0300" channel="mitv.ar">
+    <title lang="es">Cine Clásico</title>
+    <desc lang="es">Cine retro (variable).</desc>
   </programme>
-  <programme start="20260326050000 -0300" stop="20260326053000 -0300" channel="animestation.ar">
-    <title lang="es">Burst Angel</title>
-    <desc lang="es">Acción futurista con chicas mercenarias y mechas.</desc>
+  <programme start="20260328093500 -0300" stop="20260328102500 -0300" channel="mitv.ar">
+    <title lang="es">La Casa de la Pradera</title>
+    <desc lang="es">Drama familiar en el campo.</desc>
   </programme>
-  <programme start="20260326053000 -0300" stop="20260326060000 -0300" channel="animestation.ar">
-    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
-    <desc lang="es">Cyberpunk con androides rebeldes y vigilantes tecnológicas.</desc>
+  <programme start="20260328102500 -0300" stop="20260328112000 -0300" channel="mitv.ar">
+    <title lang="es">Cazadores de Reliquias</title>
+    <desc lang="es">Aventuras buscando objetos históricos.</desc>
   </programme>
-  <programme start="20260326060000 -0300" stop="20260326063000 -0300" channel="animestation.ar">
-    <title lang="es">Serial Experiments Lain</title>
-    <desc lang="es">Serie psicológica sobre identidad y tecnología en red.</desc>
+  <programme start="20260328112000 -0300" stop="20260328121500 -0300" channel="mitv.ar">
+    <title lang="es">Misión Imposible</title>
+    <desc lang="es">Misiones de espionaje.</desc>
   </programme>
-  <programme start="20260326063000 -0300" stop="20260326070000 -0300" channel="animestation.ar">
-    <title lang="es">Gun Frontier</title>
-    <desc lang="es">Western espacial con aventuras de piratas espaciales.</desc>
+  <programme start="20260328121500 -0300" stop="20260328131000 -0300" channel="mitv.ar">
+    <title lang="es">Perdidos en el Espacio</title>
+    <desc lang="es">Familia atrapada en el espacio.</desc>
   </programme>
-  <programme start="20260326070000 -0300" stop="20260326073000 -0300" channel="animestation.ar">
-    <title lang="es">Alexander Senki</title>
-    <desc lang="es">Relato histórico del conquistador Alejandro Magno en versión anime.</desc>
+  <programme start="20260328131000 -0300" stop="20260328140500 -0300" channel="mitv.ar">
+    <title lang="es">El Auto Fantástico</title>
+    <desc lang="es">Auto inteligente combate el crimen.</desc>
   </programme>
-  <programme start="20260326073000 -0300" stop="20260326080000 -0300" channel="animestation.ar">
-    <title lang="es">Hellsing</title>
-    <desc lang="es">Acción sobrenatural con vampiros y una organización secreta.</desc>
+  <programme start="20260328140500 -0300" stop="20260328154500 -0300" channel="mitv.ar">
+    <title lang="es">El Mundo Mágico de Disney</title>
+    <desc lang="es">Contenido familiar y animado.</desc>
   </programme>
-  <programme start="20260326080000 -0300" stop="20260326083000 -0300" channel="animestation.ar">
-    <title lang="es">South Park</title>
-    <desc lang="es">Serie animada satírica sobre la sociedad y política.</desc>
+  <programme start="20260328154500 -0300" stop="20260328162000 -0300" channel="mitv.ar">
+    <title lang="es">Lady Oscar</title>
+    <desc lang="es">Drama histórico animado.</desc>
   </programme>
-  <programme start="20260326083000 -0300" stop="20260326090000 -0300" channel="animestation.ar">
-    <title lang="es">Ugly Americans</title>
-    <desc lang="es">Comedia animada sobre convivencia entre humanos y criaturas.</desc>
+  <programme start="20260328162000 -0300" stop="20260328171500 -0300" channel="mitv.ar">
+    <title lang="es">Caravana</title>
+    <desc lang="es">Serie western clásica.</desc>
   </programme>
-  <programme start="20260326090000 -0300" stop="20260326093000 -0300" channel="animestation.ar">
-    <title lang="es">Soul Hunter</title>
-    <desc lang="es">Anime de acción sobrenatural sobre cazadores de espíritus y mitología china.</desc>
+  <programme start="20260328171500 -0300" stop="20260328175500 -0300" channel="mitv.ar">
+    <title lang="es">Mi Bella Genio</title>
+    <desc lang="es">Comedia con genio mágico.</desc>
   </programme>
-  <programme start="20260326093000 -0300" stop="20260326100000 -0300" channel="animestation.ar">
-    <title lang="es">.Hack Legend Of The Twilight</title>
-    <desc lang="es">Anime ambientado en un videojuego MMORPG con misterio y aventuras.</desc>
+  <programme start="20260328175500 -0300" stop="20260328185000 -0300" channel="mitv.ar">
+    <title lang="es">Los Ángeles de Charlie</title>
+    <desc lang="es">Acción y detectives.</desc>
   </programme>
-  <programme start="20260326100000 -0300" stop="20260326103000 -0300" channel="animestation.ar">
-    <title lang="es">Full Metal Panic Fumoffu</title>
-    <desc lang="es">Comedia escolar derivada de Full Metal Panic con situaciones absurdas.</desc>
+  <programme start="20260328185000 -0300" stop="20260328195500 -0300" channel="mitv.ar">
+    <title lang="es">Jim West</title>
+    <desc lang="es">Aventuras del agente secreto.</desc>
   </programme>
-  <programme start="20260326103000 -0300" stop="20260326110000 -0300" channel="animestation.ar">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <desc lang="es">Precuela de Saint Seiya centrada en la guerra santa contra Hades.</desc>
+  <programme start="20260328195500 -0300" stop="20260328214000 -0300" channel="mitv.ar">
+    <title lang="es">Cine Clásico</title>
+    <desc lang="es">Películas retro.</desc>
   </programme>
-  <programme start="20260326110000 -0300" stop="20260326113000 -0300" channel="animestation.ar">
-    <title lang="es">InuYasha</title>
-    <desc lang="es">Anime de aventuras y fantasía con demonios y viajes en el tiempo.</desc>
+  <programme start="20260328214000 -0300" stop="20260328224000 -0300" channel="mitv.ar">
+    <title lang="es">La Casa de la Pradera</title>
+    <desc lang="es">Historias familiares rurales.</desc>
   </programme>
-  <programme start="20260326113000 -0300" stop="20260326120000 -0300" channel="animestation.ar">
-    <title lang="es">Solty Rei</title>
-    <desc lang="es">Historia sci-fi sobre una chica androide y un cazarrecompensas.</desc>
+  <programme start="20260328224000 -0300" stop="20260328230500 -0300" channel="mitv.ar">
+    <title lang="es">El Chapulín Colorado</title>
+    <desc lang="es">Superhéroe cómico mexicano.</desc>
   </programme>
-  <programme start="20260326120000 -0300" stop="20260326123000 -0300" channel="animestation.ar">
-    <title lang="es">Ranma 1/2</title>
-    <desc lang="es">Comedia de artes marciales con transformaciones por maldición.</desc>
-  </programme>
-  <programme start="20260326123000 -0300" stop="20260326130000 -0300" channel="animestation.ar">
-    <title lang="es">DNA²</title>
-    <desc lang="es">Comedia romántica sci-fi sobre control de población futura.</desc>
-  </programme>
-  <programme start="20260326130000 -0300" stop="20260326133000 -0300" channel="animestation.ar">
-    <title lang="es">Burst Angel</title>
-    <desc lang="es">Acción futurista con chicas mercenarias y mechas.</desc>
-  </programme>
-  <programme start="20260326133000 -0300" stop="20260326140000 -0300" channel="animestation.ar">
-    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
-    <desc lang="es">Cyberpunk con androides rebeldes y vigilantes tecnológicas.</desc>
-  </programme>
-  <programme start="20260326140000 -0300" stop="20260326143000 -0300" channel="animestation.ar">
-    <title lang="es">Serial Experiments Lain</title>
-    <desc lang="es">Serie psicológica sobre identidad y tecnología en red.</desc>
-  </programme>
-  <programme start="20260326143000 -0300" stop="20260326150000 -0300" channel="animestation.ar">
-    <title lang="es">Gun Frontier</title>
-    <desc lang="es">Western espacial con aventuras de piratas espaciales.</desc>
-  </programme>
-  <programme start="20260326150000 -0300" stop="20260326153000 -0300" channel="animestation.ar">
-    <title lang="es">Alexander Senki</title>
-    <desc lang="es">Relato histórico del conquistador Alejandro Magno en versión anime.</desc>
-  </programme>
-  <programme start="20260326153000 -0300" stop="20260326160000 -0300" channel="animestation.ar">
-    <title lang="es">Hellsing</title>
-    <desc lang="es">Acción sobrenatural con vampiros y una organización secreta.</desc>
-  </programme>
-  <programme start="20260326160000 -0300" stop="20260326163000 -0300" channel="animestation.ar">
-    <title lang="es">South Park</title>
-    <desc lang="es">Serie animada satírica sobre la sociedad y política.</desc>
-  </programme>
-  <programme start="20260326163000 -0300" stop="20260326170000 -0300" channel="animestation.ar">
-    <title lang="es">Ugly Americans</title>
-    <desc lang="es">Comedia animada sobre convivencia entre humanos y criaturas.</desc>
-  </programme>
-  <programme start="20260326170000 -0300" stop="20260326173000 -0300" channel="animestation.ar">
-    <title lang="es">Soul Hunter</title>
-    <desc lang="es">Anime de acción sobrenatural sobre cazadores de espíritus y mitología china.</desc>
-  </programme>
-  <programme start="20260326173000 -0300" stop="20260326180000 -0300" channel="animestation.ar">
-    <title lang="es">.Hack Legend Of The Twilight</title>
-    <desc lang="es">Anime ambientado en un videojuego MMORPG con misterio y aventuras.</desc>
-  </programme>
-  <programme start="20260326180000 -0300" stop="20260326183000 -0300" channel="animestation.ar">
-    <title lang="es">Full Metal Panic Fumoffu</title>
-    <desc lang="es">Comedia escolar derivada de Full Metal Panic con situaciones absurdas.</desc>
-  </programme>
-  <programme start="20260326183000 -0300" stop="20260326190000 -0300" channel="animestation.ar">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <desc lang="es">Precuela de Saint Seiya centrada en la guerra santa contra Hades.</desc>
-  </programme>
-  <programme start="20260326190000 -0300" stop="20260326193000 -0300" channel="animestation.ar">
-    <title lang="es">InuYasha</title>
-    <desc lang="es">Anime de aventuras y fantasía con demonios y viajes en el tiempo.</desc>
-  </programme>
-  <programme start="20260326193000 -0300" stop="20260326200000 -0300" channel="animestation.ar">
-    <title lang="es">Solty Rei</title>
-    <desc lang="es">Historia sci-fi sobre una chica androide y un cazarrecompensas.</desc>
-  </programme>
-  <programme start="20260326200000 -0300" stop="20260326203000 -0300" channel="animestation.ar">
-    <title lang="es">Ranma 1/2</title>
-    <desc lang="es">Comedia de artes marciales con transformaciones por maldición.</desc>
-  </programme>
-  <programme start="20260326203000 -0300" stop="20260326210000 -0300" channel="animestation.ar">
-    <title lang="es">DNA²</title>
-    <desc lang="es">Comedia romántica sci-fi sobre control de población futura.</desc>
-  </programme>
-  <programme start="20260326210000 -0300" stop="20260326213000 -0300" channel="animestation.ar">
-    <title lang="es">Burst Angel</title>
-    <desc lang="es">Acción futurista con chicas mercenarias y mechas.</desc>
-  </programme>
-  <programme start="20260326213000 -0300" stop="20260326220000 -0300" channel="animestation.ar">
-    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
-    <desc lang="es">Cyberpunk con androides rebeldes y vigilantes tecnológicas.</desc>
-  </programme>
-  <programme start="20260326220000 -0300" stop="20260326223000 -0300" channel="animestation.ar">
-    <title lang="es">Serial Experiments Lain</title>
-    <desc lang="es">Serie psicológica sobre identidad y tecnología en red.</desc>
-  </programme>
-  <programme start="20260326223000 -0300" stop="20260326230000 -0300" channel="animestation.ar">
-    <title lang="es">Gun Frontier</title>
-    <desc lang="es">Western espacial con aventuras de piratas espaciales.</desc>
-  </programme>
-  <programme start="20260326230000 -0300" stop="20260326233000 -0300" channel="animestation.ar">
-    <title lang="es">Alexander Senki</title>
-    <desc lang="es">Relato histórico del conquistador Alejandro Magno en versión anime.</desc>
-  </programme>
-  <programme start="20260326233000 -0300" stop="20260327000000 -0300" channel="animestation.ar">
-    <title lang="es">Hellsing</title>
-    <desc lang="es">Acción sobrenatural con vampiros y una organización secreta.</desc>
+  <programme start="20260328230500 -0300" stop="20260329000000 -0300" channel="mitv.ar">
+    <title lang="es">El Señor de las Bestias</title>
+    <desc lang="es">Aventuras fantásticas con animales.</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327003000 -0300" channel="animestation.ar">
     <title lang="es">South Park</title>
@@ -2603,197 +1956,73 @@
     <title lang="es">Hellsing</title>
     <desc lang="es">Acción sobrenatural con vampiros y una organización secreta.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326003000 -0300" channel="animestation.ar">
-    <title lang="es">South Park</title>
-    <desc lang="es">Serie animada satírica sobre la sociedad y política.</desc>
+  <programme start="20260328000000 -0300" stop="20260328003000 -0300" channel="animestation.ar">
+    <title lang="es">Rick &amp; Morty</title>
+    <desc lang="es">Comedia sci-fi sobre aventuras interdimensionales de un científico y su nieto.</desc>
   </programme>
-  <programme start="20260326003000 -0300" stop="20260326010000 -0300" channel="animestation.ar">
-    <title lang="es">Ugly Americans</title>
-    <desc lang="es">Comedia animada sobre convivencia entre humanos y criaturas.</desc>
+  <programme start="20260328003000 -0300" stop="20260328010000 -0300" channel="animestation.ar">
+    <title lang="es">Rick &amp; Morty</title>
+    <desc lang="es">Comedia sci-fi sobre aventuras interdimensionales de un científico y su nieto.</desc>
   </programme>
-  <programme start="20260326010000 -0300" stop="20260326013000 -0300" channel="animestation.ar">
-    <title lang="es">Souy Hunter</title>
-    <desc lang="es">Anime de acción sobrenatural sobre cazadores de espíritus y mitología china.</desc>
+  <programme start="20260328010000 -0300" stop="20260328170000 -0300" channel="animestation.ar">
+    <title lang="es">Animestation</title>
+    <desc lang="es">Programación variada de Animestation</desc>
   </programme>
-  <programme start="20260326013000 -0300" stop="20260326020000 -0300" channel="animestation.ar">
-    <title lang="es">.Hack Legend Of The Twilight</title>
-    <desc lang="es">Anime ambientado en un videojuego MMORPG con misterio y aventuras.</desc>
+  <programme start="20260328170000 -0300" stop="20260328173000 -0300" channel="animestation.ar">
+    <title lang="es">Bob &amp; Margaret</title>
+    <desc lang="es">Sigue la vida cotidiana de una pareja británica, Bob y Margaret Fish, mientras navegan por las situaciones cómicas y a menudo absurdas de su matrimonio. Con humor inteligente y una perspectiva honesta, la serie ofrece una mirada divertida a las relaciones y la vida moderna.</desc>
   </programme>
-  <programme start="20260326020000 -0300" stop="20260326023000 -0300" channel="animestation.ar">
-    <title lang="es">Full Metal Panic Fumoffu</title>
-    <desc lang="es">Comedia escolar derivada de Full Metal Panic con situaciones absurdas.</desc>
+  <programme start="20260328173000 -0300" stop="20260328180000 -0300" channel="animestation.ar">
+    <title lang="es">Bob &amp; Margaret</title>
+    <desc lang="es">Sigue la vida cotidiana de una pareja británica, Bob y Margaret Fish, mientras navegan por las situaciones cómicas y a menudo absurdas de su matrimonio. Con humor inteligente y una perspectiva honesta, la serie ofrece una mirada divertida a las relaciones y la vida moderna.</desc>
   </programme>
-  <programme start="20260326023000 -0300" stop="20260326030000 -0300" channel="animestation.ar">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <desc lang="es">Precuela de Saint Seiya centrada en la guerra santa contra Hades.</desc>
+  <programme start="20260328180000 -0300" stop="20260328183000 -0300" channel="animestation.ar">
+    <title lang="es">La vida moderna de Rocko</title>
+    <desc lang="es">Los queridos años 90&#x27;s no regalaron está joya de la animación, sátira a la sociedad gringa reflejada en una sociedad antropomórfica que vive bombardeada de estímulos, eso nos cuentan a través de sus descabelladas historias tres amigos Rocko, Heffer y Filburt</desc>
   </programme>
-  <programme start="20260326030000 -0300" stop="20260326033000 -0300" channel="animestation.ar">
-    <title lang="es">InuYasha</title>
-    <desc lang="es">Anime de aventuras y fantasía con demonios y viajes en el tiempo.</desc>
+  <programme start="20260328183000 -0300" stop="20260328190000 -0300" channel="animestation.ar">
+    <title lang="es">La vida moderna de Rocko</title>
+    <desc lang="es">Los queridos años 90&#x27;s no regalaron está joya de la animación, sátira a la sociedad gringa reflejada en una sociedad antropomórfica que vive bombardeada de estímulos, eso nos cuentan a través de sus descabelladas historias tres amigos Rocko, Heffer y Filburt</desc>
   </programme>
-  <programme start="20260326033000 -0300" stop="20260326040000 -0300" channel="animestation.ar">
-    <title lang="es">Solty Rei</title>
-    <desc lang="es">Historia sci-fi sobre una chica androide y un cazarrecompensas.</desc>
+  <programme start="20260328190000 -0300" stop="20260328193000 -0300" channel="animestation.ar">
+    <title lang="es">Daria</title>
+    <desc lang="es">Serie animada sobre una adolescente sarcástica y observadora de la sociedad.</desc>
   </programme>
-  <programme start="20260326040000 -0300" stop="20260326043000 -0300" channel="animestation.ar">
-    <title lang="es">Ranma 1/2</title>
-    <desc lang="es">Comedia de artes marciales con transformaciones por maldición.</desc>
+  <programme start="20260328193000 -0300" stop="20260328200000 -0300" channel="animestation.ar">
+    <title lang="es">Daria</title>
+    <desc lang="es">Serie animada sobre una adolescente sarcástica y observadora de la sociedad.</desc>
   </programme>
-  <programme start="20260326043000 -0300" stop="20260326050000 -0300" channel="animestation.ar">
-    <title lang="es">DNA²</title>
-    <desc lang="es">Comedia romántica sci-fi sobre control de población futura.</desc>
+  <programme start="20260328200000 -0300" stop="20260328203000 -0300" channel="animestation.ar">
+    <title lang="es">Aniplus Replay</title>
+    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
   </programme>
-  <programme start="20260326050000 -0300" stop="20260326053000 -0300" channel="animestation.ar">
-    <title lang="es">Burst Angel</title>
-    <desc lang="es">Acción futurista con chicas mercenarias y mechas.</desc>
+  <programme start="20260328203000 -0300" stop="20260328210000 -0300" channel="animestation.ar">
+    <title lang="es">Aniplus Replay</title>
+    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
   </programme>
-  <programme start="20260326053000 -0300" stop="20260326060000 -0300" channel="animestation.ar">
-    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
-    <desc lang="es">Cyberpunk con androides rebeldes y vigilantes tecnológicas.</desc>
+  <programme start="20260328210000 -0300" stop="20260328213000 -0300" channel="animestation.ar">
+    <title lang="es">Aniplus Replay</title>
+    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
   </programme>
-  <programme start="20260326060000 -0300" stop="20260326063000 -0300" channel="animestation.ar">
-    <title lang="es">Serial Experiments Lain</title>
-    <desc lang="es">Serie psicológica sobre identidad y tecnología en red.</desc>
+  <programme start="20260328213000 -0300" stop="20260328220000 -0300" channel="animestation.ar">
+    <title lang="es">Aniplus Replay</title>
+    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
   </programme>
-  <programme start="20260326063000 -0300" stop="20260326070000 -0300" channel="animestation.ar">
-    <title lang="es">Gun Frontier</title>
-    <desc lang="es">Western espacial con aventuras de piratas espaciales.</desc>
+  <programme start="20260328220000 -0300" stop="20260328223000 -0300" channel="animestation.ar">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Comedia animada sobre la familia Simpson y la vida en Springfield.</desc>
   </programme>
-  <programme start="20260326070000 -0300" stop="20260326073000 -0300" channel="animestation.ar">
-    <title lang="es">Alexander Senki</title>
-    <desc lang="es">Relato histórico del conquistador Alejandro Magno en versión anime.</desc>
+  <programme start="20260328223000 -0300" stop="20260328230000 -0300" channel="animestation.ar">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Comedia animada sobre la familia Simpson y la vida en Springfield.</desc>
   </programme>
-  <programme start="20260326073000 -0300" stop="20260326080000 -0300" channel="animestation.ar">
-    <title lang="es">Hellsing</title>
-    <desc lang="es">Acción sobrenatural con vampiros y una organización secreta.</desc>
+  <programme start="20260328230000 -0300" stop="20260328233000 -0300" channel="animestation.ar">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie de ciencia ficción y comedia ambientada en el año 3000.</desc>
   </programme>
-  <programme start="20260326080000 -0300" stop="20260326083000 -0300" channel="animestation.ar">
-    <title lang="es">South Park</title>
-    <desc lang="es">Serie animada satírica sobre la sociedad y política.</desc>
-  </programme>
-  <programme start="20260326083000 -0300" stop="20260326090000 -0300" channel="animestation.ar">
-    <title lang="es">Ugly Americans</title>
-    <desc lang="es">Comedia animada sobre convivencia entre humanos y criaturas.</desc>
-  </programme>
-  <programme start="20260326090000 -0300" stop="20260326093000 -0300" channel="animestation.ar">
-    <title lang="es">Soul Hunter</title>
-    <desc lang="es">Anime de acción sobrenatural sobre cazadores de espíritus y mitología china.</desc>
-  </programme>
-  <programme start="20260326093000 -0300" stop="20260326100000 -0300" channel="animestation.ar">
-    <title lang="es">.Hack Legend Of The Twilight</title>
-    <desc lang="es">Anime ambientado en un videojuego MMORPG con misterio y aventuras.</desc>
-  </programme>
-  <programme start="20260326100000 -0300" stop="20260326103000 -0300" channel="animestation.ar">
-    <title lang="es">Full Metal Panic Fumoffu</title>
-    <desc lang="es">Comedia escolar derivada de Full Metal Panic con situaciones absurdas.</desc>
-  </programme>
-  <programme start="20260326103000 -0300" stop="20260326110000 -0300" channel="animestation.ar">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <desc lang="es">Precuela de Saint Seiya centrada en la guerra santa contra Hades.</desc>
-  </programme>
-  <programme start="20260326110000 -0300" stop="20260326113000 -0300" channel="animestation.ar">
-    <title lang="es">InuYasha</title>
-    <desc lang="es">Anime de aventuras y fantasía con demonios y viajes en el tiempo.</desc>
-  </programme>
-  <programme start="20260326113000 -0300" stop="20260326120000 -0300" channel="animestation.ar">
-    <title lang="es">Solty Rei</title>
-    <desc lang="es">Historia sci-fi sobre una chica androide y un cazarrecompensas.</desc>
-  </programme>
-  <programme start="20260326120000 -0300" stop="20260326123000 -0300" channel="animestation.ar">
-    <title lang="es">Ranma 1/2</title>
-    <desc lang="es">Comedia de artes marciales con transformaciones por maldición.</desc>
-  </programme>
-  <programme start="20260326123000 -0300" stop="20260326130000 -0300" channel="animestation.ar">
-    <title lang="es">DNA²</title>
-    <desc lang="es">Comedia romántica sci-fi sobre control de población futura.</desc>
-  </programme>
-  <programme start="20260326130000 -0300" stop="20260326133000 -0300" channel="animestation.ar">
-    <title lang="es">Burst Angel</title>
-    <desc lang="es">Acción futurista con chicas mercenarias y mechas.</desc>
-  </programme>
-  <programme start="20260326133000 -0300" stop="20260326140000 -0300" channel="animestation.ar">
-    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
-    <desc lang="es">Cyberpunk con androides rebeldes y vigilantes tecnológicas.</desc>
-  </programme>
-  <programme start="20260326140000 -0300" stop="20260326143000 -0300" channel="animestation.ar">
-    <title lang="es">Serial Experiments Lain</title>
-    <desc lang="es">Serie psicológica sobre identidad y tecnología en red.</desc>
-  </programme>
-  <programme start="20260326143000 -0300" stop="20260326150000 -0300" channel="animestation.ar">
-    <title lang="es">Gun Frontier</title>
-    <desc lang="es">Western espacial con aventuras de piratas espaciales.</desc>
-  </programme>
-  <programme start="20260326150000 -0300" stop="20260326153000 -0300" channel="animestation.ar">
-    <title lang="es">Alexander Senki</title>
-    <desc lang="es">Relato histórico del conquistador Alejandro Magno en versión anime.</desc>
-  </programme>
-  <programme start="20260326153000 -0300" stop="20260326160000 -0300" channel="animestation.ar">
-    <title lang="es">Hellsing</title>
-    <desc lang="es">Acción sobrenatural con vampiros y una organización secreta.</desc>
-  </programme>
-  <programme start="20260326160000 -0300" stop="20260326163000 -0300" channel="animestation.ar">
-    <title lang="es">South Park</title>
-    <desc lang="es">Serie animada satírica sobre la sociedad y política.</desc>
-  </programme>
-  <programme start="20260326163000 -0300" stop="20260326170000 -0300" channel="animestation.ar">
-    <title lang="es">Ugly Americans</title>
-    <desc lang="es">Comedia animada sobre convivencia entre humanos y criaturas.</desc>
-  </programme>
-  <programme start="20260326170000 -0300" stop="20260326173000 -0300" channel="animestation.ar">
-    <title lang="es">Soul Hunter</title>
-    <desc lang="es">Anime de acción sobrenatural sobre cazadores de espíritus y mitología china.</desc>
-  </programme>
-  <programme start="20260326173000 -0300" stop="20260326180000 -0300" channel="animestation.ar">
-    <title lang="es">.Hack Legend Of The Twilight</title>
-    <desc lang="es">Anime ambientado en un videojuego MMORPG con misterio y aventuras.</desc>
-  </programme>
-  <programme start="20260326180000 -0300" stop="20260326183000 -0300" channel="animestation.ar">
-    <title lang="es">Full Metal Panic Fumoffu</title>
-    <desc lang="es">Comedia escolar derivada de Full Metal Panic con situaciones absurdas.</desc>
-  </programme>
-  <programme start="20260326183000 -0300" stop="20260326190000 -0300" channel="animestation.ar">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <desc lang="es">Precuela de Saint Seiya centrada en la guerra santa contra Hades.</desc>
-  </programme>
-  <programme start="20260326190000 -0300" stop="20260326193000 -0300" channel="animestation.ar">
-    <title lang="es">InuYasha</title>
-    <desc lang="es">Anime de aventuras y fantasía con demonios y viajes en el tiempo.</desc>
-  </programme>
-  <programme start="20260326193000 -0300" stop="20260326200000 -0300" channel="animestation.ar">
-    <title lang="es">Solty Rei</title>
-    <desc lang="es">Historia sci-fi sobre una chica androide y un cazarrecompensas.</desc>
-  </programme>
-  <programme start="20260326200000 -0300" stop="20260326203000 -0300" channel="animestation.ar">
-    <title lang="es">Ranma 1/2</title>
-    <desc lang="es">Comedia de artes marciales con transformaciones por maldición.</desc>
-  </programme>
-  <programme start="20260326203000 -0300" stop="20260326210000 -0300" channel="animestation.ar">
-    <title lang="es">DNA²</title>
-    <desc lang="es">Comedia romántica sci-fi sobre control de población futura.</desc>
-  </programme>
-  <programme start="20260326210000 -0300" stop="20260326213000 -0300" channel="animestation.ar">
-    <title lang="es">Burst Angel</title>
-    <desc lang="es">Acción futurista con chicas mercenarias y mechas.</desc>
-  </programme>
-  <programme start="20260326213000 -0300" stop="20260326220000 -0300" channel="animestation.ar">
-    <title lang="es">Bubblegum Crisis Tokyo 2040</title>
-    <desc lang="es">Cyberpunk con androides rebeldes y vigilantes tecnológicas.</desc>
-  </programme>
-  <programme start="20260326220000 -0300" stop="20260326223000 -0300" channel="animestation.ar">
-    <title lang="es">Serial Experiments Lain</title>
-    <desc lang="es">Serie psicológica sobre identidad y tecnología en red.</desc>
-  </programme>
-  <programme start="20260326223000 -0300" stop="20260326230000 -0300" channel="animestation.ar">
-    <title lang="es">Gun Frontier</title>
-    <desc lang="es">Western espacial con aventuras de piratas espaciales.</desc>
-  </programme>
-  <programme start="20260326230000 -0300" stop="20260326233000 -0300" channel="animestation.ar">
-    <title lang="es">Alexander Senki</title>
-    <desc lang="es">Relato histórico del conquistador Alejandro Magno en versión anime.</desc>
-  </programme>
-  <programme start="20260326233000 -0300" stop="20260327000000 -0300" channel="animestation.ar">
-    <title lang="es">Hellsing</title>
-    <desc lang="es">Acción sobrenatural con vampiros y una organización secreta.</desc>
+  <programme start="20260328233000 -0300" stop="20260329000000 -0300" channel="animestation.ar">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie de ciencia ficción y comedia ambientada en el año 3000.</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327003000 -0300" channel="animestation.ar">
     <title lang="es">South Park</title>
@@ -2987,126 +2216,73 @@
     <title lang="es">Hellsing</title>
     <desc lang="es">Acción sobrenatural con vampiros y una organización secreta.</desc>
   </programme>
-  <programme start="20260326000000 -0300" stop="20260326010000 -0300" channel="telered.ar">
-    <title lang="es">Serie Retro</title>
-    <desc lang="es">Series clásicas de distintas épocas.</desc>
+  <programme start="20260328000000 -0300" stop="20260328003000 -0300" channel="animestation.ar">
+    <title lang="es">Rick &amp; Morty</title>
+    <desc lang="es">Comedia sci-fi sobre aventuras interdimensionales de un científico y su nieto.</desc>
   </programme>
-  <programme start="20260326010000 -0300" stop="20260326020000 -0300" channel="telered.ar">
-    <title lang="es">X-Files</title>
-    <desc lang="es">Misterios paranormales investigados por el FBI.</desc>
+  <programme start="20260328003000 -0300" stop="20260328010000 -0300" channel="animestation.ar">
+    <title lang="es">Rick &amp; Morty</title>
+    <desc lang="es">Comedia sci-fi sobre aventuras interdimensionales de un científico y su nieto.</desc>
   </programme>
-  <programme start="20260326010000 -0300" stop="20260326030000 -0300" channel="telered.ar">
-    <title lang="es">Programación nocturna</title>
-    <desc lang="es">Contenido variado nocturno.</desc>
+  <programme start="20260328010000 -0300" stop="20260328170000 -0300" channel="animestation.ar">
+    <title lang="es">Animestation</title>
+    <desc lang="es">Programación variada de Animestation</desc>
   </programme>
-  <programme start="20260326020000 -0300" stop="20260326030000 -0300" channel="telered.ar">
-    <title lang="es">Serie Retro</title>
-    <desc lang="es">Series clásicas de distintas épocas.</desc>
+  <programme start="20260328170000 -0300" stop="20260328173000 -0300" channel="animestation.ar">
+    <title lang="es">Bob &amp; Margaret</title>
+    <desc lang="es">Sigue la vida cotidiana de una pareja británica, Bob y Margaret Fish, mientras navegan por las situaciones cómicas y a menudo absurdas de su matrimonio. Con humor inteligente y una perspectiva honesta, la serie ofrece una mirada divertida a las relaciones y la vida moderna.</desc>
   </programme>
-  <programme start="20260326030000 -0300" stop="20260326040000 -0300" channel="telered.ar">
-    <title lang="es">Programacion nocturna</title>
+  <programme start="20260328173000 -0300" stop="20260328180000 -0300" channel="animestation.ar">
+    <title lang="es">Bob &amp; Margaret</title>
+    <desc lang="es">Sigue la vida cotidiana de una pareja británica, Bob y Margaret Fish, mientras navegan por las situaciones cómicas y a menudo absurdas de su matrimonio. Con humor inteligente y una perspectiva honesta, la serie ofrece una mirada divertida a las relaciones y la vida moderna.</desc>
   </programme>
-  <programme start="20260326040000 -0300" stop="20260326090000 -0300" channel="telered.ar">
-    <title lang="es">Fuera de aire</title>
-    <desc lang="es">Fuera de aire</desc>
+  <programme start="20260328180000 -0300" stop="20260328183000 -0300" channel="animestation.ar">
+    <title lang="es">La vida moderna de Rocko</title>
+    <desc lang="es">Los queridos años 90&#x27;s no regalaron está joya de la animación, sátira a la sociedad gringa reflejada en una sociedad antropomórfica que vive bombardeada de estímulos, eso nos cuentan a través de sus descabelladas historias tres amigos Rocko, Heffer y Filburt</desc>
   </programme>
-  <programme start="20260326090000 -0300" stop="20260326100000 -0300" channel="telered.ar">
-    <title lang="es">Salud en casa</title>
-    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
+  <programme start="20260328183000 -0300" stop="20260328190000 -0300" channel="animestation.ar">
+    <title lang="es">La vida moderna de Rocko</title>
+    <desc lang="es">Los queridos años 90&#x27;s no regalaron está joya de la animación, sátira a la sociedad gringa reflejada en una sociedad antropomórfica que vive bombardeada de estímulos, eso nos cuentan a través de sus descabelladas historias tres amigos Rocko, Heffer y Filburt</desc>
   </programme>
-  <programme start="20260326090000 -0300" stop="20260326110000 -0300" channel="telered.ar">
-    <title lang="es">Salud en casa</title>
-    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
+  <programme start="20260328190000 -0300" stop="20260328193000 -0300" channel="animestation.ar">
+    <title lang="es">Daria</title>
+    <desc lang="es">Serie animada sobre una adolescente sarcástica y observadora de la sociedad.</desc>
   </programme>
-  <programme start="20260326100000 -0300" stop="20260326120000 -0300" channel="telered.ar">
-    <title lang="es">Clásicos Telered</title>
-    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  <programme start="20260328193000 -0300" stop="20260328200000 -0300" channel="animestation.ar">
+    <title lang="es">Daria</title>
+    <desc lang="es">Serie animada sobre una adolescente sarcástica y observadora de la sociedad.</desc>
   </programme>
-  <programme start="20260326110000 -0300" stop="20260326130000 -0300" channel="telered.ar">
-    <title lang="es">Clásicos Telered</title>
-    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  <programme start="20260328200000 -0300" stop="20260328203000 -0300" channel="animestation.ar">
+    <title lang="es">Aniplus Replay</title>
+    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
   </programme>
-  <programme start="20260326120000 -0300" stop="20260326130000 -0300" channel="telered.ar">
-    <title lang="es">Viaje al fondo del mar</title>
+  <programme start="20260328203000 -0300" stop="20260328210000 -0300" channel="animestation.ar">
+    <title lang="es">Aniplus Replay</title>
+    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
   </programme>
-  <programme start="20260326130000 -0300" stop="20260326140000 -0300" channel="telered.ar">
-    <title lang="es">Clásicos Telered</title>
-    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  <programme start="20260328210000 -0300" stop="20260328213000 -0300" channel="animestation.ar">
+    <title lang="es">Aniplus Replay</title>
+    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
   </programme>
-  <programme start="20260326130000 -0300" stop="20260326140000 -0300" channel="telered.ar">
-    <title lang="es">Viaje al fondo del mar</title>
-    <desc lang="es">Aventura submarina de ciencia ficción.</desc>
+  <programme start="20260328213000 -0300" stop="20260328220000 -0300" channel="animestation.ar">
+    <title lang="es">Aniplus Replay</title>
+    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
   </programme>
-  <programme start="20260326140000 -0300" stop="20260326150000 -0300" channel="telered.ar">
-    <title lang="es">Telemercado</title>
+  <programme start="20260328220000 -0300" stop="20260328223000 -0300" channel="animestation.ar">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Comedia animada sobre la familia Simpson y la vida en Springfield.</desc>
   </programme>
-  <programme start="20260326140000 -0300" stop="20260326160000 -0300" channel="telered.ar">
-    <title lang="es">Clásicos Telered</title>
-    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  <programme start="20260328223000 -0300" stop="20260328230000 -0300" channel="animestation.ar">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Comedia animada sobre la familia Simpson y la vida en Springfield.</desc>
   </programme>
-  <programme start="20260326150000 -0300" stop="20260326160000 -0300" channel="telered.ar">
-    <title lang="es">La casa de la pradera</title>
-    <desc lang="es">Drama familiar ambientado en el viejo oeste.</desc>
+  <programme start="20260328230000 -0300" stop="20260328233000 -0300" channel="animestation.ar">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie de ciencia ficción y comedia ambientada en el año 3000.</desc>
   </programme>
-  <programme start="20260326160000 -0300" stop="20260326170000 -0300" channel="telered.ar">
-    <title lang="es">Perdidos en el espacio</title>
-    <desc lang="es">Aventura de ciencia ficción en el espacio.</desc>
-  </programme>
-  <programme start="20260326160000 -0300" stop="20260326170000 -0300" channel="telered.ar">
-    <title lang="es">La casa de la pradera</title>
-    <desc lang="es">Drama familiar ambientado en el viejo oeste.</desc>
-  </programme>
-  <programme start="20260326170000 -0300" stop="20260326180000 -0300" channel="telered.ar">
-    <title lang="es">Brigada A</title>
-    <desc lang="es">En 1972, un comando compuesto por cuatro de los mejores hombres del Ejército Americano fueron encarcelados por un delito «que no habían cometido»: No tardaron en fugarse de la prisión en que se encontraban recluidos. Hoy, buscados todavía por el gobierno, sobreviven como soldados de fortuna. Si tiene usted algún problema y si los encuentra quizá pueda contratarlos.</desc>
-  </programme>
-  <programme start="20260326170000 -0300" stop="20260326180000 -0300" channel="telered.ar">
-    <title lang="es">Perdidos en el espacio</title>
-    <desc lang="es">Aventura de ciencia ficción en el espacio.</desc>
-  </programme>
-  <programme start="20260326180000 -0300" stop="20260326193000 -0300" channel="telered.ar">
-    <title lang="es">Tardes Animados</title>
-  </programme>
-  <programme start="20260326180000 -0300" stop="20260326200000 -0300" channel="telered.ar">
-    <title lang="es">Tardes animadas</title>
-    <desc lang="es">Bloque de dibujos animados para toda la familia.</desc>
-  </programme>
-  <programme start="20260326193000 -0300" stop="20260326200000 -0300" channel="telered.ar">
-    <title lang="es">Heidi</title>
-    <desc lang="es">Heidi, la niña de trenzas doradas, vive felices días con su abuelo en la montaña, juega con el cabrito Alm y su amigo Pedro, y aprende lecciones de amistad y naturaleza en este clásico animado lleno de calidez y paisajes mágicos.</desc>
-  </programme>
-  <programme start="20260326200000 -0300" stop="20260326203000 -0300" channel="telered.ar">
-    <title lang="es">Mi bella Genio</title>
-    <desc lang="es">Jeannie sale de su botella para conceder deseos locos a su amo astronauta con un guiño travieso y un ¡pop!, desatando enredos hilarantes en esta comedia animada llena de encanto y diversión familiar.</desc>
-  </programme>
-  <programme start="20260326200000 -0300" stop="20260326210000 -0300" channel="telered.ar">
-    <title lang="es">Salud en casa</title>
-    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
-  </programme>
-  <programme start="20260326203000 -0300" stop="20260326210000 -0300" channel="telered.ar">
-    <title lang="es">Telered Noticias</title>
-  </programme>
-  <programme start="20260326210000 -0300" stop="20260326220000 -0300" channel="telered.ar">
-    <title lang="es">Salud en casa</title>
-    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
-  </programme>
-  <programme start="20260326210000 -0300" stop="20260326220000 -0300" channel="telered.ar">
-    <title lang="es">Que hay CR</title>
-    <desc lang="es">Programa de actualidad.</desc>
-  </programme>
-  <programme start="20260326220000 -0300" stop="20260326230000 -0300" channel="telered.ar">
-    <title lang="es">Que hay CR</title>
-  </programme>
-  <programme start="20260326220000 -0300" stop="20260326230000 -0300" channel="telered.ar">
-    <title lang="es">Código R</title>
-    <desc lang="es">Programa de investigación y actualidad.</desc>
-  </programme>
-  <programme start="20260326230000 -0300" stop="20260327000000 -0300" channel="telered.ar">
-    <title lang="es">Codigo R</title>
-  </programme>
-  <programme start="20260326230000 -0300" stop="20260327010000 -0300" channel="telered.ar">
-    <title lang="es">Serie Retro</title>
-    <desc lang="es">Series clásicas de distintas épocas.</desc>
+  <programme start="20260328233000 -0300" stop="20260329000000 -0300" channel="animestation.ar">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie de ciencia ficción y comedia ambientada en el año 3000.</desc>
   </programme>
   <programme start="20260327000000 -0300" stop="20260327010000 -0300" channel="telered.ar">
     <title lang="es">Serie Retro</title>
@@ -3221,5 +2397,109 @@
   <programme start="20260327220000 -0300" stop="20260328000000 -0300" channel="telered.ar">
     <title lang="es">Galáctica</title>
     <desc lang="es">Serie de ciencia ficción espacial.</desc>
+  </programme>
+  <programme start="20260328000000 -0300" stop="20260328010000 -0300" channel="telered.ar">
+    <title lang="es">Galactica</title>
+  </programme>
+  <programme start="20260328010000 -0300" stop="20260328020000 -0300" channel="telered.ar">
+    <title lang="es">X-Files</title>
+    <desc lang="es">Misterios paranormales investigados por el FBI.</desc>
+  </programme>
+  <programme start="20260328020000 -0300" stop="20260328030000 -0300" channel="telered.ar">
+    <title lang="es">Cine de medianoche</title>
+  </programme>
+  <programme start="20260328030000 -0300" stop="20260328040000 -0300" channel="telered.ar">
+    <title lang="es">Programacion nocturna</title>
+  </programme>
+  <programme start="20260328040000 -0300" stop="20260328090000 -0300" channel="telered.ar">
+    <title lang="es">Fuera de aire</title>
+    <desc lang="es">Fuera de aire</desc>
+  </programme>
+  <programme start="20260328090000 -0300" stop="20260328100000 -0300" channel="telered.ar">
+    <title lang="es">Programación nocturna</title>
+    <desc lang="es">Contenido variado nocturno.</desc>
+  </programme>
+  <programme start="20260328090000 -0300" stop="20260328110000 -0300" channel="telered.ar">
+    <title lang="es">Programación nocturna</title>
+    <desc lang="es">Contenido variado nocturno.</desc>
+  </programme>
+  <programme start="20260328100000 -0300" stop="20260328110000 -0300" channel="telered.ar">
+    <title lang="es">Series clasicas</title>
+  </programme>
+  <programme start="20260328110000 -0300" stop="20260328120000 -0300" channel="telered.ar">
+    <title lang="es">Matinales Telered</title>
+  </programme>
+  <programme start="20260328110000 -0300" stop="20260328130000 -0300" channel="telered.ar">
+    <title lang="es">Matinales Telered</title>
+    <desc lang="es">Programas matutinos.</desc>
+  </programme>
+  <programme start="20260328120000 -0300" stop="20260328150000 -0300" channel="telered.ar">
+    <title lang="es">Escuela sabática</title>
+  </programme>
+  <programme start="20260328130000 -0300" stop="20260328150000 -0300" channel="telered.ar">
+    <title lang="es">Escuela sabática</title>
+    <desc lang="es">Contenido religioso educativo.</desc>
+  </programme>
+  <programme start="20260328150000 -0300" stop="20260328160000 -0300" channel="telered.ar">
+    <title lang="es">Ministerio de la palabra</title>
+  </programme>
+  <programme start="20260328150000 -0300" stop="20260328180000 -0300" channel="telered.ar">
+    <title lang="es">Cine Clásico</title>
+    <desc lang="es">Películas clásicas destacadas.</desc>
+  </programme>
+  <programme start="20260328160000 -0300" stop="20260328164500 -0300" channel="telered.ar">
+    <title lang="es">Sin escalas</title>
+  </programme>
+  <programme start="20260328164500 -0300" stop="20260328171500 -0300" channel="telered.ar">
+    <title lang="es">Hércules</title>
+    <desc lang="es">Hércules, el semidiós musculoso, enfrenta monstruos mitológicos, resuelve enigmas divinos y vive locas aventuras en la Antigua Grecia junto a sus amigos Pegasus e Ifigenia. Episodios de 30 minutos llenos de humor, fuerza y lecciones heroicas.</desc>
+  </programme>
+  <programme start="20260328171500 -0300" stop="20260328180000 -0300" channel="telered.ar">
+    <title lang="es">Somos 65</title>
+  </programme>
+  <programme start="20260328180000 -0300" stop="20260328183000 -0300" channel="telered.ar">
+    <title lang="es">Hecho en Alemania</title>
+  </programme>
+  <programme start="20260328180000 -0300" stop="20260328190000 -0300" channel="telered.ar">
+    <title lang="es">El Profe Bustos</title>
+    <desc lang="es">Programa educativo.</desc>
+  </programme>
+  <programme start="20260328183000 -0300" stop="20260328190000 -0300" channel="telered.ar">
+    <title lang="es">Revoluciones por Minuto</title>
+  </programme>
+  <programme start="20260328190000 -0300" stop="20260328193000 -0300" channel="telered.ar">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20260328190000 -0300" stop="20260328200000 -0300" channel="telered.ar">
+    <title lang="es">Tele música</title>
+    <desc lang="es">Música variada.</desc>
+  </programme>
+  <programme start="20260328193000 -0300" stop="20260328200000 -0300" channel="telered.ar">
+    <title lang="es">Club de paz</title>
+  </programme>
+  <programme start="20260328200000 -0300" stop="20260328210000 -0300" channel="telered.ar">
+    <title lang="es">Cine clasico</title>
+  </programme>
+  <programme start="20260328200000 -0300" stop="20260328210000 -0300" channel="telered.ar">
+    <title lang="es">Tres chiflados</title>
+    <desc lang="es">Comedia clásica.</desc>
+  </programme>
+  <programme start="20260328210000 -0300" stop="20260328220000 -0300" channel="telered.ar">
+    <title lang="es">El profe bustos</title>
+  </programme>
+  <programme start="20260328210000 -0300" stop="20260328230000 -0300" channel="telered.ar">
+    <title lang="es">Telered a la carta</title>
+    <desc lang="es">Contenido variado a demanda.</desc>
+  </programme>
+  <programme start="20260328220000 -0300" stop="20260328230000 -0300" channel="telered.ar">
+    <title lang="es">Tele musica</title>
+  </programme>
+  <programme start="20260328230000 -0300" stop="20260329000000 -0300" channel="telered.ar">
+    <title lang="es">Los tres chiflados</title>
+    <desc lang="es">Larry, Moe y Curly desatan desastres hilarantes con golpes, tartamudeos y planes absurdos en cortos clásicos de comedia slapstick.</desc>
+  </programme>
+  <programme start="20260328230000 -0300" stop="20260329030000 -0300" channel="telered.ar">
+    <title lang="es">Cine de media noche</title>
+    <desc lang="es">Películas nocturnas.</desc>
   </programme>
 </tv>
