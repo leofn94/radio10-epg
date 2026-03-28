@@ -118,7 +118,7 @@ def xmltv_ts(dt):
 def get_monday():
     tz = pytz.timezone(TIMEZONE)
     today = datetime.now(tz).date()
-    return today - timedelta(=today.weekday())
+    return today - timedelta(days=today.weekday())
 
 # ─── CONSTRUCCIÓN EPG ────────────────────────────────────────────────────────
 def build_epg(rows, channel_id):
