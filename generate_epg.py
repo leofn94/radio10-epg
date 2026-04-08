@@ -173,6 +173,14 @@ def build_epg(rows, channel_id):
         start_dt = tz.localize(datetime.combine(date, start_t))
         end_dt   = tz.localize(datetime.combine(date, end_t))
 
+            if day_key not in DAYS_MAP:
+    print(f"❌ Día inválido: {day_raw}")
+    continue
+
+        except Exception as e:
+    print(f"⚠️ Error en fila {row} → {e}")
+    continue
+
         if end_dt <= start_dt:
             end_dt += timedelta(days=1)
 
