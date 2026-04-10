@@ -37,6 +37,9 @@
   <channel id="animestation.ar">
     <display-name>Animestation</display-name>
   </channel>
+  <channel id="elmagis.ar">
+    <display-name>El Magis</display-name>
+  </channel>
   <channel id="retroblast">
     <display-name>retroblast</display-name>
   </channel>
@@ -3246,6 +3249,154 @@
   <programme start="20260412234000 -0300" stop="20260413000000 -0300" channel="animestation.ar">
     <title lang="es">Hellsing</title>
     <desc lang="es">La organización secreta Hellsing, dirigida por Integra Hellsing, combate vampiros y monstruos sobrenaturales con la ayuda de Alucard, el vampiro más poderoso del mundo, en una Inglaterra sumida en el caos.</desc>
+  </programme>
+  <programme start="20260410000000 -0300" stop="20260410003000 -0300" channel="elmagis.ar">
+    <title lang="es">Dragon Ball GT</title>
+    <desc lang="es">Goku emprende una nueva aventura por el universo tras un inesperado deseo que lo transforma en niño. Junto a sus amigos, enfrenta poderosos enemigos y busca las Esferas del Dragón para restaurar el orden.</desc>
+  </programme>
+  <programme start="20260410003000 -0300" stop="20260410010000 -0300" channel="elmagis.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo de guerreros felinos llega a un nuevo mundo donde deberá enfrentarse a fuerzas del mal. Liderados por Leon-O, luchan por la justicia y la protección de su legado.</desc>
+  </programme>
+  <programme start="20260410010000 -0300" stop="20260410013000 -0300" channel="elmagis.ar">
+    <title lang="es">Slayers</title>
+    <desc lang="es">La hechicera Lina Inverse viaja en busca de tesoros y aventuras junto a un grupo de peculiares compañeros, enfrentando criaturas mágicas y enemigos con humor y acción.</desc>
+  </programme>
+  <programme start="20260410013000 -0300" stop="20260410020000 -0300" channel="elmagis.ar">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Beakman y su equipo presentan experimentos científicos y explicaciones curiosas de forma divertida, acercando la ciencia a todos con humor y creatividad.</desc>
+  </programme>
+  <programme start="20260410020000 -0300" stop="20260410090000 -0300" channel="elmagis.ar">
+    <title lang="es">Sin Informacion</title>
+    <desc lang="es">Sin Informacion</desc>
+  </programme>
+  <programme start="20260410090000 -0300" stop="20260410093000 -0300" channel="elmagis.ar">
+    <title lang="es">Slayers</title>
+    <desc lang="es">La hechicera Lina Inverse viaja en busca de tesoros y aventuras junto a un grupo de peculiares compañeros, enfrentando criaturas mágicas y enemigos con humor y acción.</desc>
+  </programme>
+  <programme start="20260410093000 -0300" stop="20260410100000 -0300" channel="elmagis.ar">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Beakman y su equipo presentan experimentos científicos y explicaciones curiosas de forma divertida, acercando la ciencia a todos con humor y creatividad.</desc>
+  </programme>
+  <programme start="20260410100000 -0300" stop="20260410103000 -0300" channel="elmagis.ar">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Reiko Mikami es una cazafantasmas profesional que acepta peligrosos trabajos para eliminar espíritus y demonios, combinando acción sobrenatural con situaciones cómicas.</desc>
+  </programme>
+  <programme start="20260410103000 -0300" stop="20260410110000 -0300" channel="elmagis.ar">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Una joven sacerdotisa libera a un antiguo demonio guardián para combatir fuerzas oscuras. Juntos enfrentan amenazas sobrenaturales en intensas batallas.</desc>
+  </programme>
+  <programme start="20260410110000 -0300" stop="20260410113000 -0300" channel="elmagis.ar">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Jóvenes guerreros conocidos como Caballeros luchan para proteger a la diosa Atenea, enfrentando enemigos mitológicos en combates épicos.</desc>
+  </programme>
+  <programme start="20260410113000 -0300" stop="20260410120000 -0300" channel="elmagis.ar">
+    <title lang="es">Escuela de Detectives</title>
+    <desc lang="es">Un grupo de estudiantes con gran capacidad de observación resuelve casos misteriosos, utilizando lógica, deducción y trabajo en equipo.</desc>
+  </programme>
+  <programme start="20260410120000 -0300" stop="20260410123000 -0300" channel="elmagis.ar">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome sufre una peculiar maldición que lo transforma en chica al contacto con agua fría, generando enredos mientras entrena artes marciales.</desc>
+  </programme>
+  <programme start="20260410123000 -0300" stop="20260410130000 -0300" channel="elmagis.ar">
+    <title lang="es">El Chavo</title>
+    <desc lang="es">Las aventuras cotidianas de un niño huérfano y los habitantes de una vecindad, llenas de humor, confusiones y entrañables personajes.</desc>
+  </programme>
+  <programme start="20260410130000 -0300" stop="20260410133000 -0300" channel="elmagis.ar">
+    <title lang="es">Alf</title>
+    <desc lang="es">Un extraterrestre llega a la Tierra y se instala con una familia humana, provocando situaciones cómicas mientras intenta adaptarse a la vida cotidiana.</desc>
+  </programme>
+  <programme start="20260410133000 -0300" stop="20260410140000 -0300" channel="elmagis.ar">
+    <title lang="es">Las Aventuras de Orphen</title>
+    <desc lang="es">Un poderoso hechicero recorre el mundo en busca de salvar a una amiga convertida en dragón, enfrentando peligros y secretos del pasado.</desc>
+  </programme>
+  <programme start="20260410140000 -0300" stop="20260410143000 -0300" channel="elmagis.ar">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Usagi y sus amigas se transforman en guerreras mágicas para luchar contra fuerzas del mal y proteger la Tierra con poder y amistad.</desc>
+  </programme>
+  <programme start="20260410143000 -0300" stop="20260410150000 -0300" channel="elmagis.ar">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">Sakura debe recuperar cartas mágicas que liberó accidentalmente, enfrentando desafíos mientras descubre sus propios poderes.</desc>
+  </programme>
+  <programme start="20260410150000 -0300" stop="20260410153000 -0300" channel="elmagis.ar">
+    <title lang="es">Escaflowne</title>
+    <desc lang="es">Una joven es transportada a un mundo fantástico donde guerras, destino y mechas gigantes marcan su aventura.</desc>
+  </programme>
+  <programme start="20260410153000 -0300" stop="20260410160000 -0300" channel="elmagis.ar">
+    <title lang="es">Cuentos de la Cripta</title>
+    <desc lang="es">Serie de relatos de terror con finales inesperados, narrados con humor oscuro por el Guardián de la Cripta.</desc>
+  </programme>
+  <programme start="20260410160000 -0300" stop="20260410163000 -0300" channel="elmagis.ar">
+    <title lang="es">Dragon Ball GT</title>
+    <desc lang="es">Goku emprende una nueva aventura por el universo tras un inesperado deseo que lo transforma en niño. Junto a sus amigos, enfrenta poderosos enemigos y busca las Esferas del Dragón para restaurar el orden.</desc>
+  </programme>
+  <programme start="20260410163000 -0300" stop="20260410170000 -0300" channel="elmagis.ar">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Un grupo de guerreros felinos llega a un nuevo mundo donde deberá enfrentarse a fuerzas del mal. Liderados por Leon-O, luchan por la justicia y la protección de su legado.</desc>
+  </programme>
+  <programme start="20260410170000 -0300" stop="20260410173000 -0300" channel="elmagis.ar">
+    <title lang="es">Slayers</title>
+    <desc lang="es">La hechicera Lina Inverse viaja en busca de tesoros y aventuras junto a un grupo de peculiares compañeros, enfrentando criaturas mágicas y enemigos con humor y acción.</desc>
+  </programme>
+  <programme start="20260410173000 -0300" stop="20260410180000 -0300" channel="elmagis.ar">
+    <title lang="es">Beakman</title>
+    <desc lang="es">Beakman y su equipo presentan experimentos científicos y explicaciones curiosas de forma divertida, acercando la ciencia a todos con humor y creatividad.</desc>
+  </programme>
+  <programme start="20260410180000 -0300" stop="20260410183000 -0300" channel="elmagis.ar">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Reiko Mikami es una cazafantasmas profesional que acepta peligrosos trabajos para eliminar espíritus y demonios, combinando acción sobrenatural con situaciones cómicas.</desc>
+  </programme>
+  <programme start="20260410183000 -0300" stop="20260410190000 -0300" channel="elmagis.ar">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Una joven sacerdotisa libera a un antiguo demonio guardián para combatir fuerzas oscuras. Juntos enfrentan amenazas sobrenaturales en intensas batallas.</desc>
+  </programme>
+  <programme start="20260410190000 -0300" stop="20260410193000 -0300" channel="elmagis.ar">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Jóvenes guerreros conocidos como Caballeros luchan para proteger a la diosa Atenea, enfrentando enemigos mitológicos en combates épicos.</desc>
+  </programme>
+  <programme start="20260410193000 -0300" stop="20260410200000 -0300" channel="elmagis.ar">
+    <title lang="es">Escuela de Detectives</title>
+    <desc lang="es">Un grupo de estudiantes con gran capacidad de observación resuelve casos misteriosos, utilizando lógica, deducción y trabajo en equipo.</desc>
+  </programme>
+  <programme start="20260410200000 -0300" stop="20260410203000 -0300" channel="elmagis.ar">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome sufre una peculiar maldición que lo transforma en chica al contacto con agua fría, generando enredos mientras entrena artes marciales.</desc>
+  </programme>
+  <programme start="20260410203000 -0300" stop="20260410210000 -0300" channel="elmagis.ar">
+    <title lang="es">Chavo</title>
+    <desc lang="es">Las aventuras cotidianas de un niño huérfano y los habitantes de una vecindad, llenas de humor, confusiones y entrañables personajes.</desc>
+  </programme>
+  <programme start="20260410210000 -0300" stop="20260410213000 -0300" channel="elmagis.ar">
+    <title lang="es">Alf</title>
+    <desc lang="es">Un extraterrestre llega a la Tierra y se instala con una familia humana, provocando situaciones cómicas mientras intenta adaptarse a la vida cotidiana.</desc>
+  </programme>
+  <programme start="20260410213000 -0300" stop="20260410220000 -0300" channel="elmagis.ar">
+    <title lang="es">Las Aventuras de Orphen</title>
+    <desc lang="es">Un poderoso hechicero recorre el mundo en busca de salvar a una amiga convertida en dragón, enfrentando peligros y secretos del pasado.</desc>
+  </programme>
+  <programme start="20260410220000 -0300" stop="20260410223000 -0300" channel="elmagis.ar">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Usagi y sus amigas se transforman en guerreras mágicas para luchar contra fuerzas del mal y proteger la Tierra con poder y amistad.</desc>
+  </programme>
+  <programme start="20260410223000 -0300" stop="20260410230000 -0300" channel="elmagis.ar">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">Sakura debe recuperar cartas mágicas que liberó accidentalmente, enfrentando desafíos mientras descubre sus propios poderes.</desc>
+  </programme>
+  <programme start="20260410230000 -0300" stop="20260410233000 -0300" channel="elmagis.ar">
+    <title lang="es">Escaflowne</title>
+    <desc lang="es">Una joven es transportada a un mundo fantástico donde guerras, destino y mechas gigantes marcan su aventura.</desc>
+  </programme>
+  <programme start="20260410233000 -0300" stop="20260411000000 -0300" channel="elmagis.ar">
+    <title lang="es">Cuentos de la Cripta</title>
+    <desc lang="es">Serie de relatos de terror con finales inesperados, narrados con humor oscuro por el Guardián de la Cripta.</desc>
+  </programme>
+  <programme start="20260411000000 -0300" stop="20260412000000 -0300" channel="elmagis.ar">
+    <title lang="es">Sin Informacion</title>
+    <desc lang="es">Sin Informacion</desc>
+  </programme>
+  <programme start="20260412000000 -0300" stop="20260413000000 -0300" channel="elmagis.ar">
+    <title lang="es">Sin Informacion</title>
+    <desc lang="es">Sin Informacion</desc>
   </programme>
   <programme start="20260410000000 -0300" stop="20260410002200 -0300" channel="retroblast">
     <title lang="es">Robot Chicken</title>
