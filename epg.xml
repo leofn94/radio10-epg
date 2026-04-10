@@ -507,8 +507,8 @@
     <desc lang="es">La clásica sitcom sobre la familia Argento y sus ocurrencias cotidianas.</desc>
   </programme>
   <programme start="20260410123000 -0300" stop="20260410130000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Blanco y Negro</title>
-    <desc lang="es">Clasica sitcom protagonizada por Gary Coleman</desc>
+    <title lang="es">Dinosaurios</title>
+    <desc lang="es">Comedia familiar ambientada en la era prehistórica, donde los Sinclair, una familia de dinosaurios antropomórficos, lidian con problemas cotidianos como el trabajo, la adolescencia y la extinción inminente</desc>
   </programme>
   <programme start="20260410130000 -0300" stop="20260410140000 -0300" channel="ciudadmagica.ar">
     <title lang="es">Xena Princesa Guerrera</title>
@@ -527,8 +527,8 @@
     <desc lang="es">Drama turco sobre una joven que lucha por la justicia tras una injusticia sufrida.</desc>
   </programme>
   <programme start="20260410170000 -0300" stop="20260410173000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Capitán Futuro</title>
-    <desc lang="es">El clásico anime sobre el héroe del futuro y sus aventuras espaciales.</desc>
+    <title lang="es">El show de Mario</title>
+    <desc lang="es">Los plomeros neoyorquinos que exploran el Reino Champiñón para rescatar a la Princesa Peach del malvado Bowser</desc>
   </programme>
   <programme start="20260410173000 -0300" stop="20260410180000 -0300" channel="ciudadmagica.ar">
     <title lang="es">Los Cazafantasmas</title>
@@ -539,8 +539,8 @@
     <desc lang="es">La telenovela musical argentina sobre una joven que lucha por sus sueños.</desc>
   </programme>
   <programme start="20260410190000 -0300" stop="20260410200000 -0300" channel="ciudadmagica.ar">
-    <title lang="es">Misión Imposible</title>
-    <desc lang="es">La clásica serie de espionaje con misiones de alto riesgo.</desc>
+    <title lang="es">CSI Miami</title>
+    <desc lang="es">Equipo forense liderado por el teniente Horatio Caine (David Caruso) resuelve crímenes en el soleado Miami usando ciencia y balística avanzada.</desc>
   </programme>
   <programme start="20260410200000 -0300" stop="20260410210000 -0300" channel="ciudadmagica.ar">
     <title lang="es">Los Expedientes Secretos X</title>
@@ -1124,7 +1124,7 @@
   </programme>
   <programme start="20260410203000 -0300" stop="20260410210000 -0300" channel="magickids.ar">
     <title lang="es">Medabots</title>
-    <desc lang="es">Competencias de robots personalizados con sus dueños en busir de la medalla rara.</desc>
+    <desc lang="es">Competencias de robots personalizados con sus dueños en busca de la medalla rara.</desc>
   </programme>
   <programme start="20260410210000 -0300" stop="20260410213000 -0300" channel="magickids.ar">
     <title lang="es">Sailor Moon</title>
