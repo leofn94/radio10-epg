@@ -46,11 +46,7 @@ CHANNELS = [
         "name": "Magic Kids",
         "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1797674806&single=true&output=csv",
     },
-#        {
-#        "id":   "dreiko.ar",
-#        "name": "Dreiko",
-#        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1314641220&single=true&output=csv",
-#    },
+
         {
         "id":   "locomotion1.ar",
         "name": "Locomotion 1",
@@ -86,11 +82,6 @@ CHANNELS = [
         "id":   "telesistema.ar",
         "name": "telesistema",
         "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=503971923&single=true&output=csv",
-    },
-         {
-        "id":   "GTVI",
-        "name": "GTVI",
-        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=67933382&single=true&output=csv",
     },
 ]
 
