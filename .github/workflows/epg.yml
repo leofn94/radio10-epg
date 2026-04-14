@@ -2,7 +2,7 @@ name: Generar EPG semanal
 
 on:
   schedule:
-  - cron: "0 */10 * * *"   # cada 6 hs
+  - cron: "0 */6 * * *"   # cada 6 hs
   workflow_dispatch:        # También se puede lanzar a mano desde GitHub
   
 permissions:
