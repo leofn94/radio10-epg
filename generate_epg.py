@@ -36,7 +36,7 @@ EXTERNAL_SOURCES = [
     }
     ,{
         "url": "https://epg.programadorx.cl/mdiaz/gratis.xml",
-        "ids": ["581", "538", "536", "608", "531", "532","537","664","1503dtv.cl","503dtv.cl", "517dtv.cl", "608", "531", "532","537","664","663","504","567","568","569","539"]
+        "ids": ["503dtv.cl", "504", "517dtv.cl", "531", "532", "536", "537", "538", "539", "567", "568", "569", "581", "608", "663", "664", "1503dtv.cl"]
      }
    # ,{
    #     "url": "https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",
