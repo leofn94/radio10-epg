@@ -93,6 +93,9 @@ def get_days_from_type(tipo):
 
 def process_external_sources(sources):
     data = []
+    # Definimos la zona horaria de Argentina para la conversión
+    tz_arg = pytz.timezone(TIMEZONE)
+    
     for source in sources:
         url = source["url"]
         target_ids = source["ids"]
@@ -104,28 +107,31 @@ def process_external_sources(sources):
         try:
             root = ET.fromstring(raw_xml)
             for ch_id in target_ids:
-                # Extraer nombre del canal
                 ch_node = root.find(f"./channel[@id='{ch_id}']")
                 ch_name = ch_node.find("display-name").text if ch_node is not None else f"Extra {ch_id}"
                 
-                # Extraer programas
                 programmes = []
                 for prog in root.findall(f"./programme[@channel='{ch_id}']"):
-                    # Las externas ya vienen en formato XMLTV, las parseamos para unificar
                     fmt = "%Y%m%d%H%M%S %z"
+                    # 1. Leemos la fecha original (venga con el offset que venga)
                     s_dt = datetime.strptime(prog.get("start"), fmt)
                     e_dt = datetime.strptime(prog.get("stop"), fmt)
+                    
+                    # 2. La convertimos a la hora de Argentina (-0300)
+                    s_dt = s_dt.astimezone(tz_arg)
+                    e_dt = e_dt.astimezone(tz_arg)
+                    
                     title = prog.find("title").text if prog.find("title") is not None else "Sin título"
                     desc = prog.find("desc").text if prog.find("desc") is not None else ""
                     
                     programmes.append((s_dt, e_dt, title, desc, ch_id))
                 
-                print(f"  ✅ Canal Externo: {ch_name} [{ch_id}] → {len(programmes)} programas")
+                print(f"  ✅ Canal Externo: {ch_name} [{ch_id}] → {len(programmes)} programas (normalizados a -0300)")
                 data.append({"id": ch_id, "name": ch_name, "programmes": programmes})
         except Exception as e:
             print(f"  ❌ Error procesando XML: {e}")
     return data
-
+    
 # ─── CONSTRUCCIÓN EPG DESDE SHEETS (CON VENTANA DE 3 DÍAS) ───────────────────
 
 def build_epg_from_sheets(rows, channel_id):
