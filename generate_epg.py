@@ -3,10 +3,9 @@ import urllib.request
 from datetime import datetime, timedelta
 import pytz
 import html
-import xml.etree.ElementTree as ET # Nueva importación para el XML externo
+import xml.etree.ElementTree as ET
 
 # ─── CONFIGURACIÓN ────────────────────────────────────────────────────────────
-# Tus canales de Google Sheets se mantienen igual
 CHANNELS = [
     {"id": "radio10.ar", "name": "Radio 10 AM 710", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?output=csv"},
     {"id": "rivadavia.ar", "name": "Radio Rivadavia AM 630", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1982230184&single=true&output=csv"},
@@ -26,7 +25,6 @@ CHANNELS = [
     {"id": "telesistema.ar", "name": "telesistema", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=503971923&single=true&output=csv"},
 ]
 
-# CONFIGURACIÓN EPG EXTERNA
 EXTERNAL_EPG_URL = "http://epg.programadorx.cl/mdiaz/gratis.xml"
 EXTERNAL_CHANNELS_IDS = ["506", "633", "537"]
 
@@ -41,10 +39,11 @@ DAYS_MAP = {
 # ─── FUNCIONES DE APOYO ──────────────────────────────────────────────────────
 def fetch_url(url):
     try:
-        with urllib.request.urlopen(url) as r:
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req) as r:
             return r.read()
     except Exception as e:
-        print(f"❌ Error descargando {url} → {e}")
+        print(f"  ❌ Error descargando → {e}")
         return None
 
 def parse_time(t):
@@ -54,7 +53,8 @@ def parse_time(t):
     return datetime.strptime(t, "%H:%M").time()
 
 def xmltv_ts(dt):
-    return dt.strftime("%Y%m%d%H%M%S") + " -0300"
+    # Aseguramos que el objeto sea offset-aware para el formateo
+    return dt.strftime("%Y%m%d%H%M%S %z")
 
 def get_monday():
     tz = pytz.timezone(TIMEZONE)
@@ -70,42 +70,33 @@ def get_days_from_type(tipo):
 
 # ─── PROCESAMIENTO EPG EXTERNA ───────────────────────────────────────────────
 def fetch_external_epg_data(url, target_ids):
-    print(f"Descargando EPG externa de {url}...")
+    print(f"\nDescargando EPG externa de {url}...")
     content = fetch_url(url)
     if not content: return []
     
     root = ET.fromstring(content)
     external_data = []
     
-    # Extraer canales y programas
     for channel_id in target_ids:
-        # Buscar el nombre del canal en el XML original
         ch_node = root.find(f"./channel[@id='{channel_id}']")
         ch_name = ch_node.find("display-name").text if ch_node is not None else f"Extra {channel_id}"
         
         programmes = []
-        # Buscar programas de este canal
         for prog in root.findall(f"./programme[@channel='{channel_id}']"):
-            # En el XML original las fechas ya vienen en formato XMLTV
-            # Para mantener compatibilidad con tu función write_xmltv, 
-            # las convertiremos a objetos datetime
             start_str = prog.get("start")
             stop_str = prog.get("stop")
             title = prog.find("title").text if prog.find("title") is not None else "Sin título"
             desc = prog.find("desc").text if prog.find("desc") is not None else ""
             
-            # Formato esperado: 20240414000000 +0000
             fmt = "%Y%m%d%H%M%S %z"
             start_dt = datetime.strptime(start_str, fmt)
             stop_dt = datetime.strptime(stop_str, fmt)
             
             programmes.append((start_dt, stop_dt, title, desc, channel_id))
             
-        external_data.append({
-            "id": channel_id,
-            "name": ch_name,
-            "programmes": programmes
-        })
+        print(f"  ✅ Canal Externo: {ch_name} [{channel_id}] → {len(programmes)} programas extraídos")
+        external_data.append({"id": channel_id, "name": ch_name, "programmes": programmes})
+        
     return external_data
 
 # ─── CONSTRUCCIÓN EPG DESDE SHEETS ──────────────────────────────────────────
@@ -128,13 +119,11 @@ def build_epg_from_sheets(rows, channel_id):
             if not (today <= date <= limit): continue
             try:
                 start_t, end_t = parse_time(start_raw), parse_time(end_raw)
+                start_dt = tz.localize(datetime.combine(date, start_t))
+                end_dt = tz.localize(datetime.combine(date, end_t))
+                if end_dt <= start_dt: end_dt += timedelta(days=1)
+                programmes.append((start_dt, end_dt, title.strip(), desc.strip(), channel_id))
             except: continue
-
-            start_dt = tz.localize(datetime.combine(date, start_t))
-            end_dt = tz.localize(datetime.combine(date, end_t))
-            if end_dt <= start_dt: end_dt += timedelta(days=1)
-
-            programmes.append((start_dt, end_dt, title.strip(), desc.strip(), channel_id))
     
     programmes.sort(key=lambda x: x[0])
     return programmes
@@ -152,30 +141,35 @@ def write_xmltv(channels_data):
         lines.append(f'    <display-name>{html.escape(ch["name"])}</display-name>')
         lines.append('  </channel>')
 
+    total_progs = 0
     for ch in channels_data:
         for start, end, title, desc, channel_id in ch["programmes"]:
-            # Normalizamos el formato de salida de tiempo
             lines.append(f'  <programme start="{xmltv_ts(start)}" stop="{xmltv_ts(end)}" channel="{channel_id}">')
             lines.append(f'    <title lang="es">{html.escape(title)}</title>')
             if desc: lines.append(f'    <desc lang="es">{html.escape(desc)}</desc>')
             lines.append('  </programme>')
+            total_progs += 1
 
     lines.append('</tv>')
-    return "\n".join(lines)
+    return "\n".join(lines), total_progs
 
 # ─── MAIN ────────────────────────────────────────────────────────────────────
 def main():
     all_channels_combined = []
+    print("🚀 Iniciando generación de EPG...\n")
 
     # 1. Procesar Canales de Google Sheets
     for ch in CHANNELS:
-        print(f"Procesando Sheet de {ch['name']}...")
         raw_content = fetch_url(ch["url"])
-        if not raw_content: continue
+        if not raw_content: 
+            print(f"⚠️ Saltando {ch['name']} (Error descarga)")
+            continue
         
         lines = raw_content.decode("utf-8").splitlines()
         rows = list(csv.reader(lines))[1:]
         programmes = build_epg_from_sheets(rows, ch["id"])
+        
+        print(f"  📁 Sheet: {ch['name']} → {len(programmes)} programas generados")
         
         all_channels_combined.append({
             "id": ch["id"],
@@ -187,16 +181,21 @@ def main():
     try:
         external_data = fetch_external_epg_data(EXTERNAL_EPG_URL, EXTERNAL_CHANNELS_IDS)
         all_channels_combined.extend(external_data)
-        print(f"✅ Se agregaron {len(external_data)} canales externos.")
     except Exception as e:
-        print(f"❌ Error procesando EPG externa: {e}")
+        print(f"❌ Error crítico procesando EPG externa: {e}")
 
-    # 3. Escribir archivo final
-    xml = write_xmltv(all_channels_combined)
+    # 3. Escribir archivo final y contar total
+    xml_content, total_count = write_xmltv(all_channels_combined)
+    
     with open(OUTPUT_FILE, "w", encoding="utf-8-sig") as f:
-        f.write(xml)
+        f.write(xml_content)
 
-    print(f"\nEPG completa guardada en {OUTPUT_FILE}")
+    print("-" * 40)
+    print(f"✨ PROCESO COMPLETADO")
+    print(f"📺 Total canales: {len(all_channels_combined)}")
+    print(f"📅 Total programas: {total_count}")
+    print(f"💾 Archivo: {OUTPUT_FILE}")
+    print("-" * 40)
 
 if __name__ == "__main__":
     main()
