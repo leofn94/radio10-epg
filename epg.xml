@@ -385,6 +385,30 @@
   <channel id="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5">
     <display-name>CinEspanto</display-name>
   </channel>
+  <channel id="Magic Kids Tv">
+    <display-name>Magic Kids Tv</display-name>
+  </channel>
+  <channel id="Zaz TV">
+    <display-name>Zaz TV</display-name>
+  </channel>
+  <channel id="Ani Retro">
+    <display-name>Ani Retro</display-name>
+  </channel>
+  <channel id="Dreiko TV">
+    <display-name>Dreiko TV</display-name>
+  </channel>
+  <channel id="El Chavo">
+    <display-name>El Chavo</display-name>
+  </channel>
+  <channel id="Cine Sony">
+    <display-name>Cine Sony</display-name>
+  </channel>
+  <channel id="Frecuencia Musical TV">
+    <display-name>Frecuencia Musical TV</display-name>
+  </channel>
+  <channel id="Tv Retro Palmares">
+    <display-name>Tv Retro Palmares</display-name>
+  </channel>
   <programme start="20260416000000 -0300" stop="20260416040000 -0300" channel="radio10.ar">
     <title lang="es">Mejor ahora (Jorge Pizarro)</title>
     <desc lang="es">Jorge Pizarro te acompaña durante las madrugadas con información y la charla justa para terminar o empezar el día.</desc>
@@ -8031,7 +8055,7 @@
     <title lang="es">AVI</title>
     <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416011800 -0300" channel="503dtv.cl">
+  <programme start="20260415235536 -0300" stop="20260416011800 -0300" channel="503dtv.cl">
     <title lang="es">Un lugar llamado Notting Hill</title>
   </programme>
   <programme start="20260416011800 -0300" stop="20260416033900 -0300" channel="503dtv.cl">
@@ -8100,10 +8124,10 @@
   <programme start="20260417211000 -0300" stop="20260417230000 -0300" channel="503dtv.cl">
     <title lang="es">La máscara</title>
   </programme>
-  <programme start="20260417230000 -0300" stop="20260417235158 -0300" channel="503dtv.cl">
+  <programme start="20260417230000 -0300" stop="20260417235536 -0300" channel="503dtv.cl">
     <title lang="es">Jumanji: En la selva</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416005927 -0300" channel="504">
+  <programme start="20260415235536 -0300" stop="20260416005927 -0300" channel="504">
     <title lang="es">Siempre A Tu Lado</title>
   </programme>
   <programme start="20260416010108 -0300" stop="20260416024031 -0300" channel="504">
@@ -8175,10 +8199,10 @@
   <programme start="20260417203131 -0300" stop="20260417221649 -0300" channel="504">
     <title lang="es">El Ascenso</title>
   </programme>
-  <programme start="20260417221821 -0300" stop="20260417235158 -0300" channel="504">
+  <programme start="20260417221821 -0300" stop="20260417235536 -0300" channel="504">
     <title lang="es">Bajo el mismo techo</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416012400 -0300" channel="517dtv.cl">
+  <programme start="20260415235536 -0300" stop="20260416012400 -0300" channel="517dtv.cl">
     <title lang="es">Ritual del más allá</title>
   </programme>
   <programme start="20260416012400 -0300" stop="20260416025200 -0300" channel="517dtv.cl">
@@ -8253,10 +8277,10 @@
   <programme start="20260417210000 -0300" stop="20260417230100 -0300" channel="517dtv.cl">
     <title lang="es">Latidos en la oscuridad</title>
   </programme>
-  <programme start="20260417230100 -0300" stop="20260417235158 -0300" channel="517dtv.cl">
+  <programme start="20260417230100 -0300" stop="20260417235536 -0300" channel="517dtv.cl">
     <title lang="es">El descenso</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416000000 -0300" channel="531">
+  <programme start="20260415235536 -0300" stop="20260416000000 -0300" channel="531">
     <title lang="es">EnerGeek MOVIE</title>
   </programme>
   <programme start="20260416000000 -0300" stop="20260416003000 -0300" channel="531">
@@ -8526,10 +8550,10 @@
   <programme start="20260417223000 -0300" stop="20260417230000 -0300" channel="531">
     <title lang="es">Getbackers</title>
   </programme>
-  <programme start="20260417230000 -0300" stop="20260417235158 -0300" channel="531">
+  <programme start="20260417230000 -0300" stop="20260417235536 -0300" channel="531">
     <title lang="es">EnerGeek MOVIE</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416000000 -0300" channel="532">
+  <programme start="20260415235536 -0300" stop="20260416000000 -0300" channel="532">
     <title lang="es">EnerGeek Movie</title>
   </programme>
   <programme start="20260416000000 -0300" stop="20260416003000 -0300" channel="532">
@@ -8781,7 +8805,7 @@
   <programme start="20260417213000 -0300" stop="20260417220000 -0300" channel="532">
     <title lang="es">El Desafio de los Gobots</title>
   </programme>
-  <programme start="20260417220000 -0300" stop="20260417235158 -0300" channel="532">
+  <programme start="20260417220000 -0300" stop="20260417235536 -0300" channel="532">
     <title lang="es">EnerGeek Movie</title>
   </programme>
   <programme start="20260416000651 -0300" stop="20260416005022 -0300" channel="536">
@@ -8868,7 +8892,7 @@
   <programme start="20260417021037 -0300" stop="20260417031057 -0300" channel="536">
     <title lang="es">Un Increíble Viaje En El Tiempo - Los Primeros 1.000 Días En MARTE</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416000651 -0300" channel="536">
+  <programme start="20260415235536 -0300" stop="20260416000651 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
   <programme start="20260416005022 -0300" stop="20260416015022 -0300" channel="536">
@@ -8940,10 +8964,10 @@
   <programme start="20260417221057 -0300" stop="20260417231057 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260417231057 -0300" stop="20260417235158 -0300" channel="536">
+  <programme start="20260417231057 -0300" stop="20260417235536 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416001400 -0300" channel="537">
+  <programme start="20260415235536 -0300" stop="20260416001400 -0300" channel="537">
     <title lang="es">Robotech</title>
   </programme>
   <programme start="20260416001400 -0300" stop="20260416003759 -0300" channel="537">
@@ -9147,7 +9171,7 @@
   <programme start="20260417222239 -0300" stop="20260417232239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417232239 -0300" stop="20260417235158 -0300" channel="537">
+  <programme start="20260417232239 -0300" stop="20260417235536 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
   <programme start="20260415230000 -0300" stop="20260416000000 -0300" channel="538">
@@ -9294,7 +9318,7 @@
   <programme start="20260417220000 -0300" stop="20260417230000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416010930 -0300" channel="539">
+  <programme start="20260415235536 -0300" stop="20260416010930 -0300" channel="539">
     <title lang="es">(1981) - Cuerpos Ardientes</title>
   </programme>
   <programme start="20260416010930 -0300" stop="20260416024653 -0300" channel="539">
@@ -9372,7 +9396,7 @@
   <programme start="20260417215036 -0300" stop="20260417235009 -0300" channel="539">
     <title lang="es">(1998) - Gia</title>
   </programme>
-  <programme start="20260417235009 -0300" stop="20260417235158 -0300" channel="539">
+  <programme start="20260417235009 -0300" stop="20260417235536 -0300" channel="539">
     <title lang="es">(2010) - Triste San Valentin</title>
   </programme>
   <programme start="20260415230000 -0300" stop="20260416000000 -0300" channel="567">
@@ -9951,7 +9975,7 @@
   <programme start="20260417220000 -0300" stop="20260417230000 -0300" channel="581">
     <title lang="es">Zoom back</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416000000 -0300" channel="608">
+  <programme start="20260415235536 -0300" stop="20260416000000 -0300" channel="608">
     <title lang="es">Doctor Who (Repetición)</title>
   </programme>
   <programme start="20260416000000 -0300" stop="20260416010000 -0300" channel="608">
@@ -10059,10 +10083,10 @@
   <programme start="20260417220000 -0300" stop="20260417230000 -0300" channel="608">
     <title lang="es">The X Files</title>
   </programme>
-  <programme start="20260417230000 -0300" stop="20260417235158 -0300" channel="608">
+  <programme start="20260417230000 -0300" stop="20260417235536 -0300" channel="608">
     <title lang="es">Doctor Who (Repetición)</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416000000 -0300" channel="663">
+  <programme start="20260415235536 -0300" stop="20260416000000 -0300" channel="663">
     <title lang="es">Noche de Western</title>
   </programme>
   <programme start="20260416000000 -0300" stop="20260416070000 -0300" channel="663">
@@ -10098,10 +10122,10 @@
   <programme start="20260417170000 -0300" stop="20260417200000 -0300" channel="663">
     <title lang="es">Clásicos del Western</title>
   </programme>
-  <programme start="20260417200000 -0300" stop="20260417235158 -0300" channel="663">
+  <programme start="20260417200000 -0300" stop="20260417235536 -0300" channel="663">
     <title lang="es">Noche de Western</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416080000 -0300" channel="664">
+  <programme start="20260415235536 -0300" stop="20260416080000 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260416080000 -0300" stop="20260416120000 -0300" channel="664">
@@ -10125,10 +10149,10 @@
   <programme start="20260417170000 -0300" stop="20260417200000 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
-  <programme start="20260417200000 -0300" stop="20260417235158 -0300" channel="664">
+  <programme start="20260417200000 -0300" stop="20260417235536 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
-  <programme start="20260415235158 -0300" stop="20260416011300 -0300" channel="1503dtv.cl">
+  <programme start="20260415235536 -0300" stop="20260416011300 -0300" channel="1503dtv.cl">
     <title lang="es">Nada es lo que parece 2</title>
   </programme>
   <programme start="20260416011300 -0300" stop="20260416030200 -0300" channel="1503dtv.cl">
@@ -10209,7 +10233,7 @@
   <programme start="20260417211100 -0300" stop="20260417230000 -0300" channel="1503dtv.cl">
     <title lang="es">Agua profunda</title>
   </programme>
-  <programme start="20260417230000 -0300" stop="20260417235158 -0300" channel="1503dtv.cl">
+  <programme start="20260417230000 -0300" stop="20260417235536 -0300" channel="1503dtv.cl">
     <title lang="es">La luz del fin del mundo</title>
   </programme>
   <programme start="20260416002300 -0300" stop="20260416012300 -0300" channel="66a11a21a79dea0008aa90ca">
@@ -15343,5 +15367,1827 @@
   <programme start="20260417010802 -0300" stop="20260417030000 -0300" channel="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5">
     <title lang="es">The Evil Within</title>
     <desc lang="es">Un niño con discapacidad mental que vive con su hermano mayor recibe la orden de una criatura sádica en sus sueños de emprender un alboroto asesino.</desc>
+  </programme>
+  <programme start="20260415000000 -0300" stop="20260415003000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415003000 -0300" stop="20260415010000 -0300" channel="Magic Kids Tv">
+    <title lang="es">The Thundercats</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415010000 -0300" stop="20260415013000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slayers</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415013000 -0300" stop="20260415020000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415020000 -0300" stop="20260415090000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sin Informacion</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415090000 -0300" stop="20260415093000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slayers</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415093000 -0300" stop="20260415100000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415100000 -0300" stop="20260415103000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415103000 -0300" stop="20260415110000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415110000 -0300" stop="20260415113000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415113000 -0300" stop="20260415120000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escuela de Detectives</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415120000 -0300" stop="20260415123000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415123000 -0300" stop="20260415130000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Chavo</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415130000 -0300" stop="20260415133000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415133000 -0300" stop="20260415140000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Las Aventuras de Orphen</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415140000 -0300" stop="20260415143000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415143000 -0300" stop="20260415150000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415150000 -0300" stop="20260415153000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escaflowne</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415153000 -0300" stop="20260415160000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Cuentos de la Cripta</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415160000 -0300" stop="20260415163000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415163000 -0300" stop="20260415170000 -0300" channel="Magic Kids Tv">
+    <title lang="es">The Thundercats</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415170000 -0300" stop="20260415173000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slayers</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415173000 -0300" stop="20260415180000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415180000 -0300" stop="20260415183000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415183000 -0300" stop="20260415190000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415190000 -0300" stop="20260415193000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415193000 -0300" stop="20260415200000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escuela de Detectives</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415200000 -0300" stop="20260415203000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415203000 -0300" stop="20260415210000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Chavo</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415210000 -0300" stop="20260415213000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415213000 -0300" stop="20260415220000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Las Aventuras de Orphen</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415220000 -0300" stop="20260415223000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415223000 -0300" stop="20260415230000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415230000 -0300" stop="20260415233000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escaflowne</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415233000 -0300" stop="20260416000000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Cuentos de la Cripta</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416000000 -0300" stop="20260416003000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416003000 -0300" stop="20260416010000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Le temes a la oscuridad?</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416010000 -0300" stop="20260416013000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416013000 -0300" stop="20260416020000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416020000 -0300" stop="20260416090000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sin Informacion</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416090000 -0300" stop="20260416093000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slayers</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416093000 -0300" stop="20260416100000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416100000 -0300" stop="20260416103000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416103000 -0300" stop="20260416110000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416110000 -0300" stop="20260416113000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416113000 -0300" stop="20260416120000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escuela de Detectives</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416120000 -0300" stop="20260416123000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416123000 -0300" stop="20260416130000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Chavo</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416130000 -0300" stop="20260416133000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416133000 -0300" stop="20260416140000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Las Aventuras de Orphen</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416140000 -0300" stop="20260416143000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416143000 -0300" stop="20260416150000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416150000 -0300" stop="20260416153000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escaflowne</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416153000 -0300" stop="20260416160000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Cuentos de la Cripta</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416160000 -0300" stop="20260416163000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416163000 -0300" stop="20260416170000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416170000 -0300" stop="20260416173000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416173000 -0300" stop="20260416180000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416180000 -0300" stop="20260416183000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416183000 -0300" stop="20260416190000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Donde esta Wally?</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416190000 -0300" stop="20260416193000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416193000 -0300" stop="20260416200000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escuela de Detectives</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416200000 -0300" stop="20260416203000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416203000 -0300" stop="20260416210000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Chavo</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416210000 -0300" stop="20260416213000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416213000 -0300" stop="20260416220000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Las Aventuras de Orphen</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416220000 -0300" stop="20260416223000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416223000 -0300" stop="20260416230000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416230000 -0300" stop="20260416233000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260416233000 -0300" stop="20260417000000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Cuentos de la Cripta</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417000000 -0300" stop="20260417003000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417003000 -0300" stop="20260417010000 -0300" channel="Magic Kids Tv">
+    <title lang="es">The Thundercats</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417010000 -0300" stop="20260417013000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slayers</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417013000 -0300" stop="20260417020000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417020000 -0300" stop="20260417090000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sin Informacion</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417090000 -0300" stop="20260417093000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slayers</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417093000 -0300" stop="20260417100000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417100000 -0300" stop="20260417103000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417103000 -0300" stop="20260417110000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417110000 -0300" stop="20260417113000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417113000 -0300" stop="20260417120000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escuela de Detectives</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417120000 -0300" stop="20260417123000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417123000 -0300" stop="20260417130000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Chavo</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417130000 -0300" stop="20260417133000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417133000 -0300" stop="20260417140000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Las Aventuras de Orphen</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417140000 -0300" stop="20260417143000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417143000 -0300" stop="20260417150000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417150000 -0300" stop="20260417153000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escaflowne</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417153000 -0300" stop="20260417160000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Cuentos de la Cripta</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417160000 -0300" stop="20260417163000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417163000 -0300" stop="20260417170000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417170000 -0300" stop="20260417173000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slayers</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417173000 -0300" stop="20260417180000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417180000 -0300" stop="20260417183000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417183000 -0300" stop="20260417190000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417190000 -0300" stop="20260417193000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417193000 -0300" stop="20260417200000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escuela de Detectives</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417200000 -0300" stop="20260417203000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417203000 -0300" stop="20260417210000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Chavo</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417210000 -0300" stop="20260417213000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417213000 -0300" stop="20260417220000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Las Aventuras de Orphen</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417220000 -0300" stop="20260417223000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417223000 -0300" stop="20260417230000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sakura card captor</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417230000 -0300" stop="20260417233000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Escaflowne</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260417233000 -0300" stop="20260418000000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Cuentos de la Cripta</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20260415030000 -0300" stop="20260415050000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260415050000 -0300" stop="20260415070000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260415070000 -0300" stop="20260415150000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260415150000 -0300" stop="20260415170000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260415170000 -0300" stop="20260415190000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260415190000 -0300" stop="20260415210000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260415210000 -0300" stop="20260415230000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260415230000 -0300" stop="20260416010000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260416010000 -0300" stop="20260416030000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260416030000 -0300" stop="20260416060000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260416060000 -0300" stop="20260416090000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260416090000 -0300" stop="20260416120000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260416120000 -0300" stop="20260416150000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260416150000 -0300" stop="20260416180000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260416180000 -0300" stop="20260416210000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260416210000 -0300" stop="20260417000000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260417000000 -0300" stop="20260417030000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260417030000 -0300" stop="20260417060000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260417060000 -0300" stop="20260417090000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260417090000 -0300" stop="20260417120000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260417120000 -0300" stop="20260417150000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260417150000 -0300" stop="20260417180000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260417180000 -0300" stop="20260417210000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260417210000 -0300" stop="20260418000000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260418000000 -0300" stop="20260418030000 -0300" channel="Zaz TV">
+    <title lang="es">Animación</title>
+  </programme>
+  <programme start="20260415000000 -0300" stop="20260415030000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260415030000 -0300" stop="20260415060000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260415060000 -0300" stop="20260415090000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260415090000 -0300" stop="20260415120000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260415120000 -0300" stop="20260415150000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260415150000 -0300" stop="20260415180000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260415180000 -0300" stop="20260415210000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260415210000 -0300" stop="20260416000000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260416000000 -0300" stop="20260416030000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260416030000 -0300" stop="20260416060000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260416060000 -0300" stop="20260416090000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260416090000 -0300" stop="20260416120000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260416120000 -0300" stop="20260416150000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260416150000 -0300" stop="20260416180000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260416180000 -0300" stop="20260416210000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260416210000 -0300" stop="20260417000000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260417000000 -0300" stop="20260417030000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260417030000 -0300" stop="20260417060000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260417060000 -0300" stop="20260417090000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260417090000 -0300" stop="20260417120000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260417120000 -0300" stop="20260417150000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260417150000 -0300" stop="20260417180000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260417180000 -0300" stop="20260417210000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260417210000 -0300" stop="20260418000000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20260415021200 -0300" stop="20260415023700 -0300" channel="Dreiko TV">
+    <title lang="es">El Show del Inspector Ardilla</title>
+  </programme>
+  <programme start="20260415023700 -0300" stop="20260415030100 -0300" channel="Dreiko TV">
+    <title lang="es">Los Mapaches</title>
+  </programme>
+  <programme start="20260415030100 -0300" stop="20260415030800 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415030800 -0300" stop="20260415033300 -0300" channel="Dreiko TV">
+    <title lang="es">Sandybell</title>
+    <desc lang="es">Es una niña muy alegre, dulce,noble y bella que siempre ha deseado tener una madre. Al conocer a la condesa visualiza en ella a su madre y con el narciso que ella le da hace un jardín llamado -el jardín secreto de mamá- donde va cada vez que tiene problemas</desc>
+  </programme>
+  <programme start="20260415033300 -0300" stop="20260415035800 -0300" channel="Dreiko TV">
+    <title lang="es">Beast Wars</title>
+    <desc lang="es">Megatron, un líder nato Predacon, roba junto con varios de sus Predacons el Disco Dorado, un disco con información muy valiosa sobre el pasado y el futuro. Durante su huida, una nave exploradora Maximal comandada por Optimus Primal, recibe el mensaje de que Megatron debe ser detenido y se dispone a perseguirlo. En la persecución, atraviesan una onda Transwarp temporal, que los lleva a quién sabe dónde. Las dos naves se enfrentan cerca de la atmósfera de un planeta, y ambas quedan dañadas, siendo atraídas inevitablemente por la fuerza gravitatoria del planeta, cayendo cada una, en un lugar distinto de aquel lugar inhóspito. Pero antes, los Maximals, intentan poner a salvo a la mayoría de su tripulación, inducíendolos en un pequeño estado de hibernación en Vainas Estasis, para acto seguido soltarlas en el espacio</desc>
+  </programme>
+  <programme start="20260415035800 -0300" stop="20260415040500 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415040500 -0300" stop="20260415042800 -0300" channel="Dreiko TV">
+    <title lang="es">La Isla del Tesoro</title>
+    <desc lang="es">La historia comienza en una noche de tormenta con caída de un trueno. Una noche que cambió la vida de un inocente niño que soñaba con hacerse a la mar: Jim Hawkins se convierte en el protagonista de esta emocionante historia de bucaneros y tesoros enterrados</desc>
+  </programme>
+  <programme start="20260415042800 -0300" stop="20260415045100 -0300" channel="Dreiko TV">
+    <title lang="es">Jonny Quest</title>
+  </programme>
+  <programme start="20260415045100 -0300" stop="20260415050100 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415050100 -0300" stop="20260415053100 -0300" channel="Dreiko TV">
+    <title lang="es">GiGi</title>
+  </programme>
+  <programme start="20260415053100 -0300" stop="20260415055600 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Garfield</title>
+    <desc lang="es">Preso de la gula y la vagancia, Garfield intenta escaquearse de sus obligaciones, provocando más de un quebradero de cabeza a su dueño. Aunque su única ambición es atiborrarse de lasañas, este carismático gato tendrá que solventar sus problemas de una manera u otra</desc>
+  </programme>
+  <programme start="20260415055600 -0300" stop="20260415060600 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415060600 -0300" stop="20260415063100 -0300" channel="Dreiko TV">
+    <title lang="es">La Pequeña Polon</title>
+  </programme>
+  <programme start="20260415063100 -0300" stop="20260415065600 -0300" channel="Dreiko TV">
+    <title lang="es">Animal Crackers</title>
+  </programme>
+  <programme start="20260415065600 -0300" stop="20260415072000 -0300" channel="Dreiko TV">
+    <title lang="es">Pato Aventuras</title>
+    <desc lang="es">Las aventuras del millonario Tío Gilito y sus sobrinos Hugo, Paco y Luis. Cuando el Pato Donald decide enrolarse en la marina, deja a sus tres sobrinos a cargo de su acaudalado tío, un excéntrico millonario cuya afición es nadar entre montones de billetes</desc>
+  </programme>
+  <programme start="20260415072000 -0300" stop="20260415073000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415073000 -0300" stop="20260415073500 -0300" channel="Dreiko TV">
+    <title lang="es">Cierre</title>
+  </programme>
+  <programme start="20260415073500 -0300" stop="20260415080000 -0300" channel="Dreiko TV">
+    <title lang="es">Offline</title>
+  </programme>
+  <programme start="20260415080000 -0300" stop="20260415110000 -0300" channel="Dreiko TV">
+    <title lang="es">Offline</title>
+  </programme>
+  <programme start="20260415110000 -0300" stop="20260415111000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415111000 -0300" stop="20260415113500 -0300" channel="Dreiko TV">
+    <title lang="es">La Pequeña Polon</title>
+  </programme>
+  <programme start="20260415113500 -0300" stop="20260415120000 -0300" channel="Dreiko TV">
+    <title lang="es">Animal Crackers</title>
+  </programme>
+  <programme start="20260415120000 -0300" stop="20260415122400 -0300" channel="Dreiko TV">
+    <title lang="es">Pato Aventuras</title>
+    <desc lang="es">Las aventuras del millonario Tío Gilito y sus sobrinos Hugo, Paco y Luis. Cuando el Pato Donald decide enrolarse en la marina, deja a sus tres sobrinos a cargo de su acaudalado tío, un excéntrico millonario cuya afición es nadar entre montones de billetes</desc>
+  </programme>
+  <programme start="20260415122400 -0300" stop="20260415123400 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415123400 -0300" stop="20260415125900 -0300" channel="Dreiko TV">
+    <title lang="es">Denver El Ultimo Dinosaurio</title>
+    <desc lang="es">Un dinosaurio amante de la diversión y su grupo de ingeniosos jóvenes amigos: Jeremy, Mario, Wally, Heather, Casey y Shades. ¡Perseguido por buscadores de fortuna, Denver siempre se encuentra en medio de aventuras inesperadas!</desc>
+  </programme>
+  <programme start="20260415125900 -0300" stop="20260415132300 -0300" channel="Dreiko TV">
+    <title lang="es">Combattler V</title>
+  </programme>
+  <programme start="20260415132300 -0300" stop="20260415133300 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415133300 -0300" stop="20260415135800 -0300" channel="Dreiko TV">
+    <title lang="es">David el Gnomo</title>
+    <desc lang="es">las aventuras de David, un gnomo de los bosques que gracias a sus conocimientos de las plantas medicinales cura a los gnomos de sus enfermedades, y a los animales heridos. Por ello, David es llamado desde todas las partes del mundo para resolver casos médicos difíciles. Hasta los gnomos reyes solicitan su consejo. Durante sus viajes, David y sus colaboradores y amigos tienen que lidiar con peligros y dificultades como trolls, monstruos, incendios, inundaciones, sequías, frío, calor... y, a veces incluso, los seres humanos</desc>
+  </programme>
+  <programme start="20260415135800 -0300" stop="20260415142200 -0300" channel="Dreiko TV">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260415142200 -0300" stop="20260415144800 -0300" channel="Dreiko TV">
+    <title lang="es">Yam Yam, el Genio</title>
+  </programme>
+  <programme start="20260415144800 -0300" stop="20260415151400 -0300" channel="Dreiko TV">
+    <title lang="es">Dog City</title>
+    <desc lang="es">Las aventuras de un detective privado canino, mientras habla con su animador, quien tiene sus propios conflictos que resolver</desc>
+  </programme>
+  <programme start="20260415151400 -0300" stop="20260415152400 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415152400 -0300" stop="20260415154600 -0300" channel="Dreiko TV">
+    <title lang="es">Dr Slump</title>
+    <desc lang="es">Las aventuras del Dr. Norimaki y de su creación Arale, una niña robot. El doctor es un inventor torpe que quiere ser rico y tener una novia. Arale funciona perfectamente, pero tiene súper poderes que hace que destruya todo por donde pasa</desc>
+  </programme>
+  <programme start="20260415154600 -0300" stop="20260415161000 -0300" channel="Dreiko TV">
+    <title lang="es">Gundam Wing</title>
+    <desc lang="es">En el año 195 después de la creación de las colonias, la alianza unida de la esfera terrestre gana poder militar y conquista colonia tras colonia. Cinco jóvenes fueron enviados a la tierra para contrarrestar este poder militar con la ayuda de sus máquinas llamadas Gundams los cuales se son los Mobile Suits más poderosos creados según los creadores de los mismos en el camino los cinco pilotos encontrarán situaciones para ganar esta guerra entre la alianza de la tierra y las colonias espaciales</desc>
+  </programme>
+  <programme start="20260415161000 -0300" stop="20260415162000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415162000 -0300" stop="20260415164400 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Super Mario</title>
+    <desc lang="es">Durante los distintos episodios, se puede ver a Mario y a Luigi viviendo en un apartamento de Brooklyn donde son protagonistas de multitud de situaciones cómicas</desc>
+  </programme>
+  <programme start="20260415164400 -0300" stop="20260415170900 -0300" channel="Dreiko TV">
+    <title lang="es">El Show del Inspector Ardilla</title>
+  </programme>
+  <programme start="20260415170900 -0300" stop="20260415173300 -0300" channel="Dreiko TV">
+    <title lang="es">Los Mapaches</title>
+  </programme>
+  <programme start="20260415173300 -0300" stop="20260415174000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415174000 -0300" stop="20260415180500 -0300" channel="Dreiko TV">
+    <title lang="es">Sandybell</title>
+    <desc lang="es">Es una niña muy alegre, dulce,noble y bella que siempre ha deseado tener una madre. Al conocer a la condesa visualiza en ella a su madre y con el narciso que ella le da hace un jardín llamado -el jardín secreto de mamá- donde va cada vez que tiene problemas</desc>
+  </programme>
+  <programme start="20260415180500 -0300" stop="20260415183000 -0300" channel="Dreiko TV">
+    <title lang="es">Beast Wars</title>
+    <desc lang="es">Megatron, un líder nato Predacon, roba junto con varios de sus Predacons el Disco Dorado, un disco con información muy valiosa sobre el pasado y el futuro. Durante su huida, una nave exploradora Maximal comandada por Optimus Primal, recibe el mensaje de que Megatron debe ser detenido y se dispone a perseguirlo. En la persecución, atraviesan una onda Transwarp temporal, que los lleva a quién sabe dónde. Las dos naves se enfrentan cerca de la atmósfera de un planeta, y ambas quedan dañadas, siendo atraídas inevitablemente por la fuerza gravitatoria del planeta, cayendo cada una, en un lugar distinto de aquel lugar inhóspito. Pero antes, los Maximals, intentan poner a salvo a la mayoría de su tripulación, inducíendolos en un pequeño estado de hibernación en Vainas Estasis, para acto seguido soltarlas en el espacio</desc>
+  </programme>
+  <programme start="20260415183000 -0300" stop="20260415183700 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415183700 -0300" stop="20260415190000 -0300" channel="Dreiko TV">
+    <title lang="es">La Isla del Tesoro</title>
+    <desc lang="es">La historia comienza en una noche de tormenta con caída de un trueno. Una noche que cambió la vida de un inocente niño que soñaba con hacerse a la mar: Jim Hawkins se convierte en el protagonista de esta emocionante historia de bucaneros y tesoros enterrados</desc>
+  </programme>
+  <programme start="20260415190000 -0300" stop="20260415192300 -0300" channel="Dreiko TV">
+    <title lang="es">Jonny Quest</title>
+  </programme>
+  <programme start="20260415192300 -0300" stop="20260415193300 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415193300 -0300" stop="20260415200300 -0300" channel="Dreiko TV">
+    <title lang="es">GiGi</title>
+  </programme>
+  <programme start="20260415200300 -0300" stop="20260415202800 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Garfield</title>
+    <desc lang="es">Preso de la gula y la vagancia, Garfield intenta escaquearse de sus obligaciones, provocando más de un quebradero de cabeza a su dueño. Aunque su única ambición es atiborrarse de lasañas, este carismático gato tendrá que solventar sus problemas de una manera u otra</desc>
+  </programme>
+  <programme start="20260415202800 -0300" stop="20260415203800 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415203800 -0300" stop="20260415210300 -0300" channel="Dreiko TV">
+    <title lang="es">La Pequeña Polon</title>
+  </programme>
+  <programme start="20260415210300 -0300" stop="20260415212800 -0300" channel="Dreiko TV">
+    <title lang="es">Animal Crackers</title>
+  </programme>
+  <programme start="20260415212800 -0300" stop="20260415215200 -0300" channel="Dreiko TV">
+    <title lang="es">Pato Aventuras</title>
+    <desc lang="es">Las aventuras del millonario Tío Gilito y sus sobrinos Hugo, Paco y Luis. Cuando el Pato Donald decide enrolarse en la marina, deja a sus tres sobrinos a cargo de su acaudalado tío, un excéntrico millonario cuya afición es nadar entre montones de billetes</desc>
+  </programme>
+  <programme start="20260415215200 -0300" stop="20260415220200 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415220200 -0300" stop="20260415222700 -0300" channel="Dreiko TV">
+    <title lang="es">Denver El Ultimo Dinosaurio</title>
+    <desc lang="es">Un dinosaurio amante de la diversión y su grupo de ingeniosos jóvenes amigos: Jeremy, Mario, Wally, Heather, Casey y Shades. ¡Perseguido por buscadores de fortuna, Denver siempre se encuentra en medio de aventuras inesperadas!</desc>
+  </programme>
+  <programme start="20260415222700 -0300" stop="20260415225100 -0300" channel="Dreiko TV">
+    <title lang="es">Combattler V</title>
+  </programme>
+  <programme start="20260415225100 -0300" stop="20260415230100 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260415230100 -0300" stop="20260415232600 -0300" channel="Dreiko TV">
+    <title lang="es">David el Gnomo</title>
+    <desc lang="es">las aventuras de David, un gnomo de los bosques que gracias a sus conocimientos de las plantas medicinales cura a los gnomos de sus enfermedades, y a los animales heridos. Por ello, David es llamado desde todas las partes del mundo para resolver casos médicos difíciles. Hasta los gnomos reyes solicitan su consejo. Durante sus viajes, David y sus colaboradores y amigos tienen que lidiar con peligros y dificultades como trolls, monstruos, incendios, inundaciones, sequías, frío, calor... y, a veces incluso, los seres humanos</desc>
+  </programme>
+  <programme start="20260415232600 -0300" stop="20260415235000 -0300" channel="Dreiko TV">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260415235000 -0300" stop="20260416001600 -0300" channel="Dreiko TV">
+    <title lang="es">Yam Yam, el Genio</title>
+  </programme>
+  <programme start="20260416001600 -0300" stop="20260416004200 -0300" channel="Dreiko TV">
+    <title lang="es">Dog City</title>
+    <desc lang="es">Las aventuras de un detective privado canino, mientras habla con su animador, quien tiene sus propios conflictos que resolver</desc>
+  </programme>
+  <programme start="20260416004200 -0300" stop="20260416005200 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416005200 -0300" stop="20260416011400 -0300" channel="Dreiko TV">
+    <title lang="es">Dr Slump</title>
+    <desc lang="es">Las aventuras del Dr. Norimaki y de su creación Arale, una niña robot. El doctor es un inventor torpe que quiere ser rico y tener una novia. Arale funciona perfectamente, pero tiene súper poderes que hace que destruya todo por donde pasa</desc>
+  </programme>
+  <programme start="20260416011400 -0300" stop="20260416013800 -0300" channel="Dreiko TV">
+    <title lang="es">Gundam Wing</title>
+    <desc lang="es">En el año 195 después de la creación de las colonias, la alianza unida de la esfera terrestre gana poder militar y conquista colonia tras colonia. Cinco jóvenes fueron enviados a la tierra para contrarrestar este poder militar con la ayuda de sus máquinas llamadas Gundams los cuales se son los Mobile Suits más poderosos creados según los creadores de los mismos en el camino los cinco pilotos encontrarán situaciones para ganar esta guerra entre la alianza de la tierra y las colonias espaciales</desc>
+  </programme>
+  <programme start="20260416013800 -0300" stop="20260416014800 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416014800 -0300" stop="20260416021200 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Super Mario</title>
+    <desc lang="es">Durante los distintos episodios, se puede ver a Mario y a Luigi viviendo en un apartamento de Brooklyn donde son protagonistas de multitud de situaciones cómicas</desc>
+  </programme>
+  <programme start="20260416021200 -0300" stop="20260416023700 -0300" channel="Dreiko TV">
+    <title lang="es">El Show del Inspector Ardilla</title>
+  </programme>
+  <programme start="20260416023700 -0300" stop="20260416030100 -0300" channel="Dreiko TV">
+    <title lang="es">Los Mapaches</title>
+  </programme>
+  <programme start="20260416030100 -0300" stop="20260416030800 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416030800 -0300" stop="20260416033300 -0300" channel="Dreiko TV">
+    <title lang="es">Sandybell</title>
+    <desc lang="es">Es una niña muy alegre, dulce,noble y bella que siempre ha deseado tener una madre. Al conocer a la condesa visualiza en ella a su madre y con el narciso que ella le da hace un jardín llamado -el jardín secreto de mamá- donde va cada vez que tiene problemas</desc>
+  </programme>
+  <programme start="20260416033300 -0300" stop="20260416035800 -0300" channel="Dreiko TV">
+    <title lang="es">Beast Wars</title>
+    <desc lang="es">Megatron, un líder nato Predacon, roba junto con varios de sus Predacons el Disco Dorado, un disco con información muy valiosa sobre el pasado y el futuro. Durante su huida, una nave exploradora Maximal comandada por Optimus Primal, recibe el mensaje de que Megatron debe ser detenido y se dispone a perseguirlo. En la persecución, atraviesan una onda Transwarp temporal, que los lleva a quién sabe dónde. Las dos naves se enfrentan cerca de la atmósfera de un planeta, y ambas quedan dañadas, siendo atraídas inevitablemente por la fuerza gravitatoria del planeta, cayendo cada una, en un lugar distinto de aquel lugar inhóspito. Pero antes, los Maximals, intentan poner a salvo a la mayoría de su tripulación, inducíendolos en un pequeño estado de hibernación en Vainas Estasis, para acto seguido soltarlas en el espacio</desc>
+  </programme>
+  <programme start="20260416035800 -0300" stop="20260416040500 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416040500 -0300" stop="20260416042800 -0300" channel="Dreiko TV">
+    <title lang="es">La Isla del Tesoro</title>
+    <desc lang="es">La historia comienza en una noche de tormenta con caída de un trueno. Una noche que cambió la vida de un inocente niño que soñaba con hacerse a la mar: Jim Hawkins se convierte en el protagonista de esta emocionante historia de bucaneros y tesoros enterrados</desc>
+  </programme>
+  <programme start="20260416042800 -0300" stop="20260416045100 -0300" channel="Dreiko TV">
+    <title lang="es">Jonny Quest</title>
+  </programme>
+  <programme start="20260416045100 -0300" stop="20260416050100 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416050100 -0300" stop="20260416053100 -0300" channel="Dreiko TV">
+    <title lang="es">GiGi</title>
+  </programme>
+  <programme start="20260416053100 -0300" stop="20260416055600 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Garfield</title>
+    <desc lang="es">Preso de la gula y la vagancia, Garfield intenta escaquearse de sus obligaciones, provocando más de un quebradero de cabeza a su dueño. Aunque su única ambición es atiborrarse de lasañas, este carismático gato tendrá que solventar sus problemas de una manera u otra</desc>
+  </programme>
+  <programme start="20260416055600 -0300" stop="20260416060600 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416060600 -0300" stop="20260416063100 -0300" channel="Dreiko TV">
+    <title lang="es">La Pequeña Polon</title>
+  </programme>
+  <programme start="20260416063100 -0300" stop="20260416065600 -0300" channel="Dreiko TV">
+    <title lang="es">Animal Crackers</title>
+  </programme>
+  <programme start="20260416065600 -0300" stop="20260416072000 -0300" channel="Dreiko TV">
+    <title lang="es">Pato Aventuras</title>
+    <desc lang="es">Las aventuras del millonario Tío Gilito y sus sobrinos Hugo, Paco y Luis. Cuando el Pato Donald decide enrolarse en la marina, deja a sus tres sobrinos a cargo de su acaudalado tío, un excéntrico millonario cuya afición es nadar entre montones de billetes</desc>
+  </programme>
+  <programme start="20260416072000 -0300" stop="20260416073000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416073000 -0300" stop="20260416073500 -0300" channel="Dreiko TV">
+    <title lang="es">Cierre</title>
+  </programme>
+  <programme start="20260416073500 -0300" stop="20260416080000 -0300" channel="Dreiko TV">
+    <title lang="es">Offline</title>
+  </programme>
+  <programme start="20260416080000 -0300" stop="20260416110000 -0300" channel="Dreiko TV">
+    <title lang="es">Offline</title>
+  </programme>
+  <programme start="20260416110000 -0300" stop="20260416111000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416111000 -0300" stop="20260416113500 -0300" channel="Dreiko TV">
+    <title lang="es">La Pequeña Polon</title>
+  </programme>
+  <programme start="20260416113500 -0300" stop="20260416120000 -0300" channel="Dreiko TV">
+    <title lang="es">Animal Crackers</title>
+  </programme>
+  <programme start="20260416120000 -0300" stop="20260416122400 -0300" channel="Dreiko TV">
+    <title lang="es">Pato Aventuras</title>
+    <desc lang="es">Las aventuras del millonario Tío Gilito y sus sobrinos Hugo, Paco y Luis. Cuando el Pato Donald decide enrolarse en la marina, deja a sus tres sobrinos a cargo de su acaudalado tío, un excéntrico millonario cuya afición es nadar entre montones de billetes</desc>
+  </programme>
+  <programme start="20260416122400 -0300" stop="20260416123400 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416123400 -0300" stop="20260416125900 -0300" channel="Dreiko TV">
+    <title lang="es">Denver El Ultimo Dinosaurio</title>
+    <desc lang="es">Un dinosaurio amante de la diversión y su grupo de ingeniosos jóvenes amigos: Jeremy, Mario, Wally, Heather, Casey y Shades. ¡Perseguido por buscadores de fortuna, Denver siempre se encuentra en medio de aventuras inesperadas!</desc>
+  </programme>
+  <programme start="20260416125900 -0300" stop="20260416132300 -0300" channel="Dreiko TV">
+    <title lang="es">Combattler V</title>
+  </programme>
+  <programme start="20260416132300 -0300" stop="20260416133300 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416133300 -0300" stop="20260416135800 -0300" channel="Dreiko TV">
+    <title lang="es">David el Gnomo</title>
+    <desc lang="es">las aventuras de David, un gnomo de los bosques que gracias a sus conocimientos de las plantas medicinales cura a los gnomos de sus enfermedades, y a los animales heridos. Por ello, David es llamado desde todas las partes del mundo para resolver casos médicos difíciles. Hasta los gnomos reyes solicitan su consejo. Durante sus viajes, David y sus colaboradores y amigos tienen que lidiar con peligros y dificultades como trolls, monstruos, incendios, inundaciones, sequías, frío, calor... y, a veces incluso, los seres humanos</desc>
+  </programme>
+  <programme start="20260416135800 -0300" stop="20260416142200 -0300" channel="Dreiko TV">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260416142200 -0300" stop="20260416144800 -0300" channel="Dreiko TV">
+    <title lang="es">Yam Yam, el Genio</title>
+  </programme>
+  <programme start="20260416144800 -0300" stop="20260416151400 -0300" channel="Dreiko TV">
+    <title lang="es">Dog City</title>
+    <desc lang="es">Las aventuras de un detective privado canino, mientras habla con su animador, quien tiene sus propios conflictos que resolver</desc>
+  </programme>
+  <programme start="20260416151400 -0300" stop="20260416152400 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416152400 -0300" stop="20260416154600 -0300" channel="Dreiko TV">
+    <title lang="es">Dr Slump</title>
+    <desc lang="es">Las aventuras del Dr. Norimaki y de su creación Arale, una niña robot. El doctor es un inventor torpe que quiere ser rico y tener una novia. Arale funciona perfectamente, pero tiene súper poderes que hace que destruya todo por donde pasa</desc>
+  </programme>
+  <programme start="20260416154600 -0300" stop="20260416161000 -0300" channel="Dreiko TV">
+    <title lang="es">Gundam Wing</title>
+    <desc lang="es">En el año 195 después de la creación de las colonias, la alianza unida de la esfera terrestre gana poder militar y conquista colonia tras colonia. Cinco jóvenes fueron enviados a la tierra para contrarrestar este poder militar con la ayuda de sus máquinas llamadas Gundams los cuales se son los Mobile Suits más poderosos creados según los creadores de los mismos en el camino los cinco pilotos encontrarán situaciones para ganar esta guerra entre la alianza de la tierra y las colonias espaciales</desc>
+  </programme>
+  <programme start="20260416161000 -0300" stop="20260416162000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416162000 -0300" stop="20260416164400 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Super Mario</title>
+    <desc lang="es">Durante los distintos episodios, se puede ver a Mario y a Luigi viviendo en un apartamento de Brooklyn donde son protagonistas de multitud de situaciones cómicas</desc>
+  </programme>
+  <programme start="20260416164400 -0300" stop="20260416170900 -0300" channel="Dreiko TV">
+    <title lang="es">El Show del Inspector Ardilla</title>
+  </programme>
+  <programme start="20260416170900 -0300" stop="20260416173300 -0300" channel="Dreiko TV">
+    <title lang="es">Los Mapaches</title>
+  </programme>
+  <programme start="20260416173300 -0300" stop="20260416174000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416174000 -0300" stop="20260416180500 -0300" channel="Dreiko TV">
+    <title lang="es">Sandybell</title>
+    <desc lang="es">Es una niña muy alegre, dulce,noble y bella que siempre ha deseado tener una madre. Al conocer a la condesa visualiza en ella a su madre y con el narciso que ella le da hace un jardín llamado -el jardín secreto de mamá- donde va cada vez que tiene problemas</desc>
+  </programme>
+  <programme start="20260416180500 -0300" stop="20260416183000 -0300" channel="Dreiko TV">
+    <title lang="es">Beast Wars</title>
+    <desc lang="es">Megatron, un líder nato Predacon, roba junto con varios de sus Predacons el Disco Dorado, un disco con información muy valiosa sobre el pasado y el futuro. Durante su huida, una nave exploradora Maximal comandada por Optimus Primal, recibe el mensaje de que Megatron debe ser detenido y se dispone a perseguirlo. En la persecución, atraviesan una onda Transwarp temporal, que los lleva a quién sabe dónde. Las dos naves se enfrentan cerca de la atmósfera de un planeta, y ambas quedan dañadas, siendo atraídas inevitablemente por la fuerza gravitatoria del planeta, cayendo cada una, en un lugar distinto de aquel lugar inhóspito. Pero antes, los Maximals, intentan poner a salvo a la mayoría de su tripulación, inducíendolos en un pequeño estado de hibernación en Vainas Estasis, para acto seguido soltarlas en el espacio</desc>
+  </programme>
+  <programme start="20260416183000 -0300" stop="20260416183700 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416183700 -0300" stop="20260416190000 -0300" channel="Dreiko TV">
+    <title lang="es">La Isla del Tesoro</title>
+    <desc lang="es">La historia comienza en una noche de tormenta con caída de un trueno. Una noche que cambió la vida de un inocente niño que soñaba con hacerse a la mar: Jim Hawkins se convierte en el protagonista de esta emocionante historia de bucaneros y tesoros enterrados</desc>
+  </programme>
+  <programme start="20260416190000 -0300" stop="20260416192300 -0300" channel="Dreiko TV">
+    <title lang="es">Jonny Quest</title>
+  </programme>
+  <programme start="20260416192300 -0300" stop="20260416193300 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416193300 -0300" stop="20260416200300 -0300" channel="Dreiko TV">
+    <title lang="es">GiGi</title>
+  </programme>
+  <programme start="20260416200300 -0300" stop="20260416202800 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Garfield</title>
+    <desc lang="es">Preso de la gula y la vagancia, Garfield intenta escaquearse de sus obligaciones, provocando más de un quebradero de cabeza a su dueño. Aunque su única ambición es atiborrarse de lasañas, este carismático gato tendrá que solventar sus problemas de una manera u otra</desc>
+  </programme>
+  <programme start="20260416202800 -0300" stop="20260416203800 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416203800 -0300" stop="20260416210300 -0300" channel="Dreiko TV">
+    <title lang="es">La Pequeña Polon</title>
+  </programme>
+  <programme start="20260416210300 -0300" stop="20260416212800 -0300" channel="Dreiko TV">
+    <title lang="es">Animal Crackers</title>
+  </programme>
+  <programme start="20260416212800 -0300" stop="20260416215200 -0300" channel="Dreiko TV">
+    <title lang="es">Pato Aventuras</title>
+    <desc lang="es">Las aventuras del millonario Tío Gilito y sus sobrinos Hugo, Paco y Luis. Cuando el Pato Donald decide enrolarse en la marina, deja a sus tres sobrinos a cargo de su acaudalado tío, un excéntrico millonario cuya afición es nadar entre montones de billetes</desc>
+  </programme>
+  <programme start="20260416215200 -0300" stop="20260416220200 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416220200 -0300" stop="20260416222700 -0300" channel="Dreiko TV">
+    <title lang="es">Denver El Ultimo Dinosaurio</title>
+    <desc lang="es">Un dinosaurio amante de la diversión y su grupo de ingeniosos jóvenes amigos: Jeremy, Mario, Wally, Heather, Casey y Shades. ¡Perseguido por buscadores de fortuna, Denver siempre se encuentra en medio de aventuras inesperadas!</desc>
+  </programme>
+  <programme start="20260416222700 -0300" stop="20260416225100 -0300" channel="Dreiko TV">
+    <title lang="es">Combattler V</title>
+  </programme>
+  <programme start="20260416225100 -0300" stop="20260416230100 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260416230100 -0300" stop="20260416232600 -0300" channel="Dreiko TV">
+    <title lang="es">David el Gnomo</title>
+    <desc lang="es">las aventuras de David, un gnomo de los bosques que gracias a sus conocimientos de las plantas medicinales cura a los gnomos de sus enfermedades, y a los animales heridos. Por ello, David es llamado desde todas las partes del mundo para resolver casos médicos difíciles. Hasta los gnomos reyes solicitan su consejo. Durante sus viajes, David y sus colaboradores y amigos tienen que lidiar con peligros y dificultades como trolls, monstruos, incendios, inundaciones, sequías, frío, calor... y, a veces incluso, los seres humanos</desc>
+  </programme>
+  <programme start="20260416232600 -0300" stop="20260416235000 -0300" channel="Dreiko TV">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260416235000 -0300" stop="20260417001600 -0300" channel="Dreiko TV">
+    <title lang="es">Yam Yam, el Genio</title>
+  </programme>
+  <programme start="20260417001600 -0300" stop="20260417004200 -0300" channel="Dreiko TV">
+    <title lang="es">Dog City</title>
+    <desc lang="es">Las aventuras de un detective privado canino, mientras habla con su animador, quien tiene sus propios conflictos que resolver</desc>
+  </programme>
+  <programme start="20260417004200 -0300" stop="20260417005200 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417005200 -0300" stop="20260417011400 -0300" channel="Dreiko TV">
+    <title lang="es">Dr Slump</title>
+    <desc lang="es">Las aventuras del Dr. Norimaki y de su creación Arale, una niña robot. El doctor es un inventor torpe que quiere ser rico y tener una novia. Arale funciona perfectamente, pero tiene súper poderes que hace que destruya todo por donde pasa</desc>
+  </programme>
+  <programme start="20260417011400 -0300" stop="20260417013800 -0300" channel="Dreiko TV">
+    <title lang="es">Gundam Wing</title>
+    <desc lang="es">En el año 195 después de la creación de las colonias, la alianza unida de la esfera terrestre gana poder militar y conquista colonia tras colonia. Cinco jóvenes fueron enviados a la tierra para contrarrestar este poder militar con la ayuda de sus máquinas llamadas Gundams los cuales se son los Mobile Suits más poderosos creados según los creadores de los mismos en el camino los cinco pilotos encontrarán situaciones para ganar esta guerra entre la alianza de la tierra y las colonias espaciales</desc>
+  </programme>
+  <programme start="20260417013800 -0300" stop="20260417014800 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417014800 -0300" stop="20260417021200 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Super Mario</title>
+    <desc lang="es">Durante los distintos episodios, se puede ver a Mario y a Luigi viviendo en un apartamento de Brooklyn donde son protagonistas de multitud de situaciones cómicas</desc>
+  </programme>
+  <programme start="20260417021200 -0300" stop="20260417023700 -0300" channel="Dreiko TV">
+    <title lang="es">El Show del Inspector Ardilla</title>
+  </programme>
+  <programme start="20260417023700 -0300" stop="20260417030100 -0300" channel="Dreiko TV">
+    <title lang="es">Los Mapaches</title>
+  </programme>
+  <programme start="20260417030100 -0300" stop="20260417030800 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417030800 -0300" stop="20260417033300 -0300" channel="Dreiko TV">
+    <title lang="es">Sandybell</title>
+    <desc lang="es">Es una niña muy alegre, dulce,noble y bella que siempre ha deseado tener una madre. Al conocer a la condesa visualiza en ella a su madre y con el narciso que ella le da hace un jardín llamado -el jardín secreto de mamá- donde va cada vez que tiene problemas</desc>
+  </programme>
+  <programme start="20260417033300 -0300" stop="20260417035800 -0300" channel="Dreiko TV">
+    <title lang="es">Beast Wars</title>
+    <desc lang="es">Megatron, un líder nato Predacon, roba junto con varios de sus Predacons el Disco Dorado, un disco con información muy valiosa sobre el pasado y el futuro. Durante su huida, una nave exploradora Maximal comandada por Optimus Primal, recibe el mensaje de que Megatron debe ser detenido y se dispone a perseguirlo. En la persecución, atraviesan una onda Transwarp temporal, que los lleva a quién sabe dónde. Las dos naves se enfrentan cerca de la atmósfera de un planeta, y ambas quedan dañadas, siendo atraídas inevitablemente por la fuerza gravitatoria del planeta, cayendo cada una, en un lugar distinto de aquel lugar inhóspito. Pero antes, los Maximals, intentan poner a salvo a la mayoría de su tripulación, inducíendolos en un pequeño estado de hibernación en Vainas Estasis, para acto seguido soltarlas en el espacio</desc>
+  </programme>
+  <programme start="20260417035800 -0300" stop="20260417040500 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417040500 -0300" stop="20260417042800 -0300" channel="Dreiko TV">
+    <title lang="es">La Isla del Tesoro</title>
+    <desc lang="es">La historia comienza en una noche de tormenta con caída de un trueno. Una noche que cambió la vida de un inocente niño que soñaba con hacerse a la mar: Jim Hawkins se convierte en el protagonista de esta emocionante historia de bucaneros y tesoros enterrados</desc>
+  </programme>
+  <programme start="20260417042800 -0300" stop="20260417045100 -0300" channel="Dreiko TV">
+    <title lang="es">Jonny Quest</title>
+  </programme>
+  <programme start="20260417045100 -0300" stop="20260417050100 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417050100 -0300" stop="20260417053100 -0300" channel="Dreiko TV">
+    <title lang="es">GiGi</title>
+  </programme>
+  <programme start="20260417053100 -0300" stop="20260417055600 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Garfield</title>
+    <desc lang="es">Preso de la gula y la vagancia, Garfield intenta escaquearse de sus obligaciones, provocando más de un quebradero de cabeza a su dueño. Aunque su única ambición es atiborrarse de lasañas, este carismático gato tendrá que solventar sus problemas de una manera u otra</desc>
+  </programme>
+  <programme start="20260417055600 -0300" stop="20260417060600 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417060600 -0300" stop="20260417063100 -0300" channel="Dreiko TV">
+    <title lang="es">La Pequeña Polon</title>
+  </programme>
+  <programme start="20260417063100 -0300" stop="20260417065600 -0300" channel="Dreiko TV">
+    <title lang="es">Animal Crackers</title>
+  </programme>
+  <programme start="20260417065600 -0300" stop="20260417072000 -0300" channel="Dreiko TV">
+    <title lang="es">Pato Aventuras</title>
+    <desc lang="es">Las aventuras del millonario Tío Gilito y sus sobrinos Hugo, Paco y Luis. Cuando el Pato Donald decide enrolarse en la marina, deja a sus tres sobrinos a cargo de su acaudalado tío, un excéntrico millonario cuya afición es nadar entre montones de billetes</desc>
+  </programme>
+  <programme start="20260417072000 -0300" stop="20260417073000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417073000 -0300" stop="20260417073500 -0300" channel="Dreiko TV">
+    <title lang="es">Cierre</title>
+  </programme>
+  <programme start="20260417073500 -0300" stop="20260417080000 -0300" channel="Dreiko TV">
+    <title lang="es">Offline</title>
+  </programme>
+  <programme start="20260417080000 -0300" stop="20260417110000 -0300" channel="Dreiko TV">
+    <title lang="es">Offline</title>
+  </programme>
+  <programme start="20260417110000 -0300" stop="20260417111000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417111000 -0300" stop="20260417113500 -0300" channel="Dreiko TV">
+    <title lang="es">La Pequeña Polon</title>
+  </programme>
+  <programme start="20260417113500 -0300" stop="20260417120000 -0300" channel="Dreiko TV">
+    <title lang="es">Animal Crackers</title>
+  </programme>
+  <programme start="20260417120000 -0300" stop="20260417122400 -0300" channel="Dreiko TV">
+    <title lang="es">Pato Aventuras</title>
+    <desc lang="es">Las aventuras del millonario Tío Gilito y sus sobrinos Hugo, Paco y Luis. Cuando el Pato Donald decide enrolarse en la marina, deja a sus tres sobrinos a cargo de su acaudalado tío, un excéntrico millonario cuya afición es nadar entre montones de billetes</desc>
+  </programme>
+  <programme start="20260417122400 -0300" stop="20260417123400 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417123400 -0300" stop="20260417125900 -0300" channel="Dreiko TV">
+    <title lang="es">Denver El Ultimo Dinosaurio</title>
+    <desc lang="es">Un dinosaurio amante de la diversión y su grupo de ingeniosos jóvenes amigos: Jeremy, Mario, Wally, Heather, Casey y Shades. ¡Perseguido por buscadores de fortuna, Denver siempre se encuentra en medio de aventuras inesperadas!</desc>
+  </programme>
+  <programme start="20260417125900 -0300" stop="20260417132300 -0300" channel="Dreiko TV">
+    <title lang="es">Combattler V</title>
+  </programme>
+  <programme start="20260417132300 -0300" stop="20260417133300 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417133300 -0300" stop="20260417135800 -0300" channel="Dreiko TV">
+    <title lang="es">David el Gnomo</title>
+    <desc lang="es">las aventuras de David, un gnomo de los bosques que gracias a sus conocimientos de las plantas medicinales cura a los gnomos de sus enfermedades, y a los animales heridos. Por ello, David es llamado desde todas las partes del mundo para resolver casos médicos difíciles. Hasta los gnomos reyes solicitan su consejo. Durante sus viajes, David y sus colaboradores y amigos tienen que lidiar con peligros y dificultades como trolls, monstruos, incendios, inundaciones, sequías, frío, calor... y, a veces incluso, los seres humanos</desc>
+  </programme>
+  <programme start="20260417135800 -0300" stop="20260417142200 -0300" channel="Dreiko TV">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260417142200 -0300" stop="20260417144800 -0300" channel="Dreiko TV">
+    <title lang="es">Yam Yam, el Genio</title>
+  </programme>
+  <programme start="20260417144800 -0300" stop="20260417151400 -0300" channel="Dreiko TV">
+    <title lang="es">Dog City</title>
+    <desc lang="es">Las aventuras de un detective privado canino, mientras habla con su animador, quien tiene sus propios conflictos que resolver</desc>
+  </programme>
+  <programme start="20260417151400 -0300" stop="20260417152400 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417152400 -0300" stop="20260417154600 -0300" channel="Dreiko TV">
+    <title lang="es">Dr Slump</title>
+    <desc lang="es">Las aventuras del Dr. Norimaki y de su creación Arale, una niña robot. El doctor es un inventor torpe que quiere ser rico y tener una novia. Arale funciona perfectamente, pero tiene súper poderes que hace que destruya todo por donde pasa</desc>
+  </programme>
+  <programme start="20260417154600 -0300" stop="20260417161000 -0300" channel="Dreiko TV">
+    <title lang="es">Gundam Wing</title>
+    <desc lang="es">En el año 195 después de la creación de las colonias, la alianza unida de la esfera terrestre gana poder militar y conquista colonia tras colonia. Cinco jóvenes fueron enviados a la tierra para contrarrestar este poder militar con la ayuda de sus máquinas llamadas Gundams los cuales se son los Mobile Suits más poderosos creados según los creadores de los mismos en el camino los cinco pilotos encontrarán situaciones para ganar esta guerra entre la alianza de la tierra y las colonias espaciales</desc>
+  </programme>
+  <programme start="20260417161000 -0300" stop="20260417162000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417162000 -0300" stop="20260417164400 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Super Mario</title>
+    <desc lang="es">Durante los distintos episodios, se puede ver a Mario y a Luigi viviendo en un apartamento de Brooklyn donde son protagonistas de multitud de situaciones cómicas</desc>
+  </programme>
+  <programme start="20260417164400 -0300" stop="20260417170900 -0300" channel="Dreiko TV">
+    <title lang="es">El Show del Inspector Ardilla</title>
+  </programme>
+  <programme start="20260417170900 -0300" stop="20260417173300 -0300" channel="Dreiko TV">
+    <title lang="es">Los Mapaches</title>
+  </programme>
+  <programme start="20260417173300 -0300" stop="20260417174000 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417174000 -0300" stop="20260417180500 -0300" channel="Dreiko TV">
+    <title lang="es">Sandybell</title>
+    <desc lang="es">Es una niña muy alegre, dulce,noble y bella que siempre ha deseado tener una madre. Al conocer a la condesa visualiza en ella a su madre y con el narciso que ella le da hace un jardín llamado -el jardín secreto de mamá- donde va cada vez que tiene problemas</desc>
+  </programme>
+  <programme start="20260417180500 -0300" stop="20260417183000 -0300" channel="Dreiko TV">
+    <title lang="es">Beast Wars</title>
+    <desc lang="es">Megatron, un líder nato Predacon, roba junto con varios de sus Predacons el Disco Dorado, un disco con información muy valiosa sobre el pasado y el futuro. Durante su huida, una nave exploradora Maximal comandada por Optimus Primal, recibe el mensaje de que Megatron debe ser detenido y se dispone a perseguirlo. En la persecución, atraviesan una onda Transwarp temporal, que los lleva a quién sabe dónde. Las dos naves se enfrentan cerca de la atmósfera de un planeta, y ambas quedan dañadas, siendo atraídas inevitablemente por la fuerza gravitatoria del planeta, cayendo cada una, en un lugar distinto de aquel lugar inhóspito. Pero antes, los Maximals, intentan poner a salvo a la mayoría de su tripulación, inducíendolos en un pequeño estado de hibernación en Vainas Estasis, para acto seguido soltarlas en el espacio</desc>
+  </programme>
+  <programme start="20260417183000 -0300" stop="20260417183700 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417183700 -0300" stop="20260417190000 -0300" channel="Dreiko TV">
+    <title lang="es">La Isla del Tesoro</title>
+    <desc lang="es">La historia comienza en una noche de tormenta con caída de un trueno. Una noche que cambió la vida de un inocente niño que soñaba con hacerse a la mar: Jim Hawkins se convierte en el protagonista de esta emocionante historia de bucaneros y tesoros enterrados</desc>
+  </programme>
+  <programme start="20260417190000 -0300" stop="20260417192300 -0300" channel="Dreiko TV">
+    <title lang="es">Jonny Quest</title>
+  </programme>
+  <programme start="20260417192300 -0300" stop="20260417193300 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417193300 -0300" stop="20260417200300 -0300" channel="Dreiko TV">
+    <title lang="es">GiGi</title>
+  </programme>
+  <programme start="20260417200300 -0300" stop="20260417202800 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Garfield</title>
+    <desc lang="es">Preso de la gula y la vagancia, Garfield intenta escaquearse de sus obligaciones, provocando más de un quebradero de cabeza a su dueño. Aunque su única ambición es atiborrarse de lasañas, este carismático gato tendrá que solventar sus problemas de una manera u otra</desc>
+  </programme>
+  <programme start="20260417202800 -0300" stop="20260417203800 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417203800 -0300" stop="20260417210300 -0300" channel="Dreiko TV">
+    <title lang="es">La Pequeña Polon</title>
+  </programme>
+  <programme start="20260417210300 -0300" stop="20260417212800 -0300" channel="Dreiko TV">
+    <title lang="es">Animal Crackers</title>
+  </programme>
+  <programme start="20260417212800 -0300" stop="20260417215200 -0300" channel="Dreiko TV">
+    <title lang="es">Pato Aventuras</title>
+    <desc lang="es">Las aventuras del millonario Tío Gilito y sus sobrinos Hugo, Paco y Luis. Cuando el Pato Donald decide enrolarse en la marina, deja a sus tres sobrinos a cargo de su acaudalado tío, un excéntrico millonario cuya afición es nadar entre montones de billetes</desc>
+  </programme>
+  <programme start="20260417215200 -0300" stop="20260417220200 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417220200 -0300" stop="20260417222700 -0300" channel="Dreiko TV">
+    <title lang="es">Denver El Ultimo Dinosaurio</title>
+    <desc lang="es">Un dinosaurio amante de la diversión y su grupo de ingeniosos jóvenes amigos: Jeremy, Mario, Wally, Heather, Casey y Shades. ¡Perseguido por buscadores de fortuna, Denver siempre se encuentra en medio de aventuras inesperadas!</desc>
+  </programme>
+  <programme start="20260417222700 -0300" stop="20260417225100 -0300" channel="Dreiko TV">
+    <title lang="es">Combattler V</title>
+  </programme>
+  <programme start="20260417225100 -0300" stop="20260417230100 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260417230100 -0300" stop="20260417232600 -0300" channel="Dreiko TV">
+    <title lang="es">David el Gnomo</title>
+    <desc lang="es">las aventuras de David, un gnomo de los bosques que gracias a sus conocimientos de las plantas medicinales cura a los gnomos de sus enfermedades, y a los animales heridos. Por ello, David es llamado desde todas las partes del mundo para resolver casos médicos difíciles. Hasta los gnomos reyes solicitan su consejo. Durante sus viajes, David y sus colaboradores y amigos tienen que lidiar con peligros y dificultades como trolls, monstruos, incendios, inundaciones, sequías, frío, calor... y, a veces incluso, los seres humanos</desc>
+  </programme>
+  <programme start="20260417232600 -0300" stop="20260417235000 -0300" channel="Dreiko TV">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260417235000 -0300" stop="20260418001600 -0300" channel="Dreiko TV">
+    <title lang="es">Yam Yam, el Genio</title>
+  </programme>
+  <programme start="20260418001600 -0300" stop="20260418004200 -0300" channel="Dreiko TV">
+    <title lang="es">Dog City</title>
+    <desc lang="es">Las aventuras de un detective privado canino, mientras habla con su animador, quien tiene sus propios conflictos que resolver</desc>
+  </programme>
+  <programme start="20260418004200 -0300" stop="20260418005200 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260418005200 -0300" stop="20260418011400 -0300" channel="Dreiko TV">
+    <title lang="es">Dr Slump</title>
+    <desc lang="es">Las aventuras del Dr. Norimaki y de su creación Arale, una niña robot. El doctor es un inventor torpe que quiere ser rico y tener una novia. Arale funciona perfectamente, pero tiene súper poderes que hace que destruya todo por donde pasa</desc>
+  </programme>
+  <programme start="20260418011400 -0300" stop="20260418013800 -0300" channel="Dreiko TV">
+    <title lang="es">Gundam Wing</title>
+    <desc lang="es">En el año 195 después de la creación de las colonias, la alianza unida de la esfera terrestre gana poder militar y conquista colonia tras colonia. Cinco jóvenes fueron enviados a la tierra para contrarrestar este poder militar con la ayuda de sus máquinas llamadas Gundams los cuales se son los Mobile Suits más poderosos creados según los creadores de los mismos en el camino los cinco pilotos encontrarán situaciones para ganar esta guerra entre la alianza de la tierra y las colonias espaciales</desc>
+  </programme>
+  <programme start="20260418013800 -0300" stop="20260418014800 -0300" channel="Dreiko TV">
+    <title lang="es">Espacio Publicitario</title>
+  </programme>
+  <programme start="20260418014800 -0300" stop="20260418021200 -0300" channel="Dreiko TV">
+    <title lang="es">El Show de Super Mario</title>
+    <desc lang="es">Durante los distintos episodios, se puede ver a Mario y a Luigi viviendo en un apartamento de Brooklyn donde son protagonistas de multitud de situaciones cómicas</desc>
+  </programme>
+  <programme start="20260415030000 -0300" stop="20260415060000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260415060000 -0300" stop="20260415090000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260415090000 -0300" stop="20260415120000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260415120000 -0300" stop="20260415150000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260415150000 -0300" stop="20260415180000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260415180000 -0300" stop="20260415210000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260415210000 -0300" stop="20260416000000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260416000000 -0300" stop="20260416030000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260416030000 -0300" stop="20260416060000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260416060000 -0300" stop="20260416090000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260416090000 -0300" stop="20260416120000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260416120000 -0300" stop="20260416150000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260416150000 -0300" stop="20260416180000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260416180000 -0300" stop="20260416210000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260416210000 -0300" stop="20260417000000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260417000000 -0300" stop="20260417030000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260417030000 -0300" stop="20260417060000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260417060000 -0300" stop="20260417090000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260417090000 -0300" stop="20260417120000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260417120000 -0300" stop="20260417150000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260417150000 -0300" stop="20260417180000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260417180000 -0300" stop="20260417210000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260417210000 -0300" stop="20260418000000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260418000000 -0300" stop="20260418030000 -0300" channel="El Chavo">
+    <title lang="es">El Chavo</title>
+  </programme>
+  <programme start="20260415034200 -0300" stop="20260415053800 -0300" channel="Cine Sony">
+    <title lang="es">The Karate Kid Part II</title>
+  </programme>
+  <programme start="20260415053800 -0300" stop="20260415060400 -0300" channel="Cine Sony">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20260415060400 -0300" stop="20260415063000 -0300" channel="Cine Sony">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20260415063000 -0300" stop="20260415083800 -0300" channel="Cine Sony">
+    <title lang="es">Limbo</title>
+  </programme>
+  <programme start="20260415083800 -0300" stop="20260415101900 -0300" channel="Cine Sony">
+    <title lang="es">Edge of winter</title>
+  </programme>
+  <programme start="20260415101900 -0300" stop="20260415123600 -0300" channel="Cine Sony">
+    <title lang="es">All the king&#x27;s men</title>
+  </programme>
+  <programme start="20260415123600 -0300" stop="20260415143400 -0300" channel="Cine Sony">
+    <title lang="es">88 Minutes</title>
+  </programme>
+  <programme start="20260415143400 -0300" stop="20260415161800 -0300" channel="Cine Sony">
+    <title lang="es">London</title>
+  </programme>
+  <programme start="20260415161800 -0300" stop="20260415175100 -0300" channel="Cine Sony">
+    <title lang="es">Lake Placid</title>
+  </programme>
+  <programme start="20260415175100 -0300" stop="20260415200200 -0300" channel="Cine Sony">
+    <title lang="es">Thunderheart</title>
+  </programme>
+  <programme start="20260415200200 -0300" stop="20260415215600 -0300" channel="Cine Sony">
+    <title lang="es">Striking distance</title>
+  </programme>
+  <programme start="20260415215600 -0300" stop="20260416000000 -0300" channel="Cine Sony">
+    <title lang="es">Animal kingdom</title>
+  </programme>
+  <programme start="20260416000000 -0300" stop="20260416012300 -0300" channel="Cine Sony">
+    <title lang="es">Run Lola Run</title>
+  </programme>
+  <programme start="20260416012300 -0300" stop="20260416032700 -0300" channel="Cine Sony">
+    <title lang="es">The Three Burials of Melquíades Estrada</title>
+  </programme>
+  <programme start="20260416032700 -0300" stop="20260416051900 -0300" channel="Cine Sony">
+    <title lang="es">Hollow Man</title>
+  </programme>
+  <programme start="20260416051900 -0300" stop="20260416065400 -0300" channel="Cine Sony">
+    <title lang="es">Angel of Death</title>
+  </programme>
+  <programme start="20260416065400 -0300" stop="20260416082800 -0300" channel="Cine Sony">
+    <title lang="es">Dead Drop</title>
+  </programme>
+  <programme start="20260416082800 -0300" stop="20260416102300 -0300" channel="Cine Sony">
+    <title lang="es">At any price</title>
+  </programme>
+  <programme start="20260416102300 -0300" stop="20260416121200 -0300" channel="Cine Sony">
+    <title lang="es">That Awkward Moment</title>
+  </programme>
+  <programme start="20260416121200 -0300" stop="20260416135400 -0300" channel="Cine Sony">
+    <title lang="es">Wedding Wars</title>
+  </programme>
+  <programme start="20260416135400 -0300" stop="20260416161300 -0300" channel="Cine Sony">
+    <title lang="es">The Karate Kid</title>
+  </programme>
+  <programme start="20260416161300 -0300" stop="20260416181000 -0300" channel="Cine Sony">
+    <title lang="es">The Gospel</title>
+  </programme>
+  <programme start="20260416181000 -0300" stop="20260416201700 -0300" channel="Cine Sony">
+    <title lang="es">Just Go with It</title>
+    <desc lang="es">Un cirujano plástico trata de seducir a una maestra de escuela mucho más joven que él, para lograrlo recluta a su fiel asistente para que finja ser su ex esposa, con el fin de encubrir una mentira sin importancia. Cuando más mentiras aparecen, los hijos de su asistente se ven involucrados y todo el mundo se dirige a un fin de semana en Hawái que cambiará la vida de todos</desc>
+  </programme>
+  <programme start="20260416201700 -0300" stop="20260416220500 -0300" channel="Cine Sony">
+    <title lang="es">Easy virtue</title>
+  </programme>
+  <programme start="20260416220500 -0300" stop="20260417000000 -0300" channel="Cine Sony">
+    <title lang="es">Darling Companion</title>
+  </programme>
+  <programme start="20260417000000 -0300" stop="20260417013400 -0300" channel="Cine Sony">
+    <title lang="es">Passengers</title>
+  </programme>
+  <programme start="20260417013400 -0300" stop="20260417035000 -0300" channel="Cine Sony">
+    <title lang="es">The Mask of Zorro</title>
+  </programme>
+  <programme start="20260417035000 -0300" stop="20260417052300 -0300" channel="Cine Sony">
+    <title lang="es">Created Equal</title>
+  </programme>
+  <programme start="20260417052300 -0300" stop="20260417071100 -0300" channel="Cine Sony">
+    <title lang="es">Fly Away Home</title>
+  </programme>
+  <programme start="20260417071100 -0300" stop="20260417085400 -0300" channel="Cine Sony">
+    <title lang="es">It Could Happen To You</title>
+  </programme>
+  <programme start="20260417085400 -0300" stop="20260417110400 -0300" channel="Cine Sony">
+    <title lang="es">Little Women</title>
+  </programme>
+  <programme start="20260417110400 -0300" stop="20260417130500 -0300" channel="Cine Sony">
+    <title lang="es">The Healer</title>
+  </programme>
+  <programme start="20260417130500 -0300" stop="20260417150400 -0300" channel="Cine Sony">
+    <title lang="es">Miracles from heaven</title>
+  </programme>
+  <programme start="20260417150400 -0300" stop="20260417170700 -0300" channel="Cine Sony">
+    <title lang="es">All Saints</title>
+  </programme>
+  <programme start="20260417170700 -0300" stop="20260417184600 -0300" channel="Cine Sony">
+    <title lang="es">Cloudy With a Chance of Meatballs</title>
+  </programme>
+  <programme start="20260417184600 -0300" stop="20260417202500 -0300" channel="Cine Sony">
+    <title lang="es">Robot and Frank</title>
+  </programme>
+  <programme start="20260417202500 -0300" stop="20260417221100 -0300" channel="Cine Sony">
+    <title lang="es">Death at a funeral</title>
+  </programme>
+  <programme start="20260417221100 -0300" stop="20260418000000 -0300" channel="Cine Sony">
+    <title lang="es">First sunday</title>
+  </programme>
+  <programme start="20260418000000 -0300" stop="20260418015700 -0300" channel="Cine Sony">
+    <title lang="es">Superbad</title>
+  </programme>
+  <programme start="20260418015700 -0300" stop="20260418033300 -0300" channel="Cine Sony">
+    <title lang="es">Paul Blart: Mall Cop</title>
+  </programme>
+  <programme start="20260415010000 -0300" stop="20260415050000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">FMTV 3</title>
+    <desc lang="es">Una vez más el cine en su máximo explendor, en esta ocasión fusionamos nuestra señal con FMTV 3 uno de nuestros canales premium y llegamos a sus hogares con una selecta cartelera sugerido por nuestros televidentes a través de las redes sociales, correos electrónicos, mensajes de Instagram y Whatsapp. SAGAS COMPLETAS - ROMANCE - EROTISMO - ESTRENOS son el fuerte de este horario</desc>
+  </programme>
+  <programme start="20260415050000 -0300" stop="20260415070000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Area 593</title>
+    <desc lang="es">Los videos de los mejores Artistas Ecuatorianos los encuentras en este espacio. Disfrútalo de lunes a viernes. Especial de videos finamente seleccionados por su anfitrión FiDo DiDo</desc>
+  </programme>
+  <programme start="20260415070000 -0300" stop="20260415080000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Tiempos Dorados</title>
+    <desc lang="es">La época dorada de la música se refleja en este espacio, recordar es volver a vivir y Pablo Cabrera nos presenta los éxitos más sobresalientes. Nos transportan a un pasado añorado por todos</desc>
+  </programme>
+  <programme start="20260415080000 -0300" stop="20260415110000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Mañanas Retro</title>
+    <desc lang="es">No te quedes con las ganas de recordar tus series, películas y animes de las décadas 70,80,90. En este espacio traemos para tí una gran colección del contenido que estuvo contigo en la niñéz y te acompañó hasta ahora. Revive tus mejores momentos añorando un pasado que aún VIVE EN TÍ…</desc>
+  </programme>
+  <programme start="20260415110000 -0300" stop="20260415130000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Cinema Dorado</title>
+    <desc lang="es">CINEMA DORADO es su sala de cine privado, disfrute en la comodidad de su hogar este fantástico espacio que recopila las películas más taquilleras del cine Clásico y Contemporáneo</desc>
+  </programme>
+  <programme start="20260415130000 -0300" stop="20260415140000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">La Medium</title>
+    <desc lang="es">Allison Dubois trabaja en la fiscalía del distrito de Phoenix, pero además tiene habilidades psíquicas que le permiten ver y oír la muerte. Un buen día, decide empezar a utilizar sus poderes para hacer el bien y comienza a colaborar con la policía para resolver los más complicados casos</desc>
+  </programme>
+  <programme start="20260415140000 -0300" stop="20260415183000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Retro Kids</title>
+    <desc lang="es">Los Animes de toda una vida, con los que crecimos, disfruta en este espacio los grandes clásicos infantiles. Retro Kids un espacio en tu memoria</desc>
+  </programme>
+  <programme start="20260415183000 -0300" stop="20260415200000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Cinema Dorado</title>
+    <desc lang="es">CINEMA DORADO es su sala de cine privado, disfrute en la comodidad de su hogar este fantástico espacio que recopila las películas más taquilleras del cine Clásico y Contemporáneo</desc>
+  </programme>
+  <programme start="20260415200000 -0300" stop="20260415220000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Series Clasicas</title>
+    <desc lang="es">Nostalgias del Ayer</desc>
+  </programme>
+  <programme start="20260415220000 -0300" stop="20260416010000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Super Cine</title>
+    <desc lang="es">Una vez más el cine en su máximo explendor, en esta ocasión fusionamos nuestra señal con FMTV 3 uno de nuestros canales premium</desc>
+  </programme>
+  <programme start="20260416010000 -0300" stop="20260416050000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">FMTV 3</title>
+    <desc lang="es">Una vez más el cine en su máximo explendor, en esta ocasión fusionamos nuestra señal con FMTV 3 uno de nuestros canales premium y llegamos a sus hogares con una selecta cartelera sugerido por nuestros televidentes a través de las redes sociales, correos electrónicos, mensajes de Instagram y Whatsapp. SAGAS COMPLETAS - ROMANCE - EROTISMO - ESTRENOS son el fuerte de este horario</desc>
+  </programme>
+  <programme start="20260416050000 -0300" stop="20260416070000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Area 593</title>
+    <desc lang="es">Los videos de los mejores Artistas Ecuatorianos los encuentras en este espacio. Disfrútalo de lunes a viernes. Especial de videos finamente seleccionados por su anfitrión FiDo DiDo</desc>
+  </programme>
+  <programme start="20260416070000 -0300" stop="20260416080000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Tiempos Dorados</title>
+    <desc lang="es">La época dorada de la música se refleja en este espacio, recordar es volver a vivir y Pablo Cabrera nos presenta los éxitos más sobresalientes. Nos transportan a un pasado añorado por todos</desc>
+  </programme>
+  <programme start="20260416080000 -0300" stop="20260416110000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Mañanas Retro</title>
+    <desc lang="es">No te quedes con las ganas de recordar tus series, películas y animes de las décadas 70,80,90. En este espacio traemos para tí una gran colección del contenido que estuvo contigo en la niñéz y te acompañó hasta ahora. Revive tus mejores momentos añorando un pasado que aún VIVE EN TÍ…</desc>
+  </programme>
+  <programme start="20260416110000 -0300" stop="20260416130000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Cinema Dorado</title>
+    <desc lang="es">CINEMA DORADO es su sala de cine privado, disfrute en la comodidad de su hogar este fantástico espacio que recopila las películas más taquilleras del cine Clásico y Contemporáneo</desc>
+  </programme>
+  <programme start="20260416130000 -0300" stop="20260416140000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">La Medium</title>
+    <desc lang="es">Allison Dubois trabaja en la fiscalía del distrito de Phoenix, pero además tiene habilidades psíquicas que le permiten ver y oír la muerte. Un buen día, decide empezar a utilizar sus poderes para hacer el bien y comienza a colaborar con la policía para resolver los más complicados casos</desc>
+  </programme>
+  <programme start="20260416140000 -0300" stop="20260416183000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Retro Kids</title>
+    <desc lang="es">Los Animes de toda una vida, con los que crecimos, disfruta en este espacio los grandes clásicos infantiles. Retro Kids un espacio en tu memoria</desc>
+  </programme>
+  <programme start="20260416183000 -0300" stop="20260416200000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Cinema Dorado</title>
+    <desc lang="es">CINEMA DORADO es su sala de cine privado, disfrute en la comodidad de su hogar este fantástico espacio que recopila las películas más taquilleras del cine Clásico y Contemporáneo</desc>
+  </programme>
+  <programme start="20260416200000 -0300" stop="20260416220000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Series Clasicas</title>
+    <desc lang="es">Nostalgias del Ayer</desc>
+  </programme>
+  <programme start="20260416220000 -0300" stop="20260417010000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Super Cine</title>
+    <desc lang="es">Una vez más el cine en su máximo explendor, en esta ocasión fusionamos nuestra señal con FMTV 3 uno de nuestros canales premium</desc>
+  </programme>
+  <programme start="20260417010000 -0300" stop="20260417050000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">FMTV 3</title>
+    <desc lang="es">Una vez más el cine en su máximo explendor, en esta ocasión fusionamos nuestra señal con FMTV 3 uno de nuestros canales premium y llegamos a sus hogares con una selecta cartelera sugerido por nuestros televidentes a través de las redes sociales, correos electrónicos, mensajes de Instagram y Whatsapp. SAGAS COMPLETAS - ROMANCE - EROTISMO - ESTRENOS son el fuerte de este horario</desc>
+  </programme>
+  <programme start="20260417050000 -0300" stop="20260417070000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Area 593</title>
+    <desc lang="es">Los videos de los mejores Artistas Ecuatorianos los encuentras en este espacio. Disfrútalo de lunes a viernes. Especial de videos finamente seleccionados por su anfitrión FiDo DiDo</desc>
+  </programme>
+  <programme start="20260417070000 -0300" stop="20260417080000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Tiempos Dorados</title>
+    <desc lang="es">La época dorada de la música se refleja en este espacio, recordar es volver a vivir y Pablo Cabrera nos presenta los éxitos más sobresalientes. Nos transportan a un pasado añorado por todos</desc>
+  </programme>
+  <programme start="20260417080000 -0300" stop="20260417110000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Mañanas Retro</title>
+    <desc lang="es">No te quedes con las ganas de recordar tus series, películas y animes de las décadas 70,80,90. En este espacio traemos para tí una gran colección del contenido que estuvo contigo en la niñéz y te acompañó hasta ahora. Revive tus mejores momentos añorando un pasado que aún VIVE EN TÍ…</desc>
+  </programme>
+  <programme start="20260417110000 -0300" stop="20260417130000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Cinema Dorado</title>
+    <desc lang="es">CINEMA DORADO es su sala de cine privado, disfrute en la comodidad de su hogar este fantástico espacio que recopila las películas más taquilleras del cine Clásico y Contemporáneo</desc>
+  </programme>
+  <programme start="20260417130000 -0300" stop="20260417140000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">La Medium</title>
+    <desc lang="es">Allison Dubois trabaja en la fiscalía del distrito de Phoenix, pero además tiene habilidades psíquicas que le permiten ver y oír la muerte. Un buen día, decide empezar a utilizar sus poderes para hacer el bien y comienza a colaborar con la policía para resolver los más complicados casos</desc>
+  </programme>
+  <programme start="20260417140000 -0300" stop="20260417183000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Retro Kids</title>
+    <desc lang="es">Los Animes de toda una vida, con los que crecimos, disfruta en este espacio los grandes clásicos infantiles. Retro Kids un espacio en tu memoria</desc>
+  </programme>
+  <programme start="20260417183000 -0300" stop="20260417200000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Cinema Dorado</title>
+    <desc lang="es">CINEMA DORADO es su sala de cine privado, disfrute en la comodidad de su hogar este fantástico espacio que recopila las películas más taquilleras del cine Clásico y Contemporáneo</desc>
+  </programme>
+  <programme start="20260417200000 -0300" stop="20260417220000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Series Clasicas</title>
+    <desc lang="es">Nostalgias del Ayer</desc>
+  </programme>
+  <programme start="20260417220000 -0300" stop="20260418010000 -0300" channel="Frecuencia Musical TV">
+    <title lang="es">Super Cine</title>
+    <desc lang="es">Una vez más el cine en su máximo explendor, en esta ocasión fusionamos nuestra señal con FMTV 3 uno de nuestros canales premium</desc>
+  </programme>
+  <programme start="20260415031000 -0300" stop="20260415060000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260415060000 -0300" stop="20260415080000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260415080000 -0300" stop="20260415100000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260415100000 -0300" stop="20260415103000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">La Vuelta Al Mundo Con Willy Fog</title>
+  </programme>
+  <programme start="20260415103000 -0300" stop="20260415105500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">La Abeja Maya</title>
+    <desc lang="es">La curiosa abeja Maya y su amigo Willy salvarán a la colmena de la avaricia del consejero de la reina y pondrán fin a años de hostilidad entre abejas y avispas. Maya es una abeja recién nacida muy vivaracha que no sigue las reglas de la colmena</desc>
+  </programme>
+  <programme start="20260415105500 -0300" stop="20260415112000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los Picapiedras</title>
+    <desc lang="es">Pedro Picapiedra y Pablo Mármol, un par de hombres que reflejaban la clase media de la sociedad estadounidense con sus salidas al campo, barbacoas en el jardín, partidas de bolos y un vehículo primitivo, y en sus esposas, Betty y Vilma, quienes tenían que aguantar las ideas de Pedro y la complicidad obligatoria de Pablo, de donde nunca salían bien</desc>
+  </programme>
+  <programme start="20260415112000 -0300" stop="20260415114500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Rugrats Aventuras en Pañales</title>
+  </programme>
+  <programme start="20260415114500 -0300" stop="20260415124000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Caricaturas del Ayer</title>
+  </programme>
+  <programme start="20260415124000 -0300" stop="20260415130000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pinky y Cerebro</title>
+    <desc lang="es">dos ratones albinos alterados genéticamente que viven en los laboratorios Acme. En cada episodio Cerebro idea un plan para poder conquistar al mundo junto a su compañero, Pinky</desc>
+  </programme>
+  <programme start="20260415130000 -0300" stop="20260415132500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los pequeños Muppets</title>
+  </programme>
+  <programme start="20260415132500 -0300" stop="20260415134500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Heathcliff</title>
+  </programme>
+  <programme start="20260415134500 -0300" stop="20260415141000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Halcones Galacticos</title>
+    <desc lang="es">El Capitán Telescopio reclutó a los Halcones Galácticos para combatir a Monstruón, su líder Rayo de Plata y su compañero Halcón Vigía, los super gemelos invencibles Acerino y Acerina, Vaquero, el guitarrista y piloto estrella de su increíble nave el Espectro, y del planeta de los mimos, el Niño de Cobre</desc>
+  </programme>
+  <programme start="20260415141000 -0300" stop="20260415143000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">El Oso Yogui</title>
+  </programme>
+  <programme start="20260415143000 -0300" stop="20260415150000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Candy</title>
+  </programme>
+  <programme start="20260415150000 -0300" stop="20260415155000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">El Gran Chaparral</title>
+    <desc lang="es">Dos familias del oeste norteamericano, los Cannon y los Montoya, dueños de grandes parcelas de territorio en Arizona. La familia Cannon estaba liderada por John, un fornido ex oficial del Ejército de la Unión Estadounidense, ahora colono aventurero decidido a luchar contra la naturaleza y los apaches para mantener su rancho en pie, el -High Chaparral-, y su refinada esposa mexicana Victoria, hija de otro poderoso ranchero de la región apodado -El León de Sonora-, Don Sebastian Montoya</desc>
+  </programme>
+  <programme start="20260415155000 -0300" stop="20260415164000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Tierra de Gigantes</title>
+    <desc lang="es">Las aventuras de la tripulación y los pasajeros de un transporte suborbital después de que este se hubiera visto transportado accidentalmente a un mundo en el que todas las formas de vida tienen unas proporciones enormes en comparación con los personajes principales. El aspecto de estos gigantes es enteramente humano, pero son doce veces más grandes</desc>
+  </programme>
+  <programme start="20260415164000 -0300" stop="20260415170500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Cosas de Marcianos</title>
+  </programme>
+  <programme start="20260415170500 -0300" stop="20260415173000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Joe 90</title>
+    <desc lang="es">Joe McClaine es un niño de 9 años cuyo padre adoptivo ha desarrollado un invento con el cual se logra incorporar -información- a un cerebro. Gracias a esto, le transfiere conocimientos y habilidades a la mente de su hijo; y Joe adquiere casi inmediatamente la capacidad de ser un piloto de pruebas, un neurocirujano, etc., según sea necesario. Combinado con su inocente apariencia, Joe se convierte en un agente especial de la WIN, la Red Mundial de Inteligencia</desc>
+  </programme>
+  <programme start="20260415173000 -0300" stop="20260415193000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Herbie Un Volante Loco</title>
+  </programme>
+  <programme start="20260415193000 -0300" stop="20260415195000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">She-ra</title>
+    <desc lang="es">La guerrera Adora se une a la rebelión tras descubrir una espada mágica y su identidad como la legendaria heroína She-Ra, pero su mejor amiga se queda con los hordianos</desc>
+  </programme>
+  <programme start="20260415195000 -0300" stop="20260415201500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Lucky Luke</title>
+    <desc lang="es">El pistolero Lucky Luke. El héroe del salvaje Oeste, enfrentado a delicuentes como a los hermanos Dalton</desc>
+  </programme>
+  <programme start="20260415201500 -0300" stop="20260415203500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Virtua Fighter</title>
+  </programme>
+  <programme start="20260415203500 -0300" stop="20260415210000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+  </programme>
+  <programme start="20260415210000 -0300" stop="20260415213000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Super Raton y Hurracas Parlanchinas</title>
+  </programme>
+  <programme start="20260415213000 -0300" stop="20260415222000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">La unidad especial de la policía estatal que solo responde al Gobernador de Hawaii. Trabajan con la policía de Honolulu para combatir los barrios del estado insular. El detective implacable Steve McGarrett encabeza esta unidad especial de la policía de Hawaii</desc>
+  </programme>
+  <programme start="20260415222000 -0300" stop="20260415230000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Babylon V</title>
+  </programme>
+  <programme start="20260415230000 -0300" stop="20260415235000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Kojak</title>
+    <desc lang="es">El teniente Thero Kojak es un incorruptible y poco ortodoxo policía de Manhattan del departamento de policía de Nueva York, investiga crímenes en el distrito de Manhattan Sur en una comisaría con el capitán Frank McNeil como jefe y con compañeros como Stavros, sagaz y sin pelos en la lengua, de excelente humor e inimitable estilo</desc>
+  </programme>
+  <programme start="20260415235000 -0300" stop="20260416001500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Loco Por Ti</title>
+  </programme>
+  <programme start="20260416001500 -0300" stop="20260416031000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260416031000 -0300" stop="20260416060000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260416060000 -0300" stop="20260416080000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260416080000 -0300" stop="20260416100000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260416100000 -0300" stop="20260416103000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260416103000 -0300" stop="20260416105500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los Pitufos</title>
+    <desc lang="es">En la aldea de los pitufos todas las casas son hongos o setas. Todos ellos se visten igual: pantalón blanco y gorro frigio blanco, a excepción del Gran Pitufo o Papá Pitufo, que usa un atuendo rojo. Él es el jefe de la aldea, debido a su avanzada edad y a sus conocimientos de magia. El brujo Gargamel y su gato Azrael, intentan siempre y por todos los medios capturar a los pitufos con trampas. Los objetivos son dos: utilizarlos como ingrediente imprescindible para conseguir la transmutación de los metales y su transformación en oro, y preparar con ellos sopa de pitufos, un legendario plato exquisito de sabor incomparable</desc>
+  </programme>
+  <programme start="20260416105500 -0300" stop="20260416112000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los Picapiedras</title>
+    <desc lang="es">Pedro Picapiedra y Pablo Mármol, un par de hombres que reflejaban la clase media de la sociedad estadounidense con sus salidas al campo, barbacoas en el jardín, partidas de bolos y un vehículo primitivo, y en sus esposas, Betty y Vilma, quienes tenían que aguantar las ideas de Pedro y la complicidad obligatoria de Pablo, de donde nunca salían bien</desc>
+  </programme>
+  <programme start="20260416112000 -0300" stop="20260416114500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Rugrats Aventuras en Pañales</title>
+  </programme>
+  <programme start="20260416114500 -0300" stop="20260416124000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Caricaturas del Ayer</title>
+  </programme>
+  <programme start="20260416124000 -0300" stop="20260416130000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pinky y Cerebro</title>
+    <desc lang="es">dos ratones albinos alterados genéticamente que viven en los laboratorios Acme. En cada episodio Cerebro idea un plan para poder conquistar al mundo junto a su compañero, Pinky</desc>
+  </programme>
+  <programme start="20260416130000 -0300" stop="20260416132500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los pequeños Muppets</title>
+  </programme>
+  <programme start="20260416132500 -0300" stop="20260416134500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Robot Grendizer</title>
+  </programme>
+  <programme start="20260416134500 -0300" stop="20260416141000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">El Mago de Oz</title>
+    <desc lang="es">Frank Baum,​ en la cual una niña estadounidense es arrastrada por un tornado en el estado de Kansas hasta una tierra de fantasía donde habitan brujas buenas y malas, un espantapájaros que habla, un león cobarde, un hombre de hojalata y otros seres extraordinarios</desc>
+  </programme>
+  <programme start="20260416141000 -0300" stop="20260416143000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Don Gato y su Pandilla</title>
+    <desc lang="es">Don Gato, es el líder de una pandilla de gatos callejeros en Manhattan. Panza, Espanto, Benito Bodoque, Demóstenes y Cucho. Por su parte, el Oficial Matute, policía del barrio, trata infructuosamente de atraparlos y llevarlos a la cárcel. Uno de los motivos para el arresto era que Don Gato trataba de utilizar un teléfono como propio pero que era propiedad de la policía</desc>
+  </programme>
+  <programme start="20260416143000 -0300" stop="20260416150000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Dinoplativolos</title>
+    <desc lang="es">Un grupo de dinosaurios evolucionados intergalácticos llamados Dinosaucers viaja a la tierra desde su planeta de origen llamado Reptilón que se encuentra en la misma órbita de la tierra pero en el lado opuesto al sol, para buscar una solución debido que su planeta estaba a punto de ser destruido. Contactan a un grupo de jóvenes humanos que será llamado el Dinoescuadrón Secreto que los ayudará</desc>
+  </programme>
+  <programme start="20260416150000 -0300" stop="20260416155000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">MacGyver</title>
+  </programme>
+  <programme start="20260416155000 -0300" stop="20260416161000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los Secretos de Isis</title>
+  </programme>
+  <programme start="20260416161000 -0300" stop="20260416170000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Guardianes de la Bahia</title>
+  </programme>
+  <programme start="20260416170000 -0300" stop="20260416173000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Comandos en el Desierto</title>
+  </programme>
+  <programme start="20260416173000 -0300" stop="20260416193000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260416193000 -0300" stop="20260416201500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Caricaturas del Ayer</title>
+  </programme>
+  <programme start="20260416201500 -0300" stop="20260416203500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">El Pato Darkwing</title>
+  </programme>
+  <programme start="20260416203500 -0300" stop="20260416210000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Capitan Harlock</title>
+    <desc lang="es">Es el año 2977 y 500 mil millones de humanos anhelan regresar al planeta Tierra que todavía consideran su hogar. El Capitán Harlock busca un dominio intergaláctico absoluto mientras lucha contra la corrupta Coalición Gaia, que gobierna la raza humana en todos los confines del espacio</desc>
+  </programme>
+  <programme start="20260416210000 -0300" stop="20260416213000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Mazinger Z</title>
+    <desc lang="es">Dos arqueólogos encuentran los restos de una civilización antigua que era capaz de construir robots gigantes. Uno de ellos, el doctor Hell creé que podría gobernar al mundo. El otro arqueólogo, el doctor Kabuto, se niega a secundar sus malvados planes y, a partir de ese momento, se convierten en enemigos. El robot, llamado Mazinger, está construido de la formidable aleación Z. Muerto Kabuto, Koji aprende a pilotar a Mazinger gracias a la ayuda del ayudante de su abuelo, el doctor Yomi, que también ha construido un robot llamado Afrodita A, que será pilotado por su hija Sayaka Yomi. Mazinger Z y Afrodita se enfrentarán entonces a los malvados robots de Hell, con el objetivo de salvar al mundo</desc>
+  </programme>
+  <programme start="20260416213000 -0300" stop="20260416215500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los Monster</title>
+  </programme>
+  <programme start="20260416215500 -0300" stop="20260416224000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Remington Steel</title>
+  </programme>
+  <programme start="20260416224000 -0300" stop="20260416230000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los Tres Chiflados</title>
+    <desc lang="es">Serie cómica que alcanzó un reconocimiento mundial. Se hicieron famosos por sus cortometrajes en donde cultivaron una comicidad basada en la violencia física y en el juego verbal</desc>
+  </programme>
+  <programme start="20260416230000 -0300" stop="20260416232500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Mejorando la Casa</title>
+  </programme>
+  <programme start="20260416232500 -0300" stop="20260417002000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">El Agente de Cipol</title>
+  </programme>
+  <programme start="20260417002000 -0300" stop="20260417031000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260417031000 -0300" stop="20260417060000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260417060000 -0300" stop="20260417080000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260417080000 -0300" stop="20260417100000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260417100000 -0300" stop="20260417103000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">La Vuelta Al Mundo Con Willy Fog</title>
+  </programme>
+  <programme start="20260417103000 -0300" stop="20260417105500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">La Abeja Maya</title>
+    <desc lang="es">La curiosa abeja Maya y su amigo Willy salvarán a la colmena de la avaricia del consejero de la reina y pondrán fin a años de hostilidad entre abejas y avispas. Maya es una abeja recién nacida muy vivaracha que no sigue las reglas de la colmena</desc>
+  </programme>
+  <programme start="20260417105500 -0300" stop="20260417112000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los Picapiedras</title>
+    <desc lang="es">Pedro Picapiedra y Pablo Mármol, un par de hombres que reflejaban la clase media de la sociedad estadounidense con sus salidas al campo, barbacoas en el jardín, partidas de bolos y un vehículo primitivo, y en sus esposas, Betty y Vilma, quienes tenían que aguantar las ideas de Pedro y la complicidad obligatoria de Pablo, de donde nunca salían bien</desc>
+  </programme>
+  <programme start="20260417112000 -0300" stop="20260417114500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Rugrats Aventuras en Pañales</title>
+  </programme>
+  <programme start="20260417114500 -0300" stop="20260417124000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Caricaturas del Ayer</title>
+  </programme>
+  <programme start="20260417124000 -0300" stop="20260417130000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pinky y Cerebro</title>
+    <desc lang="es">dos ratones albinos alterados genéticamente que viven en los laboratorios Acme. En cada episodio Cerebro idea un plan para poder conquistar al mundo junto a su compañero, Pinky</desc>
+  </programme>
+  <programme start="20260417130000 -0300" stop="20260417132500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los pequeños Muppets</title>
+  </programme>
+  <programme start="20260417132500 -0300" stop="20260417134500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Heathcliff</title>
+  </programme>
+  <programme start="20260417134500 -0300" stop="20260417141000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Halcones Galacticos</title>
+    <desc lang="es">El Capitán Telescopio reclutó a los Halcones Galácticos para combatir a Monstruón, su líder Rayo de Plata y su compañero Halcón Vigía, los super gemelos invencibles Acerino y Acerina, Vaquero, el guitarrista y piloto estrella de su increíble nave el Espectro, y del planeta de los mimos, el Niño de Cobre</desc>
+  </programme>
+  <programme start="20260417141000 -0300" stop="20260417143000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">El Oso Yogui</title>
+  </programme>
+  <programme start="20260417143000 -0300" stop="20260417150000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Candy</title>
+  </programme>
+  <programme start="20260417150000 -0300" stop="20260417155000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">El Gran Chaparral</title>
+    <desc lang="es">Dos familias del oeste norteamericano, los Cannon y los Montoya, dueños de grandes parcelas de territorio en Arizona. La familia Cannon estaba liderada por John, un fornido ex oficial del Ejército de la Unión Estadounidense, ahora colono aventurero decidido a luchar contra la naturaleza y los apaches para mantener su rancho en pie, el -High Chaparral-, y su refinada esposa mexicana Victoria, hija de otro poderoso ranchero de la región apodado -El León de Sonora-, Don Sebastian Montoya</desc>
+  </programme>
+  <programme start="20260417155000 -0300" stop="20260417164000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Tierra de Gigantes</title>
+    <desc lang="es">Las aventuras de la tripulación y los pasajeros de un transporte suborbital después de que este se hubiera visto transportado accidentalmente a un mundo en el que todas las formas de vida tienen unas proporciones enormes en comparación con los personajes principales. El aspecto de estos gigantes es enteramente humano, pero son doce veces más grandes</desc>
+  </programme>
+  <programme start="20260417164000 -0300" stop="20260417170500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Cosas de Marcianos</title>
+  </programme>
+  <programme start="20260417170500 -0300" stop="20260417173000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Joe 90</title>
+    <desc lang="es">Joe McClaine es un niño de 9 años cuyo padre adoptivo ha desarrollado un invento con el cual se logra incorporar -información- a un cerebro. Gracias a esto, le transfiere conocimientos y habilidades a la mente de su hijo; y Joe adquiere casi inmediatamente la capacidad de ser un piloto de pruebas, un neurocirujano, etc., según sea necesario. Combinado con su inocente apariencia, Joe se convierte en un agente especial de la WIN, la Red Mundial de Inteligencia</desc>
+  </programme>
+  <programme start="20260417173000 -0300" stop="20260417193000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Herbie Un Volante Loco</title>
+  </programme>
+  <programme start="20260417193000 -0300" stop="20260417195000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">She-ra</title>
+    <desc lang="es">La guerrera Adora se une a la rebelión tras descubrir una espada mágica y su identidad como la legendaria heroína She-Ra, pero su mejor amiga se queda con los hordianos</desc>
+  </programme>
+  <programme start="20260417195000 -0300" stop="20260417201500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Lucky Luke</title>
+    <desc lang="es">El pistolero Lucky Luke. El héroe del salvaje Oeste, enfrentado a delicuentes como a los hermanos Dalton</desc>
+  </programme>
+  <programme start="20260417201500 -0300" stop="20260417203500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Virtua Fighter</title>
+  </programme>
+  <programme start="20260417203500 -0300" stop="20260417210000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+  </programme>
+  <programme start="20260417210000 -0300" stop="20260417213000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Super Raton y Hurracas Parlanchinas</title>
+  </programme>
+  <programme start="20260417213000 -0300" stop="20260417222000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">La unidad especial de la policía estatal que solo responde al Gobernador de Hawaii. Trabajan con la policía de Honolulu para combatir los barrios del estado insular. El detective implacable Steve McGarrett encabeza esta unidad especial de la policía de Hawaii</desc>
+  </programme>
+  <programme start="20260417222000 -0300" stop="20260417230000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Babylon V</title>
+  </programme>
+  <programme start="20260417230000 -0300" stop="20260417235000 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Kojak</title>
+    <desc lang="es">El teniente Thero Kojak es un incorruptible y poco ortodoxo policía de Manhattan del departamento de policía de Nueva York, investiga crímenes en el distrito de Manhattan Sur en una comisaría con el capitán Frank McNeil como jefe y con compañeros como Stavros, sagaz y sin pelos en la lengua, de excelente humor e inimitable estilo</desc>
+  </programme>
+  <programme start="20260417235000 -0300" stop="20260418001500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Loco Por Ti</title>
+  </programme>
+  <programme start="20260418001500 -0300" stop="20260418021500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
+  </programme>
+  <programme start="20260418021500 -0300" stop="20260418041500 -0300" channel="Tv Retro Palmares">
+    <title lang="es">Pelicula</title>
   </programme>
 </tv>
