@@ -73,10 +73,10 @@ EXTERNAL_SOURCES = [
   #      "ids": ["filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "fifa-plus-es-new"]
   #  }
 
-   # ,{
-   #     "url": "https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",
-   #    "ids": ["Magic Kids Tv", "Zaz TV", "Ani Retro", "Dreiko TV", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
-   #  }
+    ,{
+        "url": "https://raw.githubusercontent.com/luisms123/tdt/refs/heads/master/guiacanales.xml",
+       "ids": ["Magic Kids Tv", "Zaz TV", "Ani Retro", "Dreiko TV", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
+     }
    # ,{
    #     "url": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
    #    "ids": ["Qello.Concerts.by.Stingray.be"]
