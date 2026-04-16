@@ -38,10 +38,49 @@ EXTERNAL_SOURCES = [
         "url": "https://epg.programadorx.cl/mdiaz/gratis.xml",
         "ids": ["503dtv.cl", "504", "517dtv.cl", "531", "532", "536", "537", "538", "539", "567", "568", "569", "581", "608", "663", "664", "1503dtv.cl"]
      }
-   # ,{
-   #     "url": "https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",
-   #    "ids": ["Magic Kids Tv", "Zaz TV", "Ani Retro", "Dreiko TV", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
-   #  }
+        ,{
+        "url": "https://i.mjh.nz/PlutoTV/mx.xml",
+        "ids": ["66a11a21a79dea0008aa90ca", "5de5758e1a30dc00094fcd6c", "63a084934734f30007457b2c", "6894fc3f66f164e402f4fd14", "6894febddbd49c964f3b66c8", "5dcde17bf6591d0009839e02", "6870072ca9d5c45c3e9466f1", 
+                "645952687cb4b100084ed52e","6824cda00101510f9eeaa011", "6254598f5083f800076d8563", "609ae5cd48d3200007b0a98e","65df731cec9fda0008b7aa8d", "65df7272ec9fda0008b7a970", "65df73520d4561000817c29b",
+                "65df72db18036500081a8292", "5dcde1317578340009b751d0", "65662f8a2c46f300088a84cc","6479ff1c17f5e10008ad2797", "655f62ff954b020008c91ec6", "5de802659167b10009e7deba","5ff608e60e2996000768c366", 
+                "5f2817d3d7573a00080f9175","5dcde437229eff00091b6c30", "5e972a21ad709d00074195ba", "5dcb62e63d4d8f0009f36881","5ddc4e8bcbb9010009b4e84f", "5dcddf1ed95e740009fef7ab","66997d18a1b69e00082ee85f"]
+    }
+    ,{
+        "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml",
+        "ids": ["ESBC4100004J1", "ESBC400003YM", "ES3400004SS", "ESBA3300024AJ", "ES300029LP", "ES3000288I", "ES300002Y6", "ES300003D4","0860", "ESBC1700004PX", "ES300006QJ","ESBC2700003T8", "ES2600013H4", 
+                "ESBC400001QQ","ESBD800001RJ", "ESBC40000248", "ES2200003DA","ES2300005G7","ESBC2700002LO"]
+    }
+    ,{
+        "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml",
+        "ids": ["USBB3200016HO", "US3000005RS", "USBA370000104", "USBB320000647", "USBB3200007AK", "USBD350002623", "USBD3300022QK", "USBD3500008IJ","USBD35000149S", "USBD35000180U", "US2600019IC","USBD1200009JI", 
+                "US2200001IY", "USAJ3504704A","USBB4400017N3", "US5000053YV", "USBC36000073J","USAJ3504502A", "US15000032I", "USBD7000017L","US1900002QK", "US1800014CG", "USBD12000255B"]
+    }
+    ,{
+        "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml",
+        "ids": ["GB2300005ML", "GBBD4900001RG", "GBBD1900009UD", "GBBC2100002HP", "GB300033HI", "GB500007VM", "GBAJ40003642"]
+    }
+    ,{
+        "url": "https://i.mjh.nz/Plex/us.xml",
+        "ids": ["5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a", "5e20b730f2f8d5003d739db7-6876f76054325376973fd314", "5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3", 
+                "5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c"]
+    }
+    ,{
+        "url": "https://i.mjh.nz/Plex/mx.xml",
+        "ids": ["608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb", "608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3", "608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5"]
+    }
+   ,{
+        "url": "https://github.com/HelmerLuzo/RuntimeTV_HL/raw/refs/heads/main/epg/RuntimeTV.xml.gz",
+        "ids": ["/esruntime-accion"]
+    }
+    ,{
+        "url": "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/epg/RakutenTV.xml.gz",
+        "ids": ["filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "mr-bean-live-action", "fifa-plus-es-new"]
+    }
+
+    ,{
+        "url": "https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml.gz",
+       "ids": ["Magic Kids Tv", "Zaz TV", "Ani Retro", "Dreiko TV", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
+     }
   #    Ejemplo de cómo agregar otra fuente:
     # ,{
     #    "url": "https://otra-fuente.com/guia.xml",
