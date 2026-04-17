@@ -32,7 +32,7 @@ CHANNELS = [
 EXTERNAL_SOURCES = [
     {
         "url": "https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/vilma/guia-de-programacion.xml",
-        "ids": ["0855", "0533", "0839", "XXX8", "0861", "0827", "0528", "0135","0860"]
+        "ids": ["0855", "0533", "0839", "XXX8", "0861", "0827", "0528", "0135","0860","1810","0318","0842","2813","0621"]
     }
     ,{
         "url": "https://epg.programadorx.cl/mdiaz/gratis.xml",
@@ -77,10 +77,10 @@ EXTERNAL_SOURCES = [
         "url": "https://raw.githubusercontent.com/luisms123/tdt/refs/heads/master/guiacanales.xml",
        "ids": ["Magic Kids Tv", "Zaz TV", "Ani Retro", "Dreiko TV", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
      }
-   # ,{
-   #     "url": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
-   #    "ids": ["Qello.Concerts.by.Stingray.be"]
-   #  }
+    ,{
+        "url": "https://epg.pw/xmltv/epg_US.xml",
+       "ids": ["464956", "464775"]
+     }
   #    Ejemplo de cómo agregar otra fuente:
     # ,{
     #    "url": "https://otra-fuente.com/guia.xml",
