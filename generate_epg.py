@@ -21,7 +21,7 @@ CHANNELS = [
     {"id": "aztv.ar", "name": "AZTV", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=955136670&single=true&output=csv"},
     {"id": "mitv.ar", "name": "MiTV 1", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1227571137&single=true&output=csv"},
     {"id": "animestation.ar", "name": "Animestation", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=446220036&single=true&output=csv"},
-    {"id": "elmagis.ar", "name": "El Magis", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=267517003&single=true&output=csv"},
+   # {"id": "elmagis.ar", "name": "El Magis", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=267517003&single=true&output=csv"},
     {"id": "retroblast", "name": "retroblast", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=441139638&single=true&output=csv"},
     {"id": "telered.ar", "name": "Telered", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=763195247&single=true&output=csv"},
     {"id": "telesistema.ar", "name": "telesistema", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=503971923&single=true&output=csv"},
@@ -32,11 +32,11 @@ CHANNELS = [
 EXTERNAL_SOURCES = [
     {
         "url": "https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/vilma/guia-de-programacion.xml",
-        "ids": ["0855", "0533", "0839", "XXX8", "0861", "0827", "0528", "0135","0860","1810","0318","0842","2813","0621"]
+        "ids": ["0855", "0533", "0839", "XXX8", "0861", "0827", "0528", "0135","0860","1810","0318","0842","2813","0621","1806","1814","0838","0431","0209","0821","0822","0823","0643"]
     }
     ,{
         "url": "https://epg.programadorx.cl/mdiaz/gratis.xml",
-        "ids": ["503dtv.cl", "504", "517dtv.cl", "531", "532", "536", "537", "538", "539", "567", "568", "569", "581", "608", "663", "664", "1503dtv.cl"]
+        "ids": ["504", "531", "532", "536", "537", "538", "539", "567", "568", "569", "581", "608", "663", "664"]
      }
         ,{
         "url": "https://i.mjh.nz/PlutoTV/mx.xml",
@@ -57,7 +57,7 @@ EXTERNAL_SOURCES = [
     }
     ,{
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml",
-        "ids": ["GB2300005ML", "GBBD4900001RG", "GBBD1900009UD", "GBBC2100002HP", "GB300033HI", "GB500007VM", "GBAJ40003642", "GB4000008O5"]
+        "ids": ["GB2300005ML", "GBBD4900001RG", "GBBD1900009UD", "GBBC2100002HP", "GB500007VM", "GBAJ40003642", "GB4000008O5"]
     }
     ,{
         "url": "https://i.mjh.nz/Plex/us.xml",
@@ -75,7 +75,7 @@ EXTERNAL_SOURCES = [
 
     ,{
         "url": "https://raw.githubusercontent.com/luisms123/tdt/refs/heads/master/guiacanales.xml",
-       "ids": ["Magic Kids Tv", "Zaz TV", "Ani Retro", "Dreiko TV", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
+       "ids": ["Magic Kids Tv", "Ani Retro", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
      }
     ,{
         "url": "https://epg.pw/xmltv/epg_US.xml",
