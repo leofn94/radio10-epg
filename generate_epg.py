@@ -39,7 +39,7 @@ CHANNELS = [
 EXTERNAL_SOURCES = [
     {
         "url": "https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/vilma/guia-de-programacion.xml",
-        "ids": ["0855", "0533", "0839", "XXX8", "0861", "0827", "0528", "0135","0860","1810","0318","0842","2813","0621","1806","1814","0838","0431","0209","0821","0822","0823","0643", "0824"]
+        "ids": ["0855", "0533", "0839", "XXX8", "0861", "0827", "0528", "0135","0860","1810","0318","0842","2813","0621","1806","1814","0838","0431","0209","0821","0822","0823","0643", "0824","0859"]
     },
     {
         "url": "https://epg.programadorx.cl/mdiaz/gratis.xml",
@@ -60,7 +60,7 @@ EXTERNAL_SOURCES = [
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml",
         "ids": ["USBB3200016HO", "US3000005RS", "USBA370000104", "USBB320000647", "USBB3200007AK", "USBD350002623", "USBD3300022QK", "USBD3500008IJ","USBD35000149S", "USBD35000180U", "US2600019IC","USBD1200009JI", 
-                "US2200001IY", "USAJ3504704A","USBB4400017N3", "US5000053YV", "USBC36000073J","USAJ3504502A", "US15000032I", "USBD7000017L","US1900002QK", "US1800014CG", "USBD12000255B"]
+                "US2200001IY", "USAJ3504704A","USBB4400017N3", "US5000053YV", "USBC36000073J","USAJ3504502A", "US15000032I", "USBD7000017L","US1900002QK", "US1800014CG", "USBD12000255B", "US4000033L"]
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml",
@@ -77,7 +77,7 @@ EXTERNAL_SOURCES = [
     },
     {
         "url": "https://raw.githubusercontent.com/luisms123/tdt/refs/heads/master/guiacanales.xml",
-        "ids": ["Magic Kids Tv", "Ani Retro", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
+        "ids": ["Magic Kids Tv", "Ani Retro", "El Chavo", "Cine Sony", "Tv Retro Palmares"]
     },
     {
         "url": "https://epg.pw/xmltv/epg_US.xml",
