@@ -11,7 +11,8 @@ import xml.etree.ElementTree as ET
 OFFSET_CONFIG = {
     "464956": -8,  # Screenpix (epg.pw)
     "464775": -8,  # Screenpix Action (epg.pw)
-   ## "0824": +1,    # Golden Premiere (Puticastillo)
+    "aztv.ar": -2, # AZTV (sheet)
+   #"0824": +1,    # Golden Premiere (Puticastillo)
 }
 
 # 1. CANALES DESDE GOOGLE SHEETS
