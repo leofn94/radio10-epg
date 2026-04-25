@@ -1,5 +1,7 @@
 import csv
 import urllib.request
+import gzip
+import io
 from datetime import datetime, timedelta
 import pytz
 import html
@@ -12,7 +14,6 @@ OFFSET_CONFIG = {
     "464956": -8,  # Screenpix (epg.pw)
     "464775": -8,  # Screenpix Action (epg.pw)
     "aztv.ar": -2, # AZTV (sheet) 
-   # "0824": -8,    # Golden Premiere (Puticastillo)
 }
 
 # 1. CANALES DESDE GOOGLE SHEETS
@@ -35,7 +36,7 @@ CHANNELS = [
     {"id": "telesistema.ar", "name": "telesistema", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=503971923&single=true&output=csv"},
 ]
 
-# 2. FUENTES XML EXTERNAS
+# 2. FUENTES XML EXTERNAS (Soporta .gz y .xml)
 EXTERNAL_SOURCES = [
     {
         "url": "https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/vilma/guia-de-programacion.xml",
@@ -80,7 +81,7 @@ EXTERNAL_SOURCES = [
         "ids": ["Magic Kids Tv", "Ani Retro", "El Chavo", "Cine Sony", "Tv Retro Palmares"]
     },
     {
-        "url": "https://epg.pw/xmltv/epg_US.xml",
+        "url": "https://epg.pw/xmltv/epg_US.xml.gz",
         "ids": ["464956", "464775"]
     }
 ]
@@ -91,10 +92,17 @@ OUTPUT_FILE = "epg.xml"
 # ─── FUNCIONES DE APOYO ──────────────────────────────────────────────────────
 
 def fetch_url(url):
+    """Descarga contenido y lo descomprime automáticamente si es GZIP."""
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0', 'Accept-Encoding': 'gzip'})
         with urllib.request.urlopen(req) as r:
-            return r.read()
+            content = r.read()
+            
+            # Verificar firma de GZIP (Magic number 0x1f 0x8b)
+            if content.startswith(b'\x1f\x8b'):
+                with gzip.GzipFile(fileobj=io.BytesIO(content)) as gz:
+                    return gz.read()
+            return content
     except Exception as e:
         print(f"  ❌ Error de conexión con {url} → {e}")
         return None
@@ -155,20 +163,24 @@ def process_external_sources(sources):
                 programmes = []
                 for prog in root.findall(f"./programme[@channel='{ch_id}']"):
                     fmt = "%Y%m%d%H%M%S %z"
-                    s_dt = datetime.strptime(prog.get("start"), fmt).astimezone(tz_arg)
-                    e_dt = datetime.strptime(prog.get("stop"), fmt).astimezone(tz_arg)
-                    
-                    if hour_offset != 0:
-                        s_dt += timedelta(hours=hour_offset)
-                        e_dt += timedelta(hours=hour_offset)
-                    
-                    title = prog.find("title").text if prog.find("title") is not None else "Sin título"
-                    desc = prog.find("desc").text if prog.find("desc") is not None else ""
-                    programmes.append((s_dt, e_dt, title, desc, ch_id))
+                    try:
+                        s_dt = datetime.strptime(prog.get("start"), fmt).astimezone(tz_arg)
+                        e_dt = datetime.strptime(prog.get("stop"), fmt).astimezone(tz_arg)
+                        
+                        if hour_offset != 0:
+                            s_dt += timedelta(hours=hour_offset)
+                            e_dt += timedelta(hours=hour_offset)
+                        
+                        title = prog.find("title").text if prog.find("title") is not None else "Sin título"
+                        desc = prog.find("desc").text if prog.find("desc") is not None else ""
+                        programmes.append((s_dt, e_dt, title, desc, ch_id))
+                    except:
+                        continue
                 
-                offset_msg = f" [Ajuste: {hour_offset}hs]" if hour_offset != 0 else ""
-                print(f"  ✅ Canal Externo: {ch_name} [{ch_id}] → {len(programmes)} programas{offset_msg}")
-                data.append({"id": ch_id, "name": ch_name, "programmes": programmes})
+                if programmes:
+                    offset_msg = f" [Ajuste: {hour_offset}hs]" if hour_offset != 0 else ""
+                    print(f"  ✅ Canal Externo: {ch_name} [{ch_id}] → {len(programmes)} programas{offset_msg}")
+                    data.append({"id": ch_id, "name": ch_name, "programmes": programmes})
         except Exception as e:
             print(f"  ❌ Error procesando XML: {e}")
     return data
@@ -251,7 +263,7 @@ def write_final_xml(channels_data):
 
 def main():
     final_data = []
-    print("🚀 Iniciando generación de EPG unificada...\n")
+    print("🚀 Iniciando generación de EPG unificada con soporte GZ...\n")
 
     for ch in CHANNELS:
         content = fetch_url(ch["url"])
@@ -271,6 +283,10 @@ def main():
 
     external_channels = process_external_sources(EXTERNAL_SOURCES)
     final_data.extend(external_channels)
+
+    if not final_data:
+        print("⚠️ No hay datos para generar el archivo.")
+        return
 
     xml_output, total_programs = write_final_xml(final_data)
     with open(OUTPUT_FILE, "w", encoding="utf-8-sig") as f:
