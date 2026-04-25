@@ -466,6 +466,9 @@
   <channel id="M+.Clásicos.es">
     <display-name>M+ Clásicos</display-name>
   </channel>
+  <channel id="that-s-80s">
+    <display-name>That&#x27;s 80s</display-name>
+  </channel>
   <programme start="20260425000000 -0300" stop="20260425020000 -0300" channel="radio10.ar">
     <title lang="es">La medianoche (Carlos Polimeni)</title>
     <desc lang="es">Cultura, música, reflexiones y una mirada crítica de la realidad.</desc>
@@ -11228,7 +11231,7 @@
     <title lang="es">Mórbido TV</title>
     <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260425062021 -0300" stop="20260425073209 -0300" channel="504">
+  <programme start="20260425062413 -0300" stop="20260425073209 -0300" channel="504">
     <title lang="es">Pesadilla en la calle Elm</title>
   </programme>
   <programme start="20260425073340 -0300" stop="20260425091130 -0300" channel="504">
@@ -11303,7 +11306,7 @@
   <programme start="20260427041657 -0300" stop="20260427055859 -0300" channel="504">
     <title lang="es">La Pequeña Picara</title>
   </programme>
-  <programme start="20260427060040 -0300" stop="20260427062021 -0300" channel="504">
+  <programme start="20260427060040 -0300" stop="20260427062413 -0300" channel="504">
     <title lang="es">Asesinos Con Estilo</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="531">
@@ -11594,7 +11597,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="532">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425062021 -0300" stop="20260425065352 -0300" channel="536">
+  <programme start="20260425062413 -0300" stop="20260425065352 -0300" channel="536">
     <title lang="es">Isla de Lemures - Madagascar</title>
   </programme>
   <programme start="20260425065457 -0300" stop="20260425080443 -0300" channel="536">
@@ -11744,10 +11747,10 @@
   <programme start="20260427051056 -0300" stop="20260427061056 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427061056 -0300" stop="20260427062021 -0300" channel="536">
+  <programme start="20260427061056 -0300" stop="20260427062413 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425062021 -0300" stop="20260425062654 -0300" channel="537">
+  <programme start="20260425062413 -0300" stop="20260425062654 -0300" channel="537">
     <title lang="es">La Dimensión Desconocida</title>
   </programme>
   <programme start="20260425063012 -0300" stop="20260425065428 -0300" channel="537">
@@ -11942,7 +11945,7 @@
   <programme start="20260427043753 -0300" stop="20260427053753 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427053753 -0300" stop="20260427062021 -0300" channel="537">
+  <programme start="20260427053753 -0300" stop="20260427062413 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="538">
@@ -12089,7 +12092,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260425062021 -0300" stop="20260425064241 -0300" channel="539">
+  <programme start="20260425062413 -0300" stop="20260425064241 -0300" channel="539">
     <title lang="es">(1993) - Cazador Citadino</title>
   </programme>
   <programme start="20260425064241 -0300" stop="20260425082700 -0300" channel="539">
@@ -12176,7 +12179,7 @@
   <programme start="20260427042859 -0300" stop="20260427061602 -0300" channel="539">
     <title lang="es">(1990) - Matrimonio por Conveniencia</title>
   </programme>
-  <programme start="20260427061602 -0300" stop="20260427062021 -0300" channel="539">
+  <programme start="20260427061602 -0300" stop="20260427062413 -0300" channel="539">
     <title lang="es">(1999) - Buscando A Eva</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="567">
@@ -12899,7 +12902,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="608">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425062021 -0300" stop="20260425070000 -0300" channel="663">
+  <programme start="20260425062413 -0300" stop="20260425070000 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="663">
@@ -12935,10 +12938,10 @@
   <programme start="20260426200000 -0300" stop="20260427000000 -0300" channel="663">
     <title lang="es">Noche de Western</title>
   </programme>
-  <programme start="20260427000000 -0300" stop="20260427062021 -0300" channel="663">
+  <programme start="20260427000000 -0300" stop="20260427062413 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
-  <programme start="20260425062021 -0300" stop="20260425080000 -0300" channel="664">
+  <programme start="20260425062413 -0300" stop="20260425080000 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260425080000 -0300" stop="20260425120000 -0300" channel="664">
@@ -12962,7 +12965,7 @@
   <programme start="20260426170000 -0300" stop="20260426200000 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
-  <programme start="20260426200000 -0300" stop="20260427062021 -0300" channel="664">
+  <programme start="20260426200000 -0300" stop="20260427062413 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260425092300 -0300" stop="20260425102300 -0300" channel="66a11a21a79dea0008aa90ca">
@@ -20786,5 +20789,197 @@
   <programme start="20260427205000 -0300" stop="20260427230200 -0300" channel="M+.Clásicos.es">
     <title lang="es">Cuentos de Tokio</title>
     <desc lang="es">Una pareja mayor decide viajar a Tokio para visitar a sus hijos, uno de ellos convertido en el médico de su barrio, después de que las guerras civiles de Japón los hubieran separado. Pero las cosas habrán cambiado bastante y sentirán el abismo que reina tanto entre las generaciones como entre los habitantes del campo y entre los de la ciudad.</desc>
+  </programme>
+  <programme start="20260424203001 -0300" stop="20260424210000 -0300" channel="that-s-80s">
+    <title lang="es">Get Fresh At The Weekend!</title>
+    <desc lang="es">Música • TP
+
+•  It&#x27;s the weekend, and we&#x27;re showing out! Classic pop that has stood the test of time.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424210001 -0300" stop="20260424220000 -0300" channel="that-s-80s">
+    <title lang="es">Eurovision: The Highs &amp; Lows!</title>
+    <desc lang="es">Música • TP
+
+•  Duncan James &amp; his band Blue represented the UK in 2011 - coming 11th! But there have been far bigger winners &amp; losers over 50 years - here are 2 hours of highs - and lows!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424220001 -0300" stop="20260425014000 -0300" channel="that-s-80s">
+    <title lang="es">NOW 100 Hits: Love Songs!</title>
+    <desc lang="es">Música • TP
+
+•  Simon Bates with the ultimate countdown of 80s love. Yes - 100 songs with heartfelt vocals, lush strings &amp; big breakdowns in a 9 hour marathon! Expect Whitney, Lionel &amp; George.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425014001 -0300" stop="20260425020000 -0300" channel="that-s-80s">
+    <title lang="es">Endless Love! All Day</title>
+    <desc lang="es">Música • TP
+
+•  All day long - classic 80s love songs from the NOW That&#x27;s What I Call Music archive. Timeless anthems of passion and heartbreak.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425020001 -0300" stop="20260425040000 -0300" channel="that-s-80s">
+    <title lang="es">Wot? They Streamed a Billion?</title>
+    <desc lang="es">Música • TP
+
+•  What 80s songs have streamed over a billion times worldwide in the decades since? There are lots from Queen, Guns n Roses, Bon Jovi &amp; AC/DC, but the top 3 might surprise you!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425040001 -0300" stop="20260425150500 -0300" channel="that-s-80s">
+    <title lang="es">Every Number 1 of the 80s!</title>
+    <desc lang="es">Música • TP
+
+•  In order - Mark Goodier&#x27;s 11 hour journey through the decade&#x27;s biggest number 1 songs, from Abba and Adam Ant, to Wham, Madonna, Rick Astley and Kylie Minogue.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425150501 -0300" stop="20260425160000 -0300" channel="that-s-80s">
+    <title lang="es">The Saturday Night 80s Party!</title>
+    <desc lang="es">Música • TP
+
+•  All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world! 
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425160001 -0300" stop="20260425183000 -0300" channel="that-s-80s">
+    <title lang="es">Tony Hadley&#x27;s Solid Gold Anthems!</title>
+    <desc lang="es">Música • TP
+
+•  Tony flashes back to the 80s and picks 30 Solid Gold Anthems. Expect Blondie, ABC, Level 42, OMD, A-Ha &amp; of course some Spandau Ballet classics.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425183001 -0300" stop="20260425190000 -0300" channel="that-s-80s">
+    <title lang="es">The Saturday Night 80s Party!</title>
+    <desc lang="es">Música • TP
+
+•  All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world! 
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425190001 -0300" stop="20260425220000 -0300" channel="that-s-80s">
+    <title lang="es">40 Feelgood But Forgotten Favs!</title>
+    <desc lang="es">Música • TP
+
+•  You&#x27;ll know the tunes, but we bet you haven&#x27;t heard these 40 feelgood favourites in years! From Jackie Wilson &amp; JoBoxers to Nick Kamen &amp; Stevie Wonder.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425220001 -0300" stop="20260426030500 -0300" channel="that-s-80s">
+    <title lang="es">Every Number 1 of the 80s!</title>
+    <desc lang="es">Música • TP
+
+•  In order - Mark Goodier&#x27;s 11 hour journey through the decade&#x27;s biggest number 1 songs, from Abba and Adam Ant, to Wham, Madonna, Rick Astley and Kylie Minogue.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426030501 -0300" stop="20260426040000 -0300" channel="that-s-80s">
+    <title lang="es">The Saturday Night 80s Party!</title>
+    <desc lang="es">Música • TP
+
+•  All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world! 
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426040001 -0300" stop="20260426054500 -0300" channel="that-s-80s">
+    <title lang="es">Eurovision: The Highs &amp; Lows!</title>
+    <desc lang="es">Música • TP
+
+•  Duncan James &amp; his band Blue represented the UK in 2011 - coming 11th! But there have been far bigger winners &amp; losers over 50 years - here are 2 hours of highs - and lows!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426054501 -0300" stop="20260426060000 -0300" channel="that-s-80s">
+    <title lang="es">Get Fresh At The Weekend!</title>
+    <desc lang="es">Música • TP
+
+•  It&#x27;s the weekend, and we&#x27;re showing out! Classic pop that has stood the test of time.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426060001 -0300" stop="20260426074000 -0300" channel="that-s-80s">
+    <title lang="es">Cartoon Capers! 80s Animated Vids</title>
+    <desc lang="es">Música • TP
+
+•  If you thought video effects started with digital in the 90s - just look at these! Pushing the boundaries to make amazing animations - and some puppets!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426074001 -0300" stop="20260426080000 -0300" channel="that-s-80s">
+    <title lang="es">Get Fresh At The Weekend!</title>
+    <desc lang="es">Música • TP
+
+•  It&#x27;s the weekend, and we&#x27;re showing out! Classic pop that has stood the test of time.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426080001 -0300" stop="20260426102000 -0300" channel="that-s-80s">
+    <title lang="es">Eat To The Beat! Top 30</title>
+    <desc lang="es">Música • TP
+
+•  Food glorious food! The 70s &amp; 80s were full of edible bands &amp; songs, and TV chef Rustie Lee has raided the fridge &amp; pantry to serve up pop&#x27;s sweet treats. It&#x27;s going to be a riot!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426102001 -0300" stop="20260426110000 -0300" channel="that-s-80s">
+    <title lang="es">Soft Rock &amp; Power Pop!</title>
+    <desc lang="es">Música • TP
+
+•  From the decade that invented the genre - non-stop powerful love songs, back to back.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426110001 -0300" stop="20260426140000 -0300" channel="that-s-80s">
+    <title lang="es">Carol Decker&#x27;s Power No.1s!</title>
+    <desc lang="es">Música • TP
+
+•  Many of the big power hits that we know &amp; love today were released during the 80s, and the best reached No.1 either here or in the USA. Carol blasts through the decade - in order!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426140001 -0300" stop="20260426150000 -0300" channel="that-s-80s">
+    <title lang="es">Simple Minds v Deacon Blue </title>
+    <desc lang="es">Música • TP
+
+•  Battle of the Glasgow 80s supergroups as Simple Minds go up against Deacon Blue!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426150001 -0300" stop="20260426173500 -0300" channel="that-s-80s">
+    <title lang="es">Clare Grogan&#x27;s Tartan Top 30</title>
+    <desc lang="es">Música • TP
+
+•  In the 80s the Scottish scene was vibrant &amp; creative with punk, indie, synth, acoustic &amp; Celtic folk influences topping the charts. Altered Images&#x27; Clare Grogan has 30 of the best.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426173501 -0300" stop="20260426180000 -0300" channel="that-s-80s">
+    <title lang="es">Best Played at 45 RPM!</title>
+    <desc lang="es">Música • TP
+
+•  Before the CD, the perfect pop songs were spun by singers &amp; bands on 7 inch vinyl. From 1980-1984 these were the classic UK hits that invaded the world!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426180001 -0300" stop="20260426200000 -0300" channel="that-s-80s">
+    <title lang="es">Liverpool Legends! The Top 25</title>
+    <desc lang="es">Música • TP
+
+•  Liverpool has a huge musical heritage, so let&#x27;s celebrate with two hours of the city&#x27;s top stars of the 80s like Frankie Goes To Hollywood, Sonia, OMD, plus three of the Fab Four!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426200001 -0300" stop="20260426214500 -0300" channel="that-s-80s">
+    <title lang="es">Paul McCartney 1970-1989</title>
+    <desc lang="es">Música • TP
+
+•  Headlining Glastonbury at 80 was just another day in the office for Paul McCartney! Here are his post-Beatles greatest hits from the 70s &amp; 80s.
+
+ • rakuten</desc>
   </programme>
 </tv>
