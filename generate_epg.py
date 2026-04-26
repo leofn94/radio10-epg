@@ -57,7 +57,7 @@ EXTERNAL_SOURCES = [
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml",
-        "ids": ["ESBC4100004J1", "ESBC400003YM", "ES3400004SS", "ESBA3300024AJ", "ES300029LP", "ES3000288I", "ESBC1700004PX", "ESBC2700003T8", "ES2600013H4"]
+        "ids": ["ESBC4100004J1", "ESBC400003YM", "ES3400004SS", "ESBA3300024AJ", "ES300029LP", "ES3000288I", "ESBC1700004PX", "ESBC2700003T8", "ES2600013H4", "ESBC40000248"]
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml",
@@ -100,7 +100,7 @@ EXTERNAL_SOURCES = [
     },
     {
         "url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-        "ids": ["M+.Estrenos.es", "M+ Accion.es", "Be.Mad.es", "C.Hollywood.es", "XTRM.es", "Dark.es", "TCM.es", "M+.Clásicos.es"]
+        "ids": ["M+.Estrenos.es", "M+.Acción.es", "Be.Mad.es", "C.Hollywood.es", "XTRM.es", "Dark.es", "TCM.es", "M+.Clásicos.es"]
     },
     {
         "url": "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/epg/RakutenTV.xml.gz",
